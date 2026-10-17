@@ -1,0 +1,2599 @@
+{
+"node": "information",
+"subnode": "everyday",
+"topics": [
+"food and cooking facts",
+"sports and their rules",
+"health and the human body",
+"common animals and plants"
+],
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+],
+"generated": "2026-10-08T17:29:09Z",
+"count": 215,
+"facts": [
+[
+"pizza",
+"is_a",
+"food"
+],
+[
+"sushi",
+"is_a",
+"food"
+],
+[
+"bread",
+"is_a",
+"food"
+],
+[
+"cheese",
+"is_a",
+"food"
+],
+[
+"tomato",
+"is_a",
+"food"
+],
+[
+"onion",
+"is_a",
+"food"
+],
+[
+"garlic",
+"is_a",
+"food"
+],
+[
+"olive oil",
+"is_a",
+"food"
+],
+[
+"salt",
+"is_a",
+"food"
+],
+[
+"pepper",
+"is_a",
+"food"
+],
+[
+"water",
+"is_a",
+"food"
+],
+[
+"egg",
+"is_a",
+"food"
+],
+[
+"milk",
+"is_a",
+"food"
+],
+[
+"flour",
+"is_a",
+"food"
+],
+[
+"sugar",
+"is_a",
+"food"
+],
+[
+"rice",
+"is_a",
+"food"
+],
+[
+"pasta",
+"is_a",
+"food"
+],
+[
+"chicken",
+"is_a",
+"food"
+],
+[
+"beef",
+"is_a",
+"food"
+],
+[
+"fish",
+"is_a",
+"food"
+],
+[
+"baking",
+"definition",
+"the process of cooking food using dry heat, typically in an oven"
+],
+[
+"frying",
+"definition",
+"the process of cooking food in hot oil or fat"
+],
+[
+"boiling",
+"definition",
+"the process of cooking food in boiling water or other liquid"
+],
+[
+"steaming",
+"definition",
+"the process of cooking food with steam"
+],
+[
+"grilling",
+"definition",
+"the process of cooking food over direct heat, usually on a grill"
+],
+[
+"roasting",
+"definition",
+"the process of cooking food with dry heat in an oven or over a fire"
+],
+[
+"sautéing",
+"definition",
+"the process of cooking food quickly in a small amount of fat over relatively high heat"
+],
+[
+"simmering",
+"definition",
+"the process of cooking food in liquid just below the boiling point"
+],
+[
+"fermentation",
+"definition",
+"the metabolic process that converts sugar to acids, gases, or alcohol using microorganisms"
+],
+[
+"yeast",
+"is_a",
+"ingredient"
+],
+[
+"flour",
+"definition",
+"a powder made by grinding cereal grains, seeds, or roots, used in baking"
+],
+[
+"sugar",
+"definition",
+"a sweet crystalline substance obtained from sugarcane or sugar beet, used to sweeten food"
+],
+[
+"salt",
+"definition",
+"a mineral composed primarily of sodium chloride, used to season and preserve food"
+],
+[
+"pepper",
+"definition",
+"a spice made from dried berries of the Piper nigrum plant, used to add heat and flavor"
+],
+[
+"olive oil",
+"definition",
+"a liquid fat obtained from olives, used in cooking and dressings"
+],
+[
+"egg",
+"definition",
+"a reproductive body laid by birds, commonly used as food and in cooking"
+],
+[
+"milk",
+"definition",
+"a nutrient-rich liquid food produced by mammals, commonly consumed by humans"
+],
+[
+"rice",
+"definition",
+"a starchy grain that is a staple food for over half the world's population"
+],
+[
+"pasta",
+"definition",
+"a food made from unleavened dough of wheat flour mixed with water or eggs, formed into sheets or shapes"
+],
+[
+"bread",
+"definition",
+"a staple food prepared by baking a dough of flour and water, usually with yeast"
+],
+[
+"cheese",
+"definition",
+"a dairy product derived from milk that is produced in a wide range of flavors, textures, and forms"
+],
+[
+"tomato",
+"definition",
+"a red, edible berry of the plant Solanum lycopersicum, commonly used as a vegetable in cooking"
+],
+[
+"onion",
+"definition",
+"a vegetable that is the most widely cultivated species of the genus Allium, used for its pungent flavor"
+],
+[
+"garlic",
+"definition",
+"a species in the onion genus, Allium, whose bulb is used as a flavoring in cooking"
+],
+[
+"What is the main ingredient in traditional hummus?",
+"answer",
+"The main ingredient in traditional hummus is cooked, mashed chickpeas."
+],
+[
+"Which spice gives curry its characteristic yellow color?",
+"answer",
+"Turmeric gives curry its characteristic yellow color."
+],
+[
+"What is the process called when yeast converts sugar into alcohol and carbon dioxide?",
+"answer",
+"The process is called fermentation."
+],
+[
+"What part of the onion is typically used in cooking?",
+"answer",
+"The bulb of the onion is typically used in cooking."
+],
+[
+"What is the primary protein found in eggs?",
+"answer",
+"The primary protein found in eggs is albumin."
+],
+[
+"Which grain is the staple food for over half of the world's population?",
+"answer",
+"Rice is the staple food for over half of the world's population."
+],
+[
+"What is the difference between baking soda and baking powder?",
+"answer",
+"Baking soda requires an acid to activate, while baking powder contains both an acid and a base and activates with moisture and heat."
+],
+[
+"What is the Maillard reaction?",
+"answer",
+"The Maillard reaction is a chemical reaction between amino acids and reducing sugars that gives browned food its distinctive flavor."
+],
+[
+"Which vitamin is abundant in citrus fruits and important for immune function?",
+"answer",
+"Vitamin C is abundant in citrus fruits and important for immune function."
+],
+[
+"What is the term for cooking food slowly in liquid at a low temperature?",
+"answer",
+"The term is braising."
+],
+[
+"What is the main sugar found in milk?",
+"answer",
+"The main sugar found in milk is lactose."
+],
+[
+"Which herb is commonly used in pesto sauce?",
+"answer",
+"Basil is commonly used in pesto sauce."
+],
+[
+"What is the difference between a yam and a sweet potato?",
+"answer",
+"Yams and sweet potatoes are botanically distinct; true yams are starchier and drier, while sweet potatoes are sweeter and moister, and what is often labeled 'yam' in the U.S. is usually a sweet potato variety."
+],
+[
+"What is the purpose of letting dough rise before baking?",
+"answer",
+"Letting dough rise allows yeast to produce carbon dioxide, which creates air pockets and makes the bread light and fluffy."
+],
+[
+"Which fruit is known for having its seeds on the outside?",
+"answer",
+"The strawberry is known for having its seeds on the outside."
+],
+[
+"What is the name of the white, starchy part inside a grain kernel?",
+"answer",
+"The white, starchy part inside a grain kernel is called the endosperm."
+],
+[
+"What cooking method involves submerging food in hot oil?",
+"answer",
+"Deep-frying involves submerging food in hot oil."
+],
+[
+"What is the main component of table salt?",
+"answer",
+"The main component of table salt is sodium chloride."
+],
+[
+"Which legume is the primary ingredient in falafel?",
+"answer",
+"Chickpeas or fava beans are the primary ingredients in falafel."
+],
+[
+"What is the term for the liquid that separates from yogurt?",
+"answer",
+"The liquid that separates from yogurt is called whey."
+],
+[
+"What is the difference between broth and stock?",
+"answer",
+"Stock is made primarily from bones and simmered longer for gelatin, while broth is made from meat and/or vegetables and is typically lighter and seasoned."
+],
+[
+"Which nut is technically a seed?",
+"answer",
+"The peanut is technically a legume, but among common nuts, the almond is a seed of the fruit of the almond tree."
+],
+[
+"What is the purpose of adding salt to boiling pasta water?",
+"answer",
+"Adding salt to boiling pasta water enhances the flavor of the pasta from the inside out."
+],
+[
+"What is the name of the thick, creamy layer that forms on top of milk when heated?",
+"answer",
+"The thick, creamy layer that forms on top of milk when heated is called a skin or lactoderm."
+],
+[
+"Which cooking technique involves cooking food in a small amount of fat over relatively high heat?",
+"answer",
+"Sautéing involves cooking food in a small amount of fat over relatively high heat."
+],
+[
+"What is the main ingredient in miso soup?",
+"answer",
+"The main ingredient in miso soup is miso paste, made from fermented soybeans."
+],
+[
+"What is the term for the edible part of a fruit that develops from the ovary?",
+"answer",
+"The edible part of a fruit that develops from the ovary is called the pericarp."
+],
+[
+"What is the difference between white and brown sugar?",
+"answer",
+"Brown sugar contains molasses, which gives it moisture and a deeper flavor, while white sugar is refined sucrose with molasses removed."
+],
+[
+"Which vegetable is known for causing tears when chopped due to sulfur compounds?",
+"answer",
+"Onions are known for causing tears when chopped due to the release of sulfur compounds that form irritant gases."
+],
+[
+"What is the name of the process where milk is heated to kill harmful bacteria?",
+"answer",
+"The process is called pasteurization."
+],
+[
+"What is the primary fat used in traditional French pastry?",
+"answer",
+"Butter is the primary fat used in traditional French pastry."
+],
+[
+"What is the term for cooking food in its own juices in a covered dish?",
+"answer",
+"The term is stewing."
+],
+[
+"Which grain is used to make traditional Italian polenta?",
+"answer",
+"Cornmeal is used to make traditional Italian polenta."
+],
+[
+"What is the name of the sweet, sticky substance produced by bees?",
+"answer",
+"Honey is the sweet, sticky substance produced by bees."
+],
+[
+"What is the difference between a fruit and a vegetable botanically?",
+"answer",
+"Botanically, a fruit develops from the flower and contains seeds, while a vegetable is any other edible part of the plant, such as roots, stems, or leaves."
+],
+[
+"What is the main ingredient in tahini?",
+"answer",
+"The main ingredient in tahini is ground sesame seeds."
+],
+[
+"What is the purpose of blanching vegetables before freezing?",
+"answer",
+"Blanching vegetables before freezing stops enzyme activity that can cause loss of flavor, color, and texture."
+],
+[
+"Which spice is derived from the dried stigma of a flower?",
+"answer",
+"Saffron is derived from the dried stigma of the Crocus sativus flower."
+],
+[
+"What is the name of the liquid that results from simmering bones, vegetables, and herbs?",
+"answer",
+"The liquid is called stock."
+],
+[
+"What is the term for the outer layer of a grain kernel that contains fiber and nutrients?",
+"answer",
+"The outer layer of a grain kernel that contains fiber and nutrients is called the bran."
+],
+[
+"What is the main protein in wheat flour that gives bread its elasticity?",
+"answer",
+"The main protein in wheat flour that gives bread its elasticity is gluten."
+],
+[
+"What is the difference between a sauce and a gravy?",
+"answer",
+"Gravy is typically made from the juices of cooked meat, often thickened with flour or cornstarch, while a sauce is a broader category of liquid or semi-liquid condiments that may not be meat-based."
+],
+[
+"Which fruit is known for having a pit that contains cyanide compounds?",
+"answer",
+"Apricots, peaches, plums, and cherries have pits that contain amygdalin, which can release cyanide when metabolized."
+],
+[
+"What is the name of the Japanese seasoning made from fermented soybeans, rice, or barley?",
+"answer",
+"Miso is the Japanese seasoning made from fermented soybeans, rice, or barley."
+],
+[
+"What is the term for cooking food quickly in a small amount of oil over high heat, often stirring?",
+"answer",
+"The term is stir-frying."
+],
+[
+"What is the main ingredient in traditional guacamole?",
+"answer",
+"The main ingredient in traditional guacamole is mashed avocado."
+],
+[
+"What is the purpose of letting meat rest after cooking?",
+"answer",
+"Letting meat rest after cooking allows the juices to redistribute, resulting in a moister and more tender final product."
+],
+[
+"football",
+"definition",
+"a team sport played with a spherical ball where two teams of eleven players attempt to score goals by moving the ball into the opposing team's net"
+],
+[
+"basketball",
+"definition",
+"a team sport where two teams of five players score points by shooting a ball through a hoop elevated 10 feet above the court"
+],
+[
+"baseball",
+"definition",
+"a bat-and-ball game played between two teams of nine players who take turns batting and fielding to score runs"
+],
+[
+"tennis",
+"definition",
+"a racket sport where players hit a ball over a net into the opponent's court, aiming to make it unreturnable"
+],
+[
+"soccer",
+"alias_of",
+"football"
+],
+[
+"american football",
+"definition",
+"a team sport played with an oval ball where two teams of eleven players attempt to advance the ball into the opponent's end zone to score touchdowns"
+],
+[
+"rugby",
+"definition",
+"a contact team sport where players carry, pass, or kick an oval ball to score points by grounding it over the opponent's goal line"
+],
+[
+"cricket",
+"definition",
+"a bat-and-ball game played between two teams of eleven players on a field with a 22-yard pitch, where runs are scored by hitting the ball and running between wickets"
+],
+[
+"golf",
+"definition",
+"a club-and-ball sport where players use various clubs to hit balls into a series of holes on a course in as few strokes as possible"
+],
+[
+"volleyball",
+"definition",
+"a team sport where two teams of six players hit a ball over a net, aiming to ground it on the opponent's side of the court"
+],
+[
+"hockey",
+"definition",
+"a team sport played on ice or field where players use sticks to hit a puck or ball into the opponent's goal"
+],
+[
+"ice hockey",
+"definition",
+"a fast-paced team sport played on ice where skaters use sticks to shoot a rubber puck into the opponent's net"
+],
+[
+"field hockey",
+"definition",
+"a team sport played on grass or turf where players use sticks to hit a hard ball into the opponent's goal"
+],
+[
+"badminton",
+"definition",
+"a racket sport where players hit a shuttlecock across a net, aiming to land it in the opponent's court"
+],
+[
+"table tennis",
+"definition",
+"a sport played on a hard table divided by a net, where players hit a lightweight ball back and forth using small rackets"
+],
+[
+"swimming",
+"definition",
+"a sport involving propelling oneself through water using arm and leg movements, typically in races over set distances"
+],
+[
+"track and field",
+"definition",
+"a collection of athletic events involving running, jumping, and throwing, conducted on a track and field"
+],
+[
+"marathon",
+"definition",
+"a long-distance running race with an official distance of 42.195 kilometers (26.2 miles)"
+],
+[
+"triathlon",
+"definition",
+"a multisport race consisting of swimming, cycling, and running completed in immediate succession"
+],
+[
+"cycling",
+"definition",
+"a sport involving the use of bicycles for racing, endurance, or recreation over various terrains and distances"
+],
+[
+"boxing",
+"definition",
+"a combat sport where two participants throw punches at each other with gloved hands in a ring for a predetermined number of rounds"
+],
+[
+"wrestling",
+"definition",
+"a combat sport involving grappling techniques such as clinch fighting, throws, takedowns, joint locks, and pins"
+],
+[
+"judo",
+"definition",
+"a modern Japanese martial art and combat sport focused on throws and takedowns to immobilize or subdue an opponent"
+],
+[
+"karate",
+"definition",
+"a martial art developed in Okinawa involving striking techniques such as punches, kicks, knee strikes, and open-hand techniques"
+],
+[
+"taekwondo",
+"definition",
+"a Korean martial art characterized by high, fast kicks and jumping and spinning kicks"
+],
+[
+"fencing",
+"definition",
+"a combat sport where two competitors fight using rapier-style swords, scoring points by making contact with the opponent's body"
+],
+[
+"archery",
+"definition",
+"a sport involving the use of a bow to shoot arrows at a target for accuracy from set distances"
+],
+[
+"shooting",
+"definition",
+"a sport involving the use of firearms or air guns to hit targets with precision at various distances"
+],
+[
+"weightlifting",
+"definition",
+"a sport where athletes attempt to lift maximum weight in two lifts: the snatch and the clean and jerk"
+],
+[
+"powerlifting",
+"definition",
+"a strength sport consisting of three attempts at maximal weight on three lifts: squat, bench press, and deadlift"
+],
+[
+"skiing",
+"definition",
+"a sport or recreational activity where participants use skis to glide on snow, including alpine, cross-country, and freestyle disciplines"
+],
+[
+"snowboarding",
+"definition",
+"a winter sport where participants descend a snow-covered slope while standing on a board attached to their feet"
+],
+[
+"surfing",
+"definition",
+"a surface water sport where an individual rides a board on the crest of a moving wave toward the shore"
+],
+[
+"rowing",
+"definition",
+"a sport where athletes propel a boat using oars, competing in races over set distances on water"
+],
+[
+"sailing",
+"definition",
+"a sport involving the use of wind to propel a vessel across water, competing in races or navigating courses"
+],
+[
+"equestrian",
+"definition",
+"a sport involving horseback riding, including disciplines such as dressage, show jumping, and eventing"
+],
+[
+"figure skating",
+"definition",
+"a sport where individuals, pairs, or groups perform spins, jumps, and footwork on ice to music"
+],
+[
+"speed skating",
+"definition",
+"a competitive form of ice skating where athletes race each other over set distances on an ice oval"
+],
+[
+"curling",
+"definition",
+"a team sport played on ice where players slide stones toward a target area, using brooms to influence the stone's path"
+],
+[
+"lacrosse",
+"definition",
+"a team sport played with a small rubber ball and long-handled sticks called crosses, where players aim to score by shooting the ball into the opponent's goal"
+],
+[
+"ultimate frisbee",
+"definition",
+"a non-contact team sport played with a flying disc where points are scored by passing the disc to a teammate in the opposing end zone"
+],
+[
+"What is the primary function of the human heart?",
+"answer",
+"The primary function of the human heart is to pump blood throughout the body to deliver oxygen and nutrients to tissues and remove waste products."
+],
+[
+"How many bones are in the adult human skeleton?",
+"answer",
+"The adult human skeleton typically consists of 206 bones."
+],
+[
+"What is the largest organ in the human body?",
+"answer",
+"The largest organ in the human body is the skin."
+],
+[
+"What does the respiratory system primarily exchange with the environment?",
+"answer",
+"The respiratory system primarily exchanges oxygen and carbon dioxide with the environment."
+],
+[
+"What is the main role of red blood cells in the bloodstream?",
+"answer",
+"The main role of red blood cells is to carry oxygen from the lungs to the body's tissues and return carbon dioxide to the lungs for exhalation."
+],
+[
+"Which part of the brain is responsible for regulating basic life functions such as breathing and heart rate?",
+"answer",
+"The brainstem is responsible for regulating basic life functions such as breathing and heart rate."
+],
+[
+"What is the function of the kidneys in the human body?",
+"answer",
+"The kidneys filter waste products and excess fluids from the blood to produce urine, helping maintain fluid and electrolyte balance."
+],
+[
+"What type of muscle is found in the walls of the heart?",
+"answer",
+"Cardiac muscle is found in the walls of the heart."
+],
+[
+"What is the purpose of the immune system?",
+"answer",
+"The purpose of the immune system is to defend the body against pathogens such as bacteria, viruses, and other harmful substances."
+],
+[
+"Where does gas exchange occur in the lungs?",
+"answer",
+"Gas exchange occurs in the alveoli of the lungs."
+],
+[
+"What is the function of insulin in the body?",
+"answer",
+"Insulin helps regulate blood glucose levels by facilitating the uptake of glucose into cells for energy or storage."
+],
+[
+"What is the name of the fluid that surrounds and protects the brain and spinal cord?",
+"answer",
+"The fluid that surrounds and protects the brain and spinal cord is cerebrospinal fluid."
+],
+[
+"What is the main function of the liver?",
+"answer",
+"The main function of the liver is to process nutrients, detoxify harmful substances, produce bile, and regulate metabolism."
+],
+[
+"What are the three main types of blood vessels in the circulatory system?",
+"answer",
+"The three main types of blood vessels are arteries, veins, and capillaries."
+],
+[
+"What does the term 'homeostasis' mean in biology?",
+"answer",
+"Homeostasis refers to the body's ability to maintain a stable internal environment despite changes in external conditions."
+],
+[
+"What is the role of platelets in blood?",
+"answer",
+"Platelets help in blood clotting to prevent excessive bleeding when blood vessels are injured."
+],
+[
+"What is the basic unit of structure and function in living organisms?",
+"answer",
+"The basic unit of structure and function in living organisms is the cell."
+],
+[
+"What is the function of the diaphragm in respiration?",
+"answer",
+"The diaphragm contracts and flattens during inhalation to increase the volume of the thoracic cavity, allowing the lungs to expand and draw in air."
+],
+[
+"What is the name of the process by which cells produce energy using oxygen?",
+"answer",
+"The process by which cells produce energy using oxygen is called cellular respiration."
+],
+[
+"What part of the eye controls the amount of light entering the pupil?",
+"answer",
+"The iris controls the amount of light entering the pupil by adjusting its size."
+],
+[
+"What is the function of the small intestine in digestion?",
+"answer",
+"The small intestine is primarily responsible for the digestion and absorption of nutrients from food."
+],
+[
+"What is the name of the bone that protects the brain?",
+"answer",
+"The skull is the bony structure that protects the brain."
+],
+[
+"What is the function of the spleen in the human body?",
+"answer",
+"The spleen filters blood, removes old or damaged red blood cells, and helps fight infection by storing white blood cells and platelets."
+],
+[
+"What is the term for the pacemaker of the heart that initiates each heartbeat?",
+"answer",
+"The sinoatrial (SA) node is the natural pacemaker of the heart that initiates each heartbeat."
+],
+[
+"What is the function of the large intestine?",
+"answer",
+"The large intestine absorbs water and electrolytes from indigestible food matter and forms and stores feces until elimination."
+],
+[
+"What is the name of the membrane that surrounds each lung?",
+"answer",
+"The membrane that surrounds each lung is called the pleura."
+],
+[
+"What is the role of hemoglobin in red blood cells?",
+"answer",
+"Hemoglobin binds to oxygen in the lungs and carries it to tissues throughout the body, and also helps transport carbon dioxide back to the lungs."
+],
+[
+"What is the function of the thyroid gland?",
+"answer",
+"The thyroid gland produces hormones that regulate metabolism, growth, and development."
+],
+[
+"What is the name of the joint that allows the head to nod up and down?",
+"answer",
+"The atlanto-occipital joint allows the head to nod up and down."
+],
+[
+"What is the function of the Eustachian tube?",
+"answer",
+"The Eustachian tube equalizes air pressure between the middle ear and the atmosphere and helps drain fluid from the middle ear."
+],
+[
+"What is the name of the fluid found in joints that reduces friction during movement?",
+"answer",
+"Synovial fluid is the lubricating fluid found in joints that reduces friction during movement."
+],
+[
+"What is the function of the lymphatic system?",
+"answer",
+"The lymphatic system helps maintain fluid balance, absorbs fats from the digestive tract, and defends the body against infection by transporting lymph and housing immune cells."
+],
+[
+"What is the name of the structure that connects muscle to bone?",
+"answer",
+"A tendon connects muscle to bone."
+],
+[
+"What is the function of the alveoli in the lungs?",
+"answer",
+"The alveoli are tiny air sacs where oxygen and carbon dioxide are exchanged between the air and the bloodstream."
+],
+[
+"What is the role of the pancreas in digestion?",
+"answer",
+"The pancreas produces digestive enzymes that are released into the small intestine to help break down carbohydrates, proteins, and fats."
+],
+[
+"What is the name of the process by which white blood cells engulf and destroy pathogens?",
+"answer",
+"Phagocytosis is the process by which certain white blood cells engulf and destroy pathogens such as bacteria."
+],
+[
+"What is the function of the cornea in the eye?",
+"answer",
+"The cornea is the transparent front part of the eye that helps focus light entering the eye and protects the inner structures."
+],
+[
+"What is the name of the valve that prevents backflow of blood from the left ventricle into the left atrium?",
+"answer",
+"The mitral valve (also known as the bicuspid valve) prevents backflow of blood from the left ventricle into the left atrium."
+],
+[
+"What is the function of the hypothalamus in the brain?",
+"answer",
+"The hypothalamus regulates body temperature, hunger, thirst, sleep, and hormonal activity by controlling the pituitary gland."
+],
+[
+"What is the name of the bone in the upper arm?",
+"answer",
+"The bone in the upper arm is called the humerus."
+],
+[
+"What is the function of the vocal cords?",
+"answer",
+"The vocal cords vibrate as air passes through them to produce sound for speech."
+],
+[
+"What is the term for the loss of bone density that increases fracture risk, especially in older adults?",
+"answer",
+"Osteoporosis is the condition characterized by decreased bone density and increased fracture risk."
+],
+[
+"What is the function of the meninges?",
+"answer",
+"The meninges are three protective layers (dura mater, arachnoid mater, and pia mater) that surround and protect the brain and spinal cord."
+],
+[
+"dog",
+"is_a",
+"mammal"
+],
+[
+"cat",
+"is_a",
+"mammal"
+],
+[
+"elephant",
+"is_a",
+"mammal"
+],
+[
+"lion",
+"is_a",
+"mammal"
+],
+[
+"tiger",
+"is_a",
+"mammal"
+],
+[
+"bear",
+"is_a",
+"mammal"
+],
+[
+"wolf",
+"is_a",
+"mammal"
+],
+[
+"horse",
+"is_a",
+"mammal"
+],
+[
+"cow",
+"is_a",
+"mammal"
+],
+[
+"sheep",
+"is_a",
+"mammal"
+],
+[
+"chicken",
+"is_a",
+"bird"
+],
+[
+"eagle",
+"is_a",
+"bird"
+],
+[
+"penguin",
+"is_a",
+"bird"
+],
+[
+"sparrow",
+"is_a",
+"bird"
+],
+[
+"parrot",
+"is_a",
+"bird"
+],
+[
+"frog",
+"is_a",
+"amphibian"
+],
+[
+"salmon",
+"is_a",
+"fish"
+],
+[
+"shark",
+"is_a",
+"fish"
+],
+[
+"tuna",
+"is_a",
+"fish"
+],
+[
+"butterfly",
+"is_a",
+"insect"
+],
+[
+"bee",
+"is_a",
+"insect"
+],
+[
+"ant",
+"is_a",
+"insect"
+],
+[
+"spider",
+"is_a",
+"arachnid"
+],
+[
+"oak",
+"is_a",
+"tree"
+],
+[
+"pine",
+"is_a",
+"tree"
+],
+[
+"maple",
+"is_a",
+"tree"
+],
+[
+"rose",
+"is_a",
+"flower"
+],
+[
+"tulip",
+"is_a",
+"flower"
+],
+[
+"sunflower",
+"is_a",
+"flower"
+],
+[
+"daisy",
+"is_a",
+"flower"
+],
+[
+"grass",
+"is_a",
+"plant"
+],
+[
+"fern",
+"is_a",
+"plant"
+],
+[
+"cactus",
+"is_a",
+"plant"
+],
+[
+"bamboo",
+"is_a",
+"plant"
+],
+[
+"wheat",
+"is_a",
+"plant"
+],
+[
+"rice",
+"is_a",
+"plant"
+],
+[
+"corn",
+"is_a",
+"plant"
+],
+[
+"apple",
+"is_a",
+"fruit"
+],
+[
+"banana",
+"is_a",
+"fruit"
+],
+[
+"orange",
+"is_a",
+"fruit"
+]
+],
+"meta": [
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 0.8,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 0.8,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 0.8,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 0.8,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 0.8,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 0.8,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 0.8,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 0.8,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 0.8,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 0.8,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 0.8,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 0.8,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 0.8,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 0.8,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 0.8,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 0.8,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 0.8,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 0.8,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 0.8,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 0.8,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 0.8,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 0.8,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 0.8,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 0.8,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 0.8,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 0.8,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 0.8,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 0.8,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 0.8,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 0.8,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 0.8,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 0.8,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 0.8,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 0.8,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 0.8,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 0.8,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 0.8,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 0.8,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 0.8,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 0.8,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 0.8,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 0.8,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 0.8,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 0.8,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 0.8,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 0.8,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 0.8,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 0.8,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 0.8,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 0.8,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 0.8,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 0.8,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 0.8,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 0.8,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 0.8,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 0.8,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 0.8,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 0.8,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 0.8,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 0.8,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 0.8,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 0.8,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 0.8,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 0.8,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 0.8,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 0.8,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 0.8,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 0.8,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 0.8,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 0.8,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 0.8,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 0.8,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 0.8,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 0.8,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 0.8,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 0.8,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 0.8,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 0.8,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 0.8,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 0.8,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 0.8,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 0.8,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 0.8,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 0.8,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 0.8,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 0.8,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 0.8,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 0.8,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 0.8,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 0.8,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+}
+]
+}

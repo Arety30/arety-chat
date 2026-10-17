@@ -1,0 +1,3979 @@
+{
+"node": "information",
+"subnode": "history",
+"topics": [
+"ancient civilisations",
+"major wars and treaties",
+"inventions and discoveries with dates",
+"famous leaders and rulers"
+],
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+],
+"generated": "2026-10-08T17:23:34Z",
+"count": 330,
+"facts": [
+[
+"Mesopotamia",
+"location",
+"Iraq"
+],
+[
+"Mesopotamia",
+"is_a",
+"ancient civilisation"
+],
+[
+"Mesopotamia",
+"definition",
+"Ancient region between the Tigris and Euphrates rivers, cradle of early writing and cities"
+],
+[
+"Ancient Egypt",
+"location",
+"Egypt"
+],
+[
+"Ancient Egypt",
+"is_a",
+"ancient civilisation"
+],
+[
+"Ancient Egypt",
+"definition",
+"Nile River-based civilisation known for pyramids, pharaohs, and hieroglyphic writing"
+],
+[
+"Indus Valley Civilisation",
+"location",
+"Pakistan and northwest India"
+],
+[
+"Indus Valley Civilisation",
+"is_a",
+"ancient civilisation"
+],
+[
+"Indus Valley Civilisation",
+"definition",
+"Bronze Age civilisation noted for urban planning, drainage systems, and undeciphered script"
+],
+[
+"Ancient China",
+"location",
+"China"
+],
+[
+"Ancient China",
+"is_a",
+"ancient civilisation"
+],
+[
+"Ancient China",
+"definition",
+"Early civilisation along the Yellow River, origin of dynastic rule, writing, and bronze casting"
+],
+[
+"Ancient Greece",
+"location",
+"Greece"
+],
+[
+"Ancient Greece",
+"is_a",
+"ancient civilisation"
+],
+[
+"Ancient Greece",
+"definition",
+"Collection of city-states that pioneered democracy, philosophy, and classical art"
+],
+[
+"Ancient Rome",
+"location",
+"Italy"
+],
+[
+"Ancient Rome",
+"is_a",
+"ancient civilisation"
+],
+[
+"Ancient Rome",
+"definition",
+"Republic and empire that dominated the Mediterranean, influencing law, engineering, and language"
+],
+[
+"Maya Civilisation",
+"location",
+"Mesoamerica"
+],
+[
+"Maya Civilisation",
+"is_a",
+"ancient civilisation"
+],
+[
+"Maya Civilisation",
+"definition",
+"Mesoamerican civilisation known for pyramids, calendar systems, and hieroglyphic writing"
+],
+[
+"Inca Empire",
+"location",
+"Andes Mountains, South America"
+],
+[
+"Inca Empire",
+"is_a",
+"ancient civilisation"
+],
+[
+"Inca Empire",
+"definition",
+"Largest pre-Columbian empire in America, noted for road systems and stone architecture without mortar"
+],
+[
+"Aztec Empire",
+"location",
+"Central Mexico"
+],
+[
+"Aztec Empire",
+"is_a",
+"ancient civilisation"
+],
+[
+"Aztec Empire",
+"definition",
+"Mesoamerican empire centred on Tenochtitlan, known for human sacrifice and tribute systems"
+],
+[
+"Ancient Nubia",
+"location",
+"Sudan"
+],
+[
+"Ancient Nubia",
+"is_a",
+"ancient civilisation"
+],
+[
+"Ancient Nubia",
+"definition",
+"Kingdom along the Nile south of Egypt, known for pyramids and rich gold resources"
+],
+[
+"Olmec Civilisation",
+"location",
+"Mexico"
+],
+[
+"Olmec Civilisation",
+"is_a",
+"ancient civilisation"
+],
+[
+"Olmec Civilisation",
+"definition",
+"Earliest major Mesoamerican civilisation, known for colossal stone heads"
+],
+[
+"Shang Dynasty",
+"location",
+"China"
+],
+[
+"Shang Dynasty",
+"is_a",
+"ancient civilisation"
+],
+[
+"Shang Dynasty",
+"definition",
+"First historically confirmed Chinese dynasty, known for oracle bone script and bronze ritual vessels"
+],
+[
+"Harappa",
+"location",
+"Pakistan"
+],
+[
+"Harappa",
+"is_a",
+"city"
+],
+[
+"Harappa",
+"definition",
+"Major urban centre of the Indus Valley Civilisation"
+],
+[
+"Mohenjo-daro",
+"location",
+"Pakistan"
+],
+[
+"Mohenjo-daro",
+"is_a",
+"city"
+],
+[
+"Mohenjo-daro",
+"definition",
+"Largest settlement of the Indus Valley Civilisation, noted for advanced urban planning"
+],
+[
+"Babylon",
+"location",
+"Iraq"
+],
+[
+"Babylon",
+"is_a",
+"city"
+],
+[
+"Babylon",
+"definition",
+"Key city of ancient Mesopotamia, famous for the Hanging Gardens and Code of Hammurabi"
+],
+[
+"Ur",
+"location",
+"Iraq"
+],
+[
+"Ur",
+"is_a",
+"city"
+],
+[
+"Ur",
+"definition",
+"Important Sumerian city-state, birthplace of Abraham in tradition"
+],
+[
+"Thebes",
+"location",
+"Egypt"
+],
+[
+"Thebes",
+"is_a",
+"city"
+],
+[
+"Thebes",
+"definition",
+"Major city of ancient Egypt, capital during the Middle and New Kingdoms"
+],
+[
+"Athens",
+"location",
+"Greece"
+],
+[
+"Athens",
+"is_a",
+"city"
+],
+[
+"Athens",
+"definition",
+"Leading city-state of ancient Greece, birthplace of democracy and philosophy"
+],
+[
+"Rome",
+"location",
+"Italy"
+],
+[
+"Rome",
+"is_a",
+"city"
+],
+[
+"Rome",
+"definition",
+"Founded city that grew into the capital of the Roman Empire"
+],
+[
+"Tenochtitlan",
+"location",
+"Mexico"
+],
+[
+"Tenochtitlan",
+"is_a",
+"city"
+],
+[
+"Tenochtitlan",
+"definition",
+"Capital of the Aztec Empire, built on an island in Lake Texcoco"
+],
+[
+"Machu Picchu",
+"location",
+"Peru"
+],
+[
+"Machu Picchu",
+"is_a",
+"site"
+],
+[
+"Machu Picchu",
+"definition",
+"15th-century Inca citadel atop a mountain ridge, abandoned during the Spanish conquest"
+],
+[
+"Giza Plateau",
+"location",
+"Egypt"
+],
+[
+"Giza Plateau",
+"is_a",
+"site"
+],
+[
+"Giza Plateau",
+"definition",
+"Location of the Great Pyramids and the Sphinx, built during the Fourth Dynasty"
+],
+[
+"Code of Hammurabi",
+"location",
+"Iraq"
+],
+[
+"Code of Hammurabi",
+"is_a",
+"law code"
+],
+[
+"Code of Hammurabi",
+"definition",
+"One of the oldest deciphered writings of significant length, from ancient Babylon"
+],
+[
+"Rosetta Stone",
+"location",
+"Egypt"
+],
+[
+"Rosetta Stone",
+"is_a",
+"artifact"
+],
+[
+"Rosetta Stone",
+"definition",
+"Granodiorite stele inscribed with three versions of a decree, key to deciphering Egyptian hieroglyphs"
+],
+[
+"Cuneiform",
+"location",
+"Mesopotamia"
+],
+[
+"Cuneiform",
+"is_a",
+"writing system"
+],
+[
+"Cuneiform",
+"definition",
+"Earliest known system of writing, using wedge-shaped marks on clay tablets"
+],
+[
+"Hieroglyphs",
+"location",
+"Egypt"
+],
+[
+"Hieroglyphs",
+"is_a",
+"writing system"
+],
+[
+"Hieroglyphs",
+"definition",
+"Formal writing system used in ancient Egypt combining logographic and alphabetic elements"
+],
+[
+"Phoenician alphabet",
+"location",
+"Levant"
+],
+[
+"Phoenician alphabet",
+"is_a",
+"writing system"
+],
+[
+"Phoenician alphabet",
+"definition",
+"Early consonantal alphabet that influenced Greek and Latin scripts"
+],
+[
+"Zeus",
+"location",
+"Greece"
+],
+[
+"Zeus",
+"is_a",
+"deity"
+],
+[
+"Zeus",
+"definition",
+"King of the gods in ancient Greek religion, ruler of Mount Olympus"
+],
+[
+"Ra",
+"location",
+"Egypt"
+],
+[
+"Ra",
+"is_a",
+"deity"
+],
+[
+"Ra",
+"definition",
+"Ancient Egyptian sun god, major deity in the Egyptian pantheon"
+],
+[
+"Quetzalcoatl",
+"location",
+"Mesoamerica"
+],
+[
+"Quetzalcoatl",
+"is_a",
+"deity"
+],
+[
+"Quetzalcoatl",
+"definition",
+"Feathered serpent deity in Aztec and other Mesoamerican cultures, associated with wind and learning"
+],
+[
+"What is the name of the ancient Egyptian writing system that used pictorial symbols?",
+"answer",
+"Hieroglyphs were the ancient Egyptian writing system that used pictorial symbols."
+],
+[
+"Which river was central to the development of ancient Mesopotamian civilization?",
+"answer",
+"The Tigris and Euphrates rivers were central to the development of ancient Mesopotamian civilization."
+],
+[
+"What is the name of the first known code of laws, created in ancient Babylon?",
+"answer",
+"The Code of Hammurabi is the first known code of laws, created in ancient Babylon."
+],
+[
+"Which ancient civilization built the pyramids at Giza?",
+"answer",
+"The ancient Egyptians built the pyramids at Giza."
+],
+[
+"What was the primary material used for writing in ancient Sumer?",
+"answer",
+"Clay tablets were the primary material used for writing in ancient Sumer."
+],
+[
+"Which ancient civilization is credited with inventing the wheel?",
+"answer",
+"The ancient Sumerians are credited with inventing the wheel."
+],
+[
+"What is the name of the ancient Indus Valley city known for its advanced urban planning?",
+"answer",
+"Mohenjo-Daro is the ancient Indus Valley city known for its advanced urban planning."
+],
+[
+"Which ancient civilization developed the concept of zero as a number?",
+"answer",
+"The ancient Indians developed the concept of zero as a number."
+],
+[
+"What was the main purpose of the Great Wall of China during ancient times?",
+"answer",
+"The main purpose of the Great Wall of China during ancient times was to protect against invasions from northern nomadic tribes."
+],
+[
+"Which ancient civilization is associated with the city of Troy?",
+"answer",
+"The ancient Greeks are associated with the city of Troy, as described in Homer’s Iliad."
+],
+[
+"What is the name of the ancient Greek city-state known for its military discipline?",
+"answer",
+"Sparta was the ancient Greek city-state known for its military discipline."
+],
+[
+"Which ancient civilization built the city of Machu Picchu?",
+"answer",
+"The Inca civilization built the city of Machu Picchu."
+],
+[
+"What was the primary religion of ancient Egypt?",
+"answer",
+"The primary religion of ancient Egypt was polytheistic, centered around gods like Ra, Osiris, and Isis."
+],
+[
+"Which ancient civilization created the Epic of Gilgamesh?",
+"answer",
+"The ancient Sumerians created the Epic of Gilgamesh."
+],
+[
+"What is the name of the ancient Persian royal road that facilitated communication across the empire?",
+"answer",
+"The Royal Road was the ancient Persian road that facilitated communication across the empire."
+],
+[
+"Which ancient civilization is known for its use of cuneiform writing?",
+"answer",
+"The ancient Mesopotamians, particularly the Sumerians and Akkadians, are known for their use of cuneiform writing."
+],
+[
+"What was the main crop cultivated by ancient Egyptians along the Nile River?",
+"answer",
+"Wheat and barley were the main crops cultivated by ancient Egyptians along the Nile River."
+],
+[
+"Which ancient civilization developed the first known calendar based on lunar cycles?",
+"answer",
+"The ancient Babylonians developed the first known calendar based on lunar cycles."
+],
+[
+"What is the name of the ancient Chinese philosophy that emphasizes harmony with nature?",
+"answer",
+"Daoism (Taoism) is the ancient Chinese philosophy that emphasizes harmony with nature."
+],
+[
+"Which ancient civilization is credited with the invention of paper?",
+"answer",
+"The ancient Chinese are credited with the invention of paper during the Han Dynasty."
+],
+[
+"What was the function of the ziggurat in ancient Mesopotamian cities?",
+"answer",
+"The ziggurat served as a temple complex dedicated to the city’s patron god in ancient Mesopotamian cities."
+],
+[
+"Which ancient civilization built the Colosseum in Rome?",
+"answer",
+"The ancient Romans built the Colosseum in Rome."
+],
+[
+"What is the name of the ancient Egyptian queen who ruled as pharaoh and is known for her temple at Deir el-Bahri?",
+"answer",
+"Hatshepsut was the ancient Egyptian queen who ruled as pharaoh and is known for her temple at Deir el-Bahri."
+],
+[
+"Which ancient civilization developed the concept of democracy in its city-state of Athens?",
+"answer",
+"The ancient Athenians developed the concept of democracy in their city-state."
+],
+[
+"What was the primary language of the Roman Empire?",
+"answer",
+"Latin was the primary language of the Roman Empire."
+],
+[
+"Which ancient civilization is known for the Nazca Lines in Peru?",
+"answer",
+"The Nazca culture, a pre-Inca civilization, is known for the Nazca Lines in Peru."
+],
+[
+"What is the name of the ancient Mesopotamian god of wisdom and water?",
+"answer",
+"Enki was the ancient Mesopotamian god of wisdom and water."
+],
+[
+"Which ancient civilization constructed the Stonehenge monument in England?",
+"answer",
+"Neolithic Britons constructed the Stonehenge monument in England."
+],
+[
+"What was the main export of ancient Phoenician traders?",
+"answer",
+"Tyrian purple dye and cedar wood were the main exports of ancient Phoenician traders."
+],
+[
+"Which ancient civilization is associated with the Terracotta Army buried with China’s first emperor?",
+"answer",
+"The Qin Dynasty of ancient China is associated with the Terracotta Army buried with China’s first emperor, Qin Shi Huang."
+],
+[
+"What is the name of the ancient Greek epic poem attributed to Homer that tells the story of Odysseus’s journey home?",
+"answer",
+"The Odyssey is the ancient Greek epic poem attributed to Homer that tells the story of Odysseus’s journey home."
+],
+[
+"Which ancient civilization developed the first known system of taxation?",
+"answer",
+"The ancient Egyptians developed one of the first known systems of taxation, based on agricultural yields."
+],
+[
+"What was the purpose of the Rosetta Stone in understanding ancient Egyptian writing?",
+"answer",
+"The Rosetta Stone provided a trilingual inscription that allowed scholars to decipher Egyptian hieroglyphs."
+],
+[
+"Which ancient civilization is known for its advanced aqueduct systems that transported water over long distances?",
+"answer",
+"The ancient Romans are known for their advanced aqueduct systems that transported water over long distances."
+],
+[
+"What is the name of the ancient Indus Valley site that, along with Mohenjo-Daro, represents one of its major urban centers?",
+"answer",
+"Harappa is the ancient Indus Valley site that, along with Mohenjo-Daro, represents one of its major urban centers."
+],
+[
+"Which ancient civilization is credited with the earliest known use of iron tools and weapons?",
+"answer",
+"The Hittites are credited with the earliest known widespread use of iron tools and weapons."
+],
+[
+"What was the primary function of the Library of Alexandria in the ancient world?",
+"answer",
+"The Library of Alexandria served as a major center of scholarship and housed hundreds of thousands of scrolls in the ancient world."
+],
+[
+"Which ancient civilization built the city of Teotihuacan, including the Pyramid of the Sun?",
+"answer",
+"The Teotihuacan civilization built the city of Teotihuacan, including the Pyramid of the Sun."
+],
+[
+"What is the name of the ancient Egyptian god associated with the afterlife and mummification?",
+"answer",
+"Osiris was the ancient Egyptian god associated with the afterlife and mummification."
+],
+[
+"Which ancient civilization developed the concept of the jury trial in legal proceedings?",
+"answer",
+"The ancient Athenians developed the concept of the jury trial in their legal proceedings."
+],
+[
+"What was the main material used for tools and weapons in the Bronze Age?",
+"answer",
+"Bronze, an alloy of copper and tin, was the main material used for tools and weapons in the Bronze Age."
+],
+[
+"Which ancient civilization is known for the development of the first known alphabet?",
+"answer",
+"The Phoenicians are known for the development of the first known alphabet."
+],
+[
+"What is the name of the ancient Mesopotamian king who united Sumer and Akkad and created the first empire?",
+"answer",
+"Sargon of Akkad is the ancient Mesopotamian king who united Sumer and Akkad and created the first empire."
+],
+[
+"Which ancient civilization is associated with the Olmec colossal heads found in Mesoamerica?",
+"answer",
+"The Olmec civilization is associated with the colossal heads found in Mesoamerica."
+],
+[
+"What was the primary purpose of the Athenian Agora in ancient Greece?",
+"answer",
+"The Athenian Agora served as a central public space for political, commercial, and social activities in ancient Greece."
+],
+[
+"Which ancient civilization developed the practice of mummification to preserve the dead for the afterlife?",
+"answer",
+"The ancient Egyptians developed the practice of mummification to preserve the dead for the afterlife."
+],
+[
+"What is the name of the ancient Chinese dynasty that followed the Qin and is known for its cultural flourishing and the Silk Road?",
+"answer",
+"The Han Dynasty followed the Qin and is known for its cultural flourishing and the Silk Road."
+],
+[
+"Which ancient civilization is credited with the invention of the plow, revolutionizing agriculture?",
+"answer",
+"The ancient Sumerians are credited with the invention of the plow, which revolutionized agriculture in Mesopotamia."
+],
+[
+"World War I",
+"definition",
+"A global war originating in Europe that lasted from 1914 to 1918"
+],
+[
+"World War II",
+"definition",
+"A global war lasting from 1939 to 1945 involving most of the world's nations"
+],
+[
+"Treaty of Versailles",
+"definition",
+"The peace treaty that ended World War I, signed in 1919"
+],
+[
+"Treaty of Versailles",
+"location",
+"Versailles, France"
+],
+[
+"Treaty of Versailles",
+"created_by",
+"Allied Powers"
+],
+[
+"Treaty of Versailles",
+"implies",
+"German reparations and territorial losses"
+],
+[
+"Treaty of Westphalia",
+"definition",
+"A series of peace treaties signed in 1648 that ended the Thirty Years' War"
+],
+[
+"Treaty of Westphalia",
+"location",
+"Westphalia, Holy Roman Empire"
+],
+[
+"Treaty of Westphalia",
+"implies",
+"Establishment of state sovereignty in international law"
+],
+[
+"Treaty of Tordesillas",
+"definition",
+"A 1494 agreement dividing newly discovered lands outside Europe between Spain and Portugal"
+],
+[
+"Treaty of Tordesillas",
+"location",
+"Tordesillas, Spain"
+],
+[
+"Treaty of Tordesillas",
+"created_by",
+"Spain and Portugal"
+],
+[
+"Treaty of Paris (1783)",
+"definition",
+"The treaty that ended the American Revolutionary War and recognized U.S. independence"
+],
+[
+"Treaty of Paris (1783)",
+"location",
+"Paris, France"
+],
+[
+"Treaty of Paris (1783)",
+"created_by",
+"United States and Great Britain"
+],
+[
+"Treaty of Paris (1898)",
+"definition",
+"The treaty that ended the Spanish-American War, ceding Puerto Rico, Guam, and the Philippines to the U.S."
+],
+[
+"Treaty of Paris (1898)",
+"location",
+"Paris, France"
+],
+[
+"Treaty of Paris (1898)",
+"created_by",
+"United States and Spain"
+],
+[
+"Treaty of Brest-Litovsk",
+"definition",
+"A separate peace treaty signed in 1918 between Soviet Russia and the Central Powers"
+],
+[
+"Treaty of Brest-Litovsk",
+"location",
+"Brest-Litovsk, Russian Empire (now Brest, Belarus)"
+],
+[
+"Treaty of Brest-Litovsk",
+"created_by",
+"Soviet Russia and Central Powers"
+],
+[
+"Treaty of Brest-Litovsk",
+"implies",
+"Russia's exit from World War I"
+],
+[
+"Treaty of Versailles",
+"opposite",
+"Treaty of Brest-Litovsk"
+],
+[
+"United Nations Charter",
+"definition",
+"The foundational treaty of the United Nations, signed in 1945"
+],
+[
+"United Nations Charter",
+"location",
+"San Francisco, United States"
+],
+[
+"United Nations Charter",
+"created_by",
+"Allied Nations"
+],
+[
+"United Nations Charter",
+"implies",
+"Establishment of the UN as an international organization"
+],
+[
+"NATO Treaty",
+"definition",
+"The North Atlantic Treaty, signed in 1949, establishing the NATO alliance"
+],
+[
+"NATO Treaty",
+"location",
+"Washington, D.C., United States"
+],
+[
+"NATO Treaty",
+"created_by",
+"United States, Canada, and Western European nations"
+],
+[
+"NATO Treaty",
+"implies",
+"Collective defense among member states"
+],
+[
+"Warsaw Pact",
+"definition",
+"A collective defense treaty among the Soviet Union and seven Eastern Bloc socialist republics, formed in 1955"
+],
+[
+"Warsaw Pact",
+"location",
+"Warsaw, Poland"
+],
+[
+"Warsaw Pact",
+"created_by",
+"Soviet Union"
+],
+[
+"Warsaw Pact",
+"opposite",
+"NATO Treaty"
+],
+[
+"Geneva Conventions",
+"definition",
+"A series of treaties establishing international legal standards for humanitarian treatment in war"
+],
+[
+"Geneva Conventions",
+"location",
+"Geneva, Switzerland"
+],
+[
+"Geneva Conventions",
+"created_by",
+"International Committee of the Red Cross"
+],
+[
+"Geneva Conventions",
+"implies",
+"Protection of wounded soldiers, prisoners of war, and civilians"
+],
+[
+"Korean War Armistice",
+"definition",
+"The agreement that halted fighting in the Korean War in 1953, though no peace treaty was signed"
+],
+[
+"Korean War Armistice",
+"location",
+"Panmunjom, Korea"
+],
+[
+"Korean War Armistice",
+"created_by",
+"United Nations Command, North Korea, and China"
+],
+[
+"Korean War Armistice",
+"implies",
+"Ongoing division of Korea along the 38th parallel"
+],
+[
+"Camp David Accords",
+"definition",
+"A 1978 peace agreement between Egypt and Israel mediated by U.S. President Jimmy Carter"
+],
+[
+"Camp David Accords",
+"location",
+"Camp David, Maryland, United States"
+],
+[
+"Camp David Accords",
+"created_by",
+"Egypt and Israel"
+],
+[
+"Camp David Accords",
+"implies",
+"Egypt-Israel Peace Treaty of 1979"
+],
+[
+"Treaty of Lisbon",
+"definition",
+"An international agreement that amended the Treaty on European Union and the Treaty establishing the European Community"
+],
+[
+"Treaty of Lisbon",
+"location",
+"Lisbon, Portugal"
+],
+[
+"Treaty of Lisbon",
+"created_by",
+"European Union member states"
+],
+[
+"Treaty of Lisbon",
+"implies",
+"Reform of EU institutions and decision-making processes"
+],
+[
+"What war ended with the Treaty of Versailles in 1919?",
+"answer",
+"The Treaty of Versailles ended World War I in 1919."
+],
+[
+"Which treaty formally ended the American Revolutionary War?",
+"answer",
+"The Treaty of Paris in 1783 formally ended the American Revolutionary War."
+],
+[
+"What conflict concluded with the Treaty of Westphalia in 1648?",
+"answer",
+"The Thirty Years' War concluded with the Treaty of Westphalia in 1648."
+],
+[
+"Which war was ended by the Treaty of Tordesillas in 1494?",
+"answer",
+"The Treaty of Tordesillas in 1494 resolved territorial disputes between Spain and Portugal following their overseas explorations, not a war, but it prevented conflict over newly claimed lands."
+],
+[
+"What war ended with the Treaty of Utrecht in 1713?",
+"answer",
+"The War of the Spanish Succession ended with the Treaty of Utrecht in 1713."
+],
+[
+"Which treaty ended the Crimean War?",
+"answer",
+"The Treaty of Paris in 1856 ended the Crimean War."
+],
+[
+"What war concluded with the Treaty of Brest-Litovsk in 1918?",
+"answer",
+"Russia's participation in World War I ended with the Treaty of Brest-Litovsk in 1918."
+],
+[
+"Which treaty ended the Franco-Prussian War?",
+"answer",
+"The Treaty of Frankfurt in 1871 ended the Franco-Prussian War."
+],
+[
+"What war was ended by the Treaty of Guadalupe Hidalgo?",
+"answer",
+"The Mexican-American War ended with the Treaty of Guadalupe Hidalgo in 1848."
+],
+[
+"Which treaty ended the Seven Years' War?",
+"answer",
+"The Treaty of Paris in 1763 ended the Seven Years' War."
+],
+[
+"What war concluded with the Treaty of Nanking in 1842?",
+"answer",
+"The First Opium War concluded with the Treaty of Nanking in 1842."
+],
+[
+"Which treaty ended the War of the Austrian Succession?",
+"answer",
+"The Treaty of Aix-la-Chapelle in 1748 ended the War of the Austrian Succession."
+],
+[
+"What war ended with the Treaty of Portsmouth in 1905?",
+"answer",
+"The Russo-Japanese War ended with the Treaty of Portsmouth in 1905."
+],
+[
+"Which treaty ended the Korean War?",
+"answer",
+"The Korean War ended with an armistice signed in 1953, not a peace treaty; no formal treaty has been signed to date."
+],
+[
+"What war concluded with the Treaty of Versailles in 1871?",
+"answer",
+"There was no Treaty of Versailles in 1871; the Treaty of Frankfurt ended the Franco-Prussian War that year."
+],
+[
+"Which treaty ended the Punic Wars?",
+"answer",
+"There was no single treaty ending the Punic Wars; the Third Punic War ended in 146 BCE with the destruction of Carthage by Rome."
+],
+[
+"What war ended with the Treaty of Kiel in 1814?",
+"answer",
+"The Treaty of Kiel in 1814 ended hostilities between Denmark-Norway and Sweden during the Napoleonic Wars."
+],
+[
+"Which treaty ended the War of 1812?",
+"answer",
+"The Treaty of Ghent in 1814 ended the War of 1812 between the United States and Britain."
+],
+[
+"What war concluded with the Treaty of Berlin in 1878?",
+"answer",
+"The Russo-Turkish War of 1877–1878 concluded with the Treaty of Berlin in 1878."
+],
+[
+"Which treaty ended the Thirty Years' War?",
+"answer",
+"The Treaty of Westphalia in 1648 ended the Thirty Years' War."
+],
+[
+"What war ended with the Treaty of Paris in 1783?",
+"answer",
+"The American Revolutionary War ended with the Treaty of Paris in 1783."
+],
+[
+"Which treaty ended World War II in Europe?",
+"answer",
+"Germany's unconditional surrender in May 1945 ended hostilities in Europe; no single peace treaty was signed with Germany until the Treaty on the Final Settlement with Respect to Germany in 1990."
+],
+[
+"What war ended with the Treaty of San Francisco in 1951?",
+"answer",
+"The Treaty of San Francisco in 1951 formally ended World War II between Japan and most Allied powers."
+],
+[
+"Which treaty ended the Vietnam War?",
+"answer",
+"The Paris Peace Accords in 1973 ended direct U.S. involvement in the Vietnam War; fighting continued until North Vietnam's victory in 1975."
+],
+[
+"What war concluded with the Treaty of Lisbon in 1668?",
+"answer",
+"The Portuguese Restoration War concluded with the Treaty of Lisbon in 1668, recognizing Portugal's independence from Spain."
+],
+[
+"Which treaty ended the War of the Spanish Succession?",
+"answer",
+"The Treaty of Utrecht in 1713 ended the War of the Spanish Succession."
+],
+[
+"What war ended with the Treaty of Constantinople in 1700?",
+"answer",
+"The Treaty of Constantinople in 1700 ended the Russo-Turkish War of 1686–1700."
+],
+[
+"Which treaty ended the Austro-Prussian War?",
+"answer",
+"The Treaty of Prague in 1866 ended the Austro-Prussian War."
+],
+[
+"What war concluded with the Treaty of Shimonoseki in 1895?",
+"answer",
+"The First Sino-Japanese War concluded with the Treaty of Shimonoseki in 1895."
+],
+[
+"Which treaty ended the War of the League of Cambrai?",
+"answer",
+"The Treaty of Noyon in 1516 ended the War of the League of Cambrai between France and Spain."
+],
+[
+"What war ended with the Treaty of Adrianople in 1829?",
+"answer",
+"The Russo-Turkish War of 1828–1829 ended with the Treaty of Adrianople in 1829."
+],
+[
+"Which treaty ended the War of the Reunions?",
+"answer",
+"The Treaty of Regensburg in 1684 ended the War of the Reunions between France and Spain."
+],
+[
+"What war concluded with the Treaty of Aix-la-Chapelle in 1748?",
+"answer",
+"The War of the Austrian Succession concluded with the Treaty of Aix-la-Chapelle in 1748."
+],
+[
+"Which treaty ended the Second Boer War?",
+"answer",
+"The Treaty of Vereeniging in 1902 ended the Second Boer War."
+],
+[
+"What war ended with the Treaty of Kuchuk-Kainarji in 1774?",
+"answer",
+"The Russo-Turkish War of 1768–1774 ended with the Treaty of Kuchuk-Kainarji in 1774."
+],
+[
+"Which treaty ended the War of the Quadruple Alliance?",
+"answer",
+"The Treaty of The Hague in 1720 ended the War of the Quadruple Alliance."
+],
+[
+"What war concluded with the Treaty of Ryswick in 1697?",
+"answer",
+"The Nine Years' War concluded with the Treaty of Ryswick in 1697."
+],
+[
+"Which treaty ended the War of the Spanish Armada?",
+"answer",
+"There was no treaty ending the Spanish Armada conflict; the Anglo-Spanish War (1585–1604) ended with the Treaty of London in 1604."
+],
+[
+"What war ended with the Treaty of Berlin in 1885?",
+"answer",
+"The Treaty of Berlin in 1885 confirmed the Congo Free State under King Leopold II of Belgium, following the Berlin Conference; it did not end a war but regulated colonial claims in Africa."
+],
+[
+"Which treaty ended the Yom Kippur War?",
+"answer",
+"The Yom Kippur War ended with disengagement agreements in 1974, not a single peace treaty; Egypt and Israel later signed the Camp David Accords in 1978."
+],
+[
+"What war concluded with the Treaty of Nerchinsk in 1689?",
+"answer",
+"The Sino-Russian border conflicts concluded with the Treaty of Nerchinsk in 1689, establishing the first formal border between China and Russia."
+],
+[
+"printing press",
+"invented_by",
+"Johannes Gutenberg"
+],
+[
+"printing press",
+"invented_date",
+"1440"
+],
+[
+"telescope",
+"invented_by",
+"Hans Lippershey"
+],
+[
+"telescope",
+"invented_date",
+"1608"
+],
+[
+"microscope",
+"invented_by",
+"Zacharias Janssen"
+],
+[
+"microscope",
+"invented_date",
+"1590"
+],
+[
+"steam engine",
+"invented_by",
+"Thomas Newcomen"
+],
+[
+"steam engine",
+"invented_date",
+"1712"
+],
+[
+"electric battery",
+"invented_by",
+"Alessandro Volta"
+],
+[
+"electric battery",
+"invented_date",
+"1800"
+],
+[
+"telephone",
+"invented_by",
+"Alexander Graham Bell"
+],
+[
+"telephone",
+"invented_date",
+"1876"
+],
+[
+"light bulb",
+"invented_by",
+"Thomas Edison"
+],
+[
+"light bulb",
+"invented_date",
+"1879"
+],
+[
+"airplane",
+"invented_by",
+"Wright brothers"
+],
+[
+"airplane",
+"invented_date",
+"1903"
+],
+[
+"penicillin",
+"discovered_by",
+"Alexander Fleming"
+],
+[
+"penicillin",
+"discovered_date",
+"1928"
+],
+[
+"X-ray",
+"discovered_by",
+"Wilhelm Röntgen"
+],
+[
+"X-ray",
+"discovered_date",
+"1895"
+],
+[
+"radio",
+"invented_by",
+"Guglielmo Marconi"
+],
+[
+"radio",
+"invented_date",
+"1895"
+],
+[
+"automobile",
+"invented_by",
+"Karl Benz"
+],
+[
+"automobile",
+"invented_date",
+"1885"
+],
+[
+"vaccine",
+"invented_by",
+"Edward Jenner"
+],
+[
+"vaccine",
+"invented_date",
+"1796"
+],
+[
+"periodic table",
+"created_by",
+"Dmitri Mendeleev"
+],
+[
+"periodic table",
+"created_date",
+"1869"
+],
+[
+"DNA structure",
+"discovered_by",
+"James Watson and Francis Crick"
+],
+[
+"DNA structure",
+"discovered_date",
+"1953"
+],
+[
+"internet",
+"invented_by",
+"Vint Cerf and Bob Kahn"
+],
+[
+"internet",
+"invented_date",
+"1983"
+],
+[
+"World Wide Web",
+"invented_by",
+"Tim Berners-Lee"
+],
+[
+"World Wide Web",
+"invented_date",
+"1989"
+],
+[
+"transistor",
+"invented_by",
+"John Bardeen, Walter Brattain, William Shockley"
+],
+[
+"transistor",
+"invented_date",
+"1947"
+],
+[
+"laser",
+"invented_by",
+"Theodore Maiman"
+],
+[
+"laser",
+"invented_date",
+"1960"
+],
+[
+"GPS",
+"invented_by",
+"United States Department of Defense"
+],
+[
+"GPS",
+"invented_date",
+"1973"
+],
+[
+"magnetic resonance imaging",
+"invented_by",
+"Raymond Damadian"
+],
+[
+"magnetic resonance imaging",
+"invented_date",
+"1977"
+],
+[
+"smallpox vaccine",
+"invented_by",
+"Edward Jenner"
+],
+[
+"smallpox vaccine",
+"invented_date",
+"1796"
+],
+[
+"anesthesia",
+"first_used_by",
+"William T.G. Morton"
+],
+[
+"anesthesia",
+"first_used_date",
+"1846"
+],
+[
+"aspirin",
+"synthesized_by",
+"Felix Hoffmann"
+],
+[
+"aspirin",
+"synthesized_date",
+"1897"
+],
+[
+"plastic",
+"invented_by",
+"Leo Baekeland"
+],
+[
+"plastic",
+"invented_date",
+"1907"
+],
+[
+"nuclear fission",
+"discovered_by",
+"Otto Hahn and Fritz Strassmann"
+],
+[
+"nuclear fission",
+"discovered_date",
+"1938"
+],
+[
+"Nelson Mandela",
+"president",
+"South Africa"
+],
+[
+"Nelson Mandela",
+"birthplace",
+"Mvezo"
+],
+[
+"Nelson Mandela",
+"birthday",
+"1918-07-18"
+],
+[
+"Nelson Mandela",
+"is_a",
+"humanitarian"
+],
+[
+"Nelson Mandela",
+"definition",
+"South African anti-apartheid revolutionary and first black president of South Africa"
+],
+[
+"Queen Elizabeth II",
+"ruler",
+"United Kingdom"
+],
+[
+"Queen Elizabeth II",
+"birthplace",
+"London"
+],
+[
+"Queen Elizabeth II",
+"birthday",
+"1926-04-21"
+],
+[
+"Queen Elizabeth II",
+"is_a",
+"monarch"
+],
+[
+"Queen Elizabeth II",
+"definition",
+"Longest-reigning British monarch, served as queen from 1952 to 2022"
+],
+[
+"Mahatma Gandhi",
+"birthplace",
+"Porbandar"
+],
+[
+"Mahatma Gandhi",
+"birthday",
+"1869-10-02"
+],
+[
+"Mahatma Gandhi",
+"is_a",
+"lawyer"
+],
+[
+"Mahatma Gandhi",
+"definition",
+"Indian lawyer and anti-colonial nationalist who employed nonviolent resistance"
+],
+[
+"Winston Churchill",
+"president",
+"United Kingdom"
+],
+[
+"Winston Churchill",
+"birthplace",
+"Blenheim Palace"
+],
+[
+"Winston Churchill",
+"birthday",
+"1874-11-30"
+],
+[
+"Winston Churchill",
+"is_a",
+"statesman"
+],
+[
+"Winston Churchill",
+"definition",
+"British Prime Minister during World War II, known for leadership and oratory"
+],
+[
+"Cleopatra",
+"ruler",
+"Egypt"
+],
+[
+"Cleopatra",
+"birthplace",
+"Alexandria"
+],
+[
+"Cleopatra",
+"birthday",
+"69-01-01"
+],
+[
+"Cleopatra",
+"is_a",
+"pharaoh"
+],
+[
+"Cleopatra",
+"definition",
+"Last active ruler of the Ptolemaic Kingdom of Egypt"
+],
+[
+"Alexander the Great",
+"ruler",
+"Macedon"
+],
+[
+"Alexander the Great",
+"birthplace",
+"Pella"
+],
+[
+"Alexander the Great",
+"birthday",
+"356-07-20"
+],
+[
+"Alexander the Great",
+"is_a",
+"king"
+],
+[
+"Alexander the Great",
+"definition",
+"King of Macedon who created one of the largest empires in ancient history"
+],
+[
+"Genghis Khan",
+"ruler",
+"Mongol Empire"
+],
+[
+"Genghis Khan",
+"birthplace",
+"Khentii Province"
+],
+[
+"Genghis Khan",
+"birthday",
+"1162-01-01"
+],
+[
+"Genghis Khan",
+"is_a",
+"emperor"
+],
+[
+"Genghis Khan",
+"definition",
+"Founder and first Great Khan of the Mongol Empire"
+],
+[
+"Joan of Arc",
+"birthplace",
+"Domrémy"
+],
+[
+"Joan of Arc",
+"birthday",
+"1412-01-06"
+],
+[
+"Joan of Arc",
+"is_a",
+"military leader"
+],
+[
+"Joan of Arc",
+"definition",
+"French peasant girl who led armies during the Hundred Years' War and was canonized as a saint"
+],
+[
+"Napoleon Bonaparte",
+"ruler",
+"France"
+],
+[
+"Napoleon Bonaparte",
+"birthplace",
+"Ajaccio"
+],
+[
+"Napoleon Bonaparte",
+"birthday",
+"1769-08-15"
+],
+[
+"Napoleon Bonaparte",
+"is_a",
+"emperor"
+],
+[
+"Napoleon Bonaparte",
+"definition",
+"French military and political leader who rose to prominence during the French Revolution"
+],
+[
+"Abraham Lincoln",
+"president",
+"United States"
+],
+[
+"Abraham Lincoln",
+"birthplace",
+"Hodgenville"
+],
+[
+"Abraham Lincoln",
+"birthday",
+"1809-02-12"
+],
+[
+"Abraham Lincoln",
+"is_a",
+"lawyer"
+],
+[
+"Abraham Lincoln",
+"definition",
+"16th President of the United States, led the nation through the Civil War and abolished slavery"
+]
+],
+"meta": [
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 0.8,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 0.8,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 0.8,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 0.8,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 0.8,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 0.8,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 0.8,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 0.8,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 0.8,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 0.8,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 0.8,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 0.8,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 0.8,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 0.8,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 0.8,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 0.8,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 0.8,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 0.8,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 0.8,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 0.8,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 0.8,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 0.8,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 0.8,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 0.8,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 0.8,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 0.8,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 0.8,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 0.8,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 0.8,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 0.8,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 0.8,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 0.8,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 0.8,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 0.8,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 0.8,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 0.8,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 0.8,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 0.8,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 0.8,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 0.8,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 0.8,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 0.8,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 0.8,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 0.8,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 0.8,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 0.8,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 0.8,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 0.8,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 0.8,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 0.8,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 0.8,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 0.8,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 0.8,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 0.8,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 0.8,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 0.8,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 0.8,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 0.8,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 0.8,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 0.8,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 0.8,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 0.8,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 0.8,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 0.8,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 0.8,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 0.8,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 0.8,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 0.8,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 0.8,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 0.8,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 0.8,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 0.8,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 0.8,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 0.8,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 0.8,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 0.8,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 0.8,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 0.8,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 0.8,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 0.8,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 0.8,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 0.8,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 0.8,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 0.8,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 0.8,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 0.8,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 0.8,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 0.8,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 0.8,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+}
+]
+}

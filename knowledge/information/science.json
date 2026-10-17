@@ -1,0 +1,5612 @@
+{
+"node": "information",
+"subnode": "science",
+"topics": [
+"physics constants and laws",
+"chemistry: elements, symbols, atomic numbers, common compounds",
+"biology: cells, organs, classification of animals",
+"astronomy: planets, moons, stars, the Solar System",
+"earth science: weather, geology, climate"
+],
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+],
+"generated": "2026-10-08T17:18:51Z",
+"count": 466,
+"facts": [
+[
+"speed_of_light",
+"speed",
+"299792458 m/s"
+],
+[
+"gravitational_constant",
+"definition",
+"6.67430e-11 N·m²/kg²"
+],
+[
+"planck_constant",
+"definition",
+"6.62607015e-34 J·s"
+],
+[
+"boltzmann_constant",
+"definition",
+"1.380649e-23 J/K"
+],
+[
+"elementary_charge",
+"definition",
+"1.602176634e-19 C"
+],
+[
+"avogadro_number",
+"definition",
+"6.02214076e23 mol⁻¹"
+],
+[
+"gas_constant",
+"definition",
+"8.314462618 J/(mol·K)"
+],
+[
+"faraday_constant",
+"definition",
+"96485.33212 C/mol"
+],
+[
+"vacuum_permittivity",
+"definition",
+"8.8541878128e-12 F/m"
+],
+[
+"vacuum_permeability",
+"definition",
+"4π×10⁻⁷ N/A²"
+],
+[
+"fine_structure_constant",
+"definition",
+"approximately 1/137"
+],
+[
+"newtons_second_law",
+"definition",
+"F = ma"
+],
+[
+"newtons_third_law",
+"definition",
+"For every action, there is an equal and opposite reaction"
+],
+[
+"ohms_law",
+"definition",
+"V = IR"
+],
+[
+"coulombs_law",
+"definition",
+"F = k·q₁·q₂/r²"
+],
+[
+"conservation_of_energy",
+"definition",
+"Energy cannot be created or destroyed, only transformed"
+],
+[
+"conservation_of_momentum",
+"definition",
+"Total momentum of a closed system remains constant"
+],
+[
+"conservation_of_charge",
+"definition",
+"Electric charge is conserved in isolated systems"
+],
+[
+"thermodynamics_first_law",
+"definition",
+"Change in internal energy equals heat added minus work done"
+],
+[
+"thermodynamics_second_law",
+"definition",
+"Entropy of an isolated system never decreases"
+],
+[
+"thermodynamics_third_law",
+"definition",
+"As temperature approaches absolute zero, entropy approaches a minimum"
+],
+[
+"steffans_law",
+"definition",
+"Power radiated per unit area is proportional to the fourth power of temperature"
+],
+[
+"wiens_displacement_law",
+"definition",
+"Peak wavelength of blackbody radiation is inversely proportional to temperature"
+],
+[
+"doppler_effect",
+"definition",
+"Observed frequency changes due to relative motion between source and observer"
+],
+[
+"hookess_law",
+"definition",
+"Force needed to extend or compress a spring is proportional to the distance"
+],
+[
+"archimedes_principle",
+"definition",
+"Buoyant force equals weight of displaced fluid"
+],
+[
+"pascal_s_law",
+"definition",
+"Pressure applied to confined fluid is transmitted undiminished"
+],
+[
+"bernoullis_principle",
+"definition",
+"Increasing fluid speed corresponds to decreasing pressure"
+],
+[
+"keplers_first_law",
+"definition",
+"Planets orbit the Sun in elliptical paths with the Sun at one focus"
+],
+[
+"keplers_second_law",
+"definition",
+"A line joining a planet and the Sun sweeps equal areas in equal times"
+],
+[
+"keplers_third_law",
+"definition",
+"Square of orbital period is proportional to cube of semi-major axis"
+],
+[
+"hubbles_law",
+"definition",
+"Recessional velocity of galaxies is proportional to their distance"
+],
+[
+"heisenberg_uncertainty_principle",
+"definition",
+"Position and momentum cannot both be known with arbitrary precision"
+],
+[
+"pauli_exclusion_principle",
+"definition",
+"No two fermions can occupy the same quantum state simultaneously"
+],
+[
+"superposition_principle",
+"definition",
+"Net response caused by multiple stimuli is sum of responses from each stimulus individually"
+],
+[
+"huygens_principle",
+"definition",
+"Every point on a wavefront acts as a source of secondary spherical wavelets"
+],
+[
+"snells_law",
+"definition",
+"Ratio of sines of angles of incidence and refraction equals ratio of phase velocities"
+],
+[
+"faradays_law_of_induction",
+"definition",
+"Induced electromotive force equals negative rate of change of magnetic flux"
+],
+[
+"amps_law",
+"definition",
+"Magnetic field around current-carrying conductor is proportional to current"
+],
+[
+"lenzs_law",
+"definition",
+"Induced current opposes the change in magnetic flux that produced it"
+],
+[
+"newtons_law_of_universal_gravitation",
+"definition",
+"Gravitational force between two masses is proportional to product of masses and inversely proportional to square of distance"
+],
+[
+"hydrogen",
+"symbol",
+"H"
+],
+[
+"hydrogen",
+"atomic_number",
+"1"
+],
+[
+"hydrogen",
+"definition",
+"The lightest and most abundant chemical element in the universe."
+],
+[
+"helium",
+"symbol",
+"He"
+],
+[
+"helium",
+"atomic_number",
+"2"
+],
+[
+"helium",
+"definition",
+"A noble gas used in balloons and as a coolant in MRI machines."
+],
+[
+"carbon",
+"symbol",
+"C"
+],
+[
+"carbon",
+"atomic_number",
+"6"
+],
+[
+"carbon",
+"definition",
+"The basis of organic chemistry and life as we know it."
+],
+[
+"oxygen",
+"symbol",
+"O"
+],
+[
+"oxygen",
+"atomic_number",
+"8"
+],
+[
+"oxygen",
+"definition",
+"A reactive nonmetal essential for respiration and combustion."
+],
+[
+"nitrogen",
+"symbol",
+"N"
+],
+[
+"nitrogen",
+"atomic_number",
+"7"
+],
+[
+"nitrogen",
+"definition",
+"Makes up about 78% of Earth's atmosphere and is key in fertilizers."
+],
+[
+"sodium",
+"symbol",
+"Na"
+],
+[
+"sodium",
+"atomic_number",
+"11"
+],
+[
+"sodium",
+"definition",
+"An alkali metal vital for nerve function and commonly found in table salt."
+],
+[
+"chlorine",
+"symbol",
+"Cl"
+],
+[
+"chlorine",
+"atomic_number",
+"17"
+],
+[
+"chlorine",
+"definition",
+"A halogen used in water purification and disinfectants."
+],
+[
+"iron",
+"symbol",
+"Fe"
+],
+[
+"iron",
+"atomic_number",
+"26"
+],
+[
+"iron",
+"definition",
+"A transition metal essential for hemoglobin and widely used in construction."
+],
+[
+"copper",
+"symbol",
+"Cu"
+],
+[
+"copper",
+"atomic_number",
+"29"
+],
+[
+"copper",
+"definition",
+"A conductive metal used in electrical wiring and plumbing."
+],
+[
+"zinc",
+"symbol",
+"Zn"
+],
+[
+"zinc",
+"atomic_number",
+"30"
+],
+[
+"zinc",
+"definition",
+"Used in galvanization and essential for immune function."
+],
+[
+"silver",
+"symbol",
+"Ag"
+],
+[
+"silver",
+"atomic_number",
+"47"
+],
+[
+"silver",
+"definition",
+"A precious metal with high thermal and electrical conductivity."
+],
+[
+"gold",
+"symbol",
+"Au"
+],
+[
+"gold",
+"atomic_number",
+"79"
+],
+[
+"gold",
+"definition",
+"A dense, malleable precious metal valued for jewelry and electronics."
+],
+[
+"mercury",
+"symbol",
+"Hg"
+],
+[
+"mercury",
+"atomic_number",
+"80"
+],
+[
+"mercury",
+"definition",
+"The only metal that is liquid at standard temperature and pressure."
+],
+[
+"lead",
+"symbol",
+"Pb"
+],
+[
+"lead",
+"atomic_number",
+"82"
+],
+[
+"lead",
+"definition",
+"A dense, toxic metal historically used in pipes and paint."
+],
+[
+"uranium",
+"symbol",
+"U"
+],
+[
+"uranium",
+"atomic_number",
+"92"
+],
+[
+"uranium",
+"definition",
+"A radioactive actinide used as fuel in nuclear reactors."
+],
+[
+"water",
+"formula",
+"H₂O"
+],
+[
+"water",
+"definition",
+"A polar molecule essential for all known forms of life."
+],
+[
+"sodium chloride",
+"formula",
+"NaCl"
+],
+[
+"sodium chloride",
+"definition",
+"Common table salt, formed from sodium and chlorine ions."
+],
+[
+"carbon dioxide",
+"formula",
+"CO₂"
+],
+[
+"carbon dioxide",
+"definition",
+"A greenhouse gas produced by respiration and fossil fuel combustion."
+],
+[
+"methane",
+"formula",
+"CH₄"
+],
+[
+"methane",
+"definition",
+"The simplest alkane and a potent greenhouse gas."
+],
+[
+"ammonia",
+"formula",
+"NH₃"
+],
+[
+"ammonia",
+"definition",
+"A pungent gas used in fertilizers and cleaning products."
+],
+[
+"glucose",
+"formula",
+"C₆H₁₂O₆"
+],
+[
+"glucose",
+"definition",
+"A simple sugar that serves as a primary energy source in living organisms."
+],
+[
+"ethanol",
+"formula",
+"C₂H₅OH"
+],
+[
+"ethanol",
+"definition",
+"The alcohol found in alcoholic beverages and used as a fuel and solvent."
+],
+[
+"sulfuric acid",
+"formula",
+"H₂SO₄"
+],
+[
+"sulfuric acid",
+"definition",
+"A strong mineral acid widely used in industrial processes."
+],
+[
+"sodium hydroxide",
+"formula",
+"NaOH"
+],
+[
+"sodium hydroxide",
+"definition",
+"A strong base used in soap making and drain cleaners."
+],
+[
+"calcium carbonate",
+"formula",
+"CaCO₃"
+],
+[
+"calcium carbonate",
+"definition",
+"The main component of limestone, chalk, and seashells."
+],
+[
+"silicon dioxide",
+"formula",
+"SiO₂"
+],
+[
+"silicon dioxide",
+"definition",
+"The primary constituent of quartz and sand."
+],
+[
+"oxygen",
+"boiling_point",
+"-183°C"
+],
+[
+"oxygen",
+"freezing_point",
+"-218°C"
+],
+[
+"water",
+"boiling_point",
+"100°C"
+],
+[
+"water",
+"freezing_point",
+"0°C"
+],
+[
+"mercury",
+"boiling_point",
+"357°C"
+],
+[
+"mercury",
+"freezing_point",
+"-39°C"
+],
+[
+"What is the chemical symbol for hydrogen?",
+"answer",
+"The chemical symbol for hydrogen is H."
+],
+[
+"What is the atomic number of carbon?",
+"answer",
+"The atomic number of carbon is 6."
+],
+[
+"What is the chemical symbol for oxygen?",
+"answer",
+"The chemical symbol for oxygen is O."
+],
+[
+"What is the atomic number of sodium?",
+"answer",
+"The atomic number of sodium is 11."
+],
+[
+"What is the chemical symbol for iron?",
+"answer",
+"The chemical symbol for iron is Fe."
+],
+[
+"What is the atomic number of chlorine?",
+"answer",
+"The atomic number of chlorine is 17."
+],
+[
+"What is the chemical symbol for gold?",
+"answer",
+"The chemical symbol for gold is Au."
+],
+[
+"What is the atomic number of calcium?",
+"answer",
+"The atomic number of calcium is 20."
+],
+[
+"What is the chemical symbol for nitrogen?",
+"answer",
+"The chemical symbol for nitrogen is N."
+],
+[
+"What is the atomic number of potassium?",
+"answer",
+"The atomic number of potassium is 19."
+],
+[
+"What is the chemical symbol for silver?",
+"answer",
+"The chemical symbol for silver is Ag."
+],
+[
+"What is the atomic number of zinc?",
+"answer",
+"The atomic number of zinc is 30."
+],
+[
+"What is the chemical symbol for lead?",
+"answer",
+"The chemical symbol for lead is Pb."
+],
+[
+"What is the atomic number of magnesium?",
+"answer",
+"The atomic number of magnesium is 12."
+],
+[
+"What is the chemical symbol for copper?",
+"answer",
+"The chemical symbol for copper is Cu."
+],
+[
+"What is the atomic number of fluorine?",
+"answer",
+"The atomic number of fluorine is 9."
+],
+[
+"What is the chemical symbol for helium?",
+"answer",
+"The chemical symbol for helium is He."
+],
+[
+"What is the atomic number of aluminum?",
+"answer",
+"The atomic number of aluminum is 13."
+],
+[
+"What is the chemical symbol for sulfur?",
+"answer",
+"The chemical symbol for sulfur is S."
+],
+[
+"What is the atomic number of iodine?",
+"answer",
+"The atomic number of iodine is 53."
+],
+[
+"What is the chemical symbol for mercury?",
+"answer",
+"The chemical symbol for mercury is Hg."
+],
+[
+"What is the atomic number of bromine?",
+"answer",
+"The atomic number of bromine is 35."
+],
+[
+"What is the chemical symbol for phosphorus?",
+"answer",
+"The chemical symbol for phosphorus is P."
+],
+[
+"What is the atomic number of argon?",
+"answer",
+"The atomic number of argon is 18."
+],
+[
+"What is the chemical symbol for potassium chloride?",
+"answer",
+"The chemical symbol for potassium chloride is KCl."
+],
+[
+"What is the chemical formula for water?",
+"answer",
+"The chemical formula for water is H₂O."
+],
+[
+"What is the chemical formula for sodium chloride?",
+"answer",
+"The chemical formula for sodium chloride is NaCl."
+],
+[
+"What is the chemical formula for carbon dioxide?",
+"answer",
+"The chemical formula for carbon dioxide is CO₂."
+],
+[
+"What is the chemical formula for ammonia?",
+"answer",
+"The chemical formula for ammonia is NH₃."
+],
+[
+"What is the chemical formula for glucose?",
+"answer",
+"The chemical formula for glucose is C₆H₁₂O₆."
+],
+[
+"What is the chemical formula for sulfuric acid?",
+"answer",
+"The chemical formula for sulfuric acid is H₂SO₄."
+],
+[
+"What is the chemical formula for calcium carbonate?",
+"answer",
+"The chemical formula for calcium carbonate is CaCO₃."
+],
+[
+"What is the chemical formula for methane?",
+"answer",
+"The chemical formula for methane is CH₄."
+],
+[
+"What is the chemical formula for ethanol?",
+"answer",
+"The chemical formula for ethanol is C₂H₅OH."
+],
+[
+"What is the chemical formula for oxygen gas?",
+"answer",
+"The chemical formula for oxygen gas is O₂."
+],
+[
+"What is the chemical formula for nitrogen gas?",
+"answer",
+"The chemical formula for nitrogen gas is N₂."
+],
+[
+"What is the chemical formula for hydrogen peroxide?",
+"answer",
+"The chemical formula for hydrogen peroxide is H₂O₂."
+],
+[
+"What is the chemical formula for sodium hydroxide?",
+"answer",
+"The chemical formula for sodium hydroxide is NaOH."
+],
+[
+"What is the chemical formula for potassium nitrate?",
+"answer",
+"The chemical formula for potassium nitrate is KNO₃."
+],
+[
+"cell",
+"is_a",
+"basic_unit_of_life"
+],
+[
+"nucleus",
+"is_a",
+"organelle"
+],
+[
+"mitochondria",
+"is_a",
+"organelle"
+],
+[
+"ribosome",
+"is_a",
+"organelle"
+],
+[
+"cell_membrane",
+"is_a",
+"organelle"
+],
+[
+"chloroplast",
+"is_a",
+"organelle"
+],
+[
+"heart",
+"is_a",
+"organ"
+],
+[
+"lung",
+"is_a",
+"organ"
+],
+[
+"liver",
+"is_a",
+"organ"
+],
+[
+"brain",
+"is_a",
+"organ"
+],
+[
+"kidney",
+"is_a",
+"organ"
+],
+[
+"stomach",
+"is_a",
+"organ"
+],
+[
+"intestine",
+"is_a",
+"organ"
+],
+[
+"skin",
+"is_a",
+"organ"
+],
+[
+"muscle",
+"is_a",
+"tissue"
+],
+[
+"bone",
+"is_a",
+"tissue"
+],
+[
+"blood",
+"is_a",
+"tissue"
+],
+[
+"neuron",
+"is_a",
+"cell_type"
+],
+[
+"epithelial_cell",
+"is_a",
+"cell_type"
+],
+[
+"red_blood_cell",
+"is_a",
+"cell_type"
+],
+[
+"white_blood_cell",
+"is_a",
+"cell_type"
+],
+[
+"platelet",
+"is_a",
+"cell_type"
+],
+[
+"mammal",
+"is_a",
+"vertebrate"
+],
+[
+"bird",
+"is_a",
+"vertebrate"
+],
+[
+"reptile",
+"is_a",
+"vertebrate"
+],
+[
+"amphibian",
+"is_a",
+"vertebrate"
+],
+[
+"fish",
+"is_a",
+"vertebrate"
+],
+[
+"insect",
+"is_a",
+"invertebrate"
+],
+[
+"arachnid",
+"is_a",
+"invertebrate"
+],
+[
+"mollusk",
+"is_a",
+"invertebrate"
+],
+[
+"crustacean",
+"is_a",
+"invertebrate"
+],
+[
+"annelid",
+"is_a",
+"invertebrate"
+],
+[
+"cnidarian",
+"is_a",
+"invertebrate"
+],
+[
+"echinoderm",
+"is_a",
+"invertebrate"
+],
+[
+"platyhelminth",
+"is_a",
+"invertebrate"
+],
+[
+"nematode",
+"is_a",
+"invertebrate"
+],
+[
+"human",
+"is_a",
+"mammal"
+],
+[
+"dog",
+"is_a",
+"mammal"
+],
+[
+"cat",
+"is_a",
+"mammal"
+],
+[
+"elephant",
+"is_a",
+"mammal"
+],
+[
+"whale",
+"is_a",
+"mammal"
+],
+[
+"bat",
+"is_a",
+"mammal"
+],
+[
+"eagle",
+"is_a",
+"bird"
+],
+[
+"sparrow",
+"is_a",
+"bird"
+],
+[
+"penguin",
+"is_a",
+"bird"
+],
+[
+"ostrich",
+"is_a",
+"bird"
+],
+[
+"frog",
+"is_a",
+"amphibian"
+],
+[
+"salamander",
+"is_a",
+"amphibian"
+],
+[
+"snake",
+"is_a",
+"reptile"
+],
+[
+"turtle",
+"is_a",
+"reptile"
+],
+[
+"crocodile",
+"is_a",
+"reptile"
+],
+[
+"lizard",
+"is_a",
+"reptile"
+],
+[
+"goldfish",
+"is_a",
+"fish"
+],
+[
+"shark",
+"is_a",
+"fish"
+],
+[
+"tuna",
+"is_a",
+"fish"
+],
+[
+"salmon",
+"is_a",
+"fish"
+],
+[
+"bee",
+"is_a",
+"insect"
+],
+[
+"ant",
+"is_a",
+"insect"
+],
+[
+"butterfly",
+"is_a",
+"insect"
+],
+[
+"mosquito",
+"is_a",
+"insect"
+],
+[
+"fly",
+"is_a",
+"insect"
+],
+[
+"spider",
+"is_a",
+"arachnid"
+],
+[
+"scorpion",
+"is_a",
+"arachnid"
+],
+[
+"tick",
+"is_a",
+"arachnid"
+],
+[
+"mite",
+"is_a",
+"arachnid"
+],
+[
+"snail",
+"is_a",
+"mollusk"
+],
+[
+"clam",
+"is_a",
+"mollusk"
+],
+[
+"octopus",
+"is_a",
+"mollusk"
+],
+[
+"squid",
+"is_a",
+"mollusk"
+],
+[
+"crab",
+"is_a",
+"crustacean"
+],
+[
+"lobster",
+"is_a",
+"crustacean"
+],
+[
+"shrimp",
+"is_a",
+"crustacean"
+],
+[
+"barnacle",
+"is_a",
+"crustacean"
+],
+[
+"earthworm",
+"is_a",
+"annelid"
+],
+[
+"leech",
+"is_a",
+"annelid"
+],
+[
+"jellyfish",
+"is_a",
+"cnidarian"
+],
+[
+"coral",
+"is_a",
+"cnidarian"
+],
+[
+"sea_anemone",
+"is_a",
+"cnidarian"
+],
+[
+"starfish",
+"is_a",
+"echinoderm"
+],
+[
+"sea_urchin",
+"is_a",
+"echinoderm"
+],
+[
+"sand_dollar",
+"is_a",
+"echinoderm"
+],
+[
+"sea_cucumber",
+"is_a",
+"echinoderm"
+],
+[
+"planaria",
+"is_a",
+"platyhelminth"
+],
+[
+"tapeworm",
+"is_a",
+"platyhelminth"
+],
+[
+"fluke",
+"is_a",
+"platyhelminth"
+],
+[
+"roundworm",
+"is_a",
+"nematode"
+],
+[
+"hookworm",
+"is_a",
+"nematode"
+],
+[
+"pinworm",
+"is_a",
+"nematode"
+],
+[
+"trichinella",
+"is_a",
+"nematode"
+],
+[
+"What is the basic unit of life?",
+"answer",
+"The basic unit of life is the cell."
+],
+[
+"What are the two main types of cells based on the presence of a nucleus?",
+"answer",
+"The two main types of cells are prokaryotic and eukaryotic, based on the presence or absence of a nucleus."
+],
+[
+"What organelle is responsible for producing energy in eukaryotic cells?",
+"answer",
+"The mitochondrion is responsible for producing energy in eukaryotic cells."
+],
+[
+"What structure controls what enters and leaves a cell?",
+"answer",
+"The cell membrane controls what enters and leaves a cell."
+],
+[
+"What is the function of ribosomes in a cell?",
+"answer",
+"Ribosomes synthesize proteins in a cell."
+],
+[
+"What is the role of the nucleus in a eukaryotic cell?",
+"answer",
+"The nucleus contains the cell's genetic material and controls cellular activities."
+],
+[
+"What is the difference between plant and animal cells regarding cell walls?",
+"answer",
+"Plant cells have a rigid cell wall made of cellulose, while animal cells do not have a cell wall."
+],
+[
+"What organelle is responsible for photosynthesis in plant cells?",
+"answer",
+"The chloroplast is responsible for photosynthesis in plant cells."
+],
+[
+"What is the function of lysosomes in a cell?",
+"answer",
+"Lysosomes break down waste materials and cellular debris."
+],
+[
+"What is the process by which cells divide to produce two identical daughter cells called?",
+"answer",
+"The process is called mitosis."
+],
+[
+"What are the four main types of tissues in the human body?",
+"answer",
+"The four main types of tissues are epithelial, connective, muscle, and nervous tissue."
+],
+[
+"What organ pumps blood throughout the human body?",
+"answer",
+"The heart pumps blood throughout the human body."
+],
+[
+"What is the primary function of the lungs in the respiratory system?",
+"answer",
+"The primary function of the lungs is to exchange oxygen and carbon dioxide with the blood."
+],
+[
+"What organ filters waste from the blood and produces urine?",
+"answer",
+"The kidneys filter waste from the blood and produce urine."
+],
+[
+"What is the role of the liver in digestion?",
+"answer",
+"The liver produces bile, which helps break down fats during digestion."
+],
+[
+"What is the function of the small intestine?",
+"answer",
+"The small intestine absorbs nutrients from digested food."
+],
+[
+"What is the largest organ of the human body?",
+"answer",
+"The skin is the largest organ of the human body."
+],
+[
+"What is the main function of the skeletal system?",
+"answer",
+"The main function of the skeletal system is to provide structural support and protection for the body."
+],
+[
+"What are the three main germ layers in embryonic development?",
+"answer",
+"The three main germ layers are ectoderm, mesoderm, and endoderm."
+],
+[
+"What classification level comes directly above species in the taxonomic hierarchy?",
+"answer",
+"The classification level that comes directly above species is genus."
+],
+[
+"What is the broadest taxonomic rank used to classify organisms?",
+"answer",
+"The broadest taxonomic rank is domain."
+],
+[
+"What are the three domains of life?",
+"answer",
+"The three domains of life are Bacteria, Archaea, and Eukarya."
+],
+[
+"What kingdom includes organisms that are multicellular, eukaryotic, and obtain food by ingestion?",
+"answer",
+"The kingdom Animalia includes multicellular, eukaryotic organisms that obtain food by ingestion."
+],
+[
+"What distinguishes vertebrates from invertebrates?",
+"answer",
+"Vertebrates have a backbone or spinal column, while invertebrates do not."
+],
+[
+"What class of animals includes animals that have feathers, lay hard-shelled eggs, and are warm-blooded?",
+"answer",
+"The class Aves includes animals that have feathers, lay hard-shelled eggs, and are warm-blooded."
+],
+[
+"What class of animals includes animals that have hair or fur, produce milk, and are warm-blooded?",
+"answer",
+"The class Mammalia includes animals that have hair or fur, produce milk, and are warm-blooded."
+],
+[
+"What class of animals includes animals that have scales, are cold-blooded, and lay eggs with leathery shells?",
+"answer",
+"The class Reptilia includes animals that have scales, are cold-blooded, and lay eggs with leathery shells."
+],
+[
+"What class of animals includes animals that live in water, have gills, and are cold-blooded?",
+"answer",
+"The class Osteichthyes (bony fish) includes animals that live in water, have gills, and are cold-blooded."
+],
+[
+"What is the defining characteristic of amphibians?",
+"answer",
+"Amphibians are vertebrates that live part of their life in water and part on land, and typically undergo metamorphosis."
+],
+[
+"What type of symmetry do most animals exhibit?",
+"answer",
+"Most animals exhibit bilateral symmetry."
+],
+[
+"What is the function of hemoglobin in red blood cells?",
+"answer",
+"Hemoglobin binds to oxygen in the lungs and transports it to tissues throughout the body."
+],
+[
+"What is the role of platelets in blood?",
+"answer",
+"Platelets help in blood clotting to prevent excessive bleeding."
+],
+[
+"What is the function of the epidermis in the skin?",
+"answer",
+"The epidermis provides a protective barrier against pathogens and water loss."
+],
+[
+"What is the function of alveoli in the lungs?",
+"answer",
+"Alveoli are tiny air sacs where gas exchange occurs between the air and the blood."
+],
+[
+"What is the function of the cerebellum in the brain?",
+"answer",
+"The cerebellum coordinates voluntary movements, balance, and posture."
+],
+[
+"What is the function of the pancreas in digestion?",
+"answer",
+"The pancreas produces digestive enzymes and bicarbonate to neutralize stomach acid in the small intestine."
+],
+[
+"What is the function of the urethra in the urinary system?",
+"answer",
+"The urethra carries urine from the bladder to the outside of the body."
+],
+[
+"What is the function of the trachea in the respiratory system?",
+"answer",
+"The trachea carries air to and from the lungs."
+],
+[
+"What is the function of the spleen in the lymphatic system?",
+"answer",
+"The spleen filters blood, removes old red blood cells, and helps fight infection."
+],
+[
+"What is the function of the thymus in the immune system?",
+"answer",
+"The thymus matures T-lymphocytes, which are important for adaptive immunity."
+],
+[
+"Mercury",
+"is_a",
+"planet"
+],
+[
+"Venus",
+"is_a",
+"planet"
+],
+[
+"Earth",
+"is_a",
+"planet"
+],
+[
+"Mars",
+"is_a",
+"planet"
+],
+[
+"Jupiter",
+"is_a",
+"planet"
+],
+[
+"Saturn",
+"is_a",
+"planet"
+],
+[
+"Uranus",
+"is_a",
+"planet"
+],
+[
+"Neptune",
+"is_a",
+"planet"
+],
+[
+"Pluto",
+"is_a",
+"dwarf_planet"
+],
+[
+"Sun",
+"is_a",
+"star"
+],
+[
+"Moon",
+"is_a",
+"moon"
+],
+[
+"Io",
+"is_a",
+"moon"
+],
+[
+"Europa",
+"is_a",
+"moon"
+],
+[
+"Ganymede",
+"is_a",
+"moon"
+],
+[
+"Callisto",
+"is_a",
+"moon"
+],
+[
+"Titan",
+"is_a",
+"moon"
+],
+[
+"Enceladus",
+"is_a",
+"moon"
+],
+[
+"Triton",
+"is_a",
+"moon"
+],
+[
+"Earth",
+"location",
+"Solar System"
+],
+[
+"Mars",
+"location",
+"Solar System"
+],
+[
+"Jupiter",
+"location",
+"Solar System"
+],
+[
+"Saturn",
+"location",
+"Solar System"
+],
+[
+"Uranus",
+"location",
+"Solar System"
+],
+[
+"Neptune",
+"location",
+"Solar System"
+],
+[
+"Pluto",
+"location",
+"Solar System"
+],
+[
+"Sun",
+"location",
+"Solar System"
+],
+[
+"Earth",
+"largest",
+"planet"
+],
+[
+"Jupiter",
+"largest",
+"planet"
+],
+[
+"Mercury",
+"smallest",
+"planet"
+],
+[
+"Ganymede",
+"largest",
+"moon"
+],
+[
+"Titan",
+"largest",
+"moon"
+],
+[
+"Sun",
+"largest",
+"star"
+],
+[
+"Proxima Centauri",
+"location",
+"Milky Way"
+],
+[
+"Sirius",
+"is_a",
+"star"
+],
+[
+"Sirius",
+"location",
+"Milky Way"
+],
+[
+"Earth",
+"definition",
+"The third planet from the Sun and the only known astronomical object to harbor life."
+],
+[
+"Moon",
+"definition",
+"Earth's only natural satellite."
+],
+[
+"Sun",
+"definition",
+"The star at the center of the Solar System."
+],
+[
+"Earth",
+"diameter",
+"12742 km"
+],
+[
+"Earth",
+"mass",
+"5.97 × 10^24 kg"
+],
+[
+"Earth",
+"surface_area",
+"510 million km²"
+],
+[
+"Earth",
+"largest",
+"Pacific Ocean"
+],
+[
+"Earth",
+"smallest",
+"Arctic Ocean"
+],
+[
+"Earth",
+"longest",
+"Nile River"
+],
+[
+"Earth",
+"tallest",
+"Mount Everest"
+],
+[
+"Earth",
+"deepest",
+"Mariana Trench"
+],
+[
+"Earth",
+"temperature",
+"average 15°C"
+],
+[
+"Earth",
+"atmosphere",
+"nitrogen-oxygen mix"
+],
+[
+"Earth",
+"water_coverage",
+"71%"
+],
+[
+"Earth",
+"climate",
+"varies by latitude and season"
+],
+[
+"Earth",
+"weather",
+"short-term atmospheric conditions"
+],
+[
+"Earth",
+"geology",
+"study of Earth's solid structure"
+],
+[
+"Earth",
+"plate_tectonics",
+"movement of lithospheric plates"
+],
+[
+"Earth",
+"volcano",
+"opening in crust where magma erupts"
+],
+[
+"Earth",
+"earthquake",
+"sudden release of energy in crust"
+],
+[
+"Earth",
+"tsunami",
+"large ocean wave from underwater disturbance"
+],
+[
+"Earth",
+"hurricane",
+"intense tropical cyclone"
+],
+[
+"Earth",
+"tornado",
+"violently rotating column of air"
+],
+[
+"Earth",
+"drought",
+"prolonged period of abnormally low rainfall"
+],
+[
+"Earth",
+"flood",
+"overflow of water onto normally dry land"
+],
+[
+"Earth",
+"blizzard",
+"severe snowstorm with strong winds"
+],
+[
+"Earth",
+"heatwave",
+"prolonged period of excessively hot weather"
+],
+[
+"Earth",
+"cold_front",
+"boundary where cold air replaces warm air"
+],
+[
+"Earth",
+"warm_front",
+"boundary where warm air replaces cold air"
+],
+[
+"Earth",
+"precipitation",
+"water released from clouds as rain, snow, etc."
+],
+[
+"Earth",
+"evaporation",
+"process of liquid turning to vapor"
+],
+[
+"Earth",
+"condensation",
+"process of vapor turning to liquid"
+],
+[
+"Earth",
+"humidity",
+"amount of water vapor in air"
+],
+[
+"Earth",
+"barometric_pressure",
+"weight of air above a point"
+],
+[
+"Earth",
+"wind",
+"movement of air from high to low pressure"
+],
+[
+"Earth",
+"jet_stream",
+"fast-flowing narrow air currents in atmosphere"
+],
+[
+"Earth",
+"el_nino",
+"warming of Pacific Ocean surface temperatures"
+],
+[
+"Earth",
+"la_nina",
+"cooling of Pacific Ocean surface temperatures"
+],
+[
+"Earth",
+"greenhouse_effect",
+"trapping of heat by atmospheric gases"
+],
+[
+"Earth",
+"global_warming",
+"long-term rise in Earth's average temperature"
+],
+[
+"Earth",
+"carbon_dioxide",
+"key greenhouse gas"
+],
+[
+"Earth",
+"ozone_layer",
+"stratospheric layer absorbing UV radiation"
+],
+[
+"Earth",
+"aurora",
+"natural light display in polar skies"
+],
+[
+"Earth",
+"magnetosphere",
+"region dominated by Earth's magnetic field"
+],
+[
+"Earth",
+"core",
+"innermost layer of Earth"
+],
+[
+"Earth",
+"mantle",
+"layer between crust and core"
+],
+[
+"Earth",
+"crust",
+"Earth's outermost solid shell"
+],
+[
+"Earth",
+"igneous_rock",
+"rock formed from cooled magma"
+],
+[
+"Earth",
+"sedimentary_rock",
+"rock formed from deposited sediments"
+],
+[
+"Earth",
+"metamorphic_rock",
+"rock transformed by heat and pressure"
+],
+[
+"Earth",
+"fossil",
+"preserved remains of ancient life"
+],
+[
+"Earth",
+"mineral",
+"naturally occurring inorganic solid with definite structure"
+],
+[
+"Earth",
+"quartz",
+"common mineral silicon dioxide"
+],
+[
+"Earth",
+"feldspar",
+"most abundant mineral group in crust"
+],
+[
+"Earth",
+"calcite",
+"mineral calcium carbonate"
+],
+[
+"Earth",
+"diamond",
+"crystalline form of carbon"
+],
+[
+"Earth",
+"gold",
+"chemical element Au"
+],
+[
+"Earth",
+"silver",
+"chemical element Ag"
+],
+[
+"Earth",
+"copper",
+"chemical element Cu"
+],
+[
+"Earth",
+"iron",
+"chemical element Fe"
+],
+[
+"Earth",
+"aluminum",
+"chemical element Al"
+],
+[
+"Earth",
+"silica",
+"silicon dioxide, major component of sand"
+],
+[
+"Earth",
+"clay",
+"fine-grained natural soil material"
+],
+[
+"Earth",
+"loam",
+"fertile soil mixture of sand, silt, and clay"
+],
+[
+"Earth",
+"topsoil",
+"uppermost layer of soil rich in organic matter"
+],
+[
+"Earth",
+"erosion",
+"wearing away of Earth's surface by natural forces"
+],
+[
+"Earth",
+"weathering",
+"breaking down of rocks at Earth's surface"
+],
+[
+"Earth",
+"deposition",
+"laying down of sediment carried by wind, water, or ice"
+],
+[
+"Earth",
+"alluvial_fan",
+"fan-shaped deposit where stream flows onto flat plain"
+],
+[
+"Earth",
+"delta",
+"landform where river splits and enters slower-moving water"
+],
+[
+"Earth",
+"canyon",
+"deep gorge carved by river erosion"
+],
+[
+"Earth",
+"valley",
+"low area between hills or mountains"
+],
+[
+"Earth",
+"mountain",
+"large natural rise of Earth's surface"
+],
+[
+"Earth",
+"hill",
+"smaller natural rise of Earth's surface"
+],
+[
+"Earth",
+"plateau",
+"elevated flat land"
+],
+[
+"Earth",
+"desert",
+"arid region with little precipitation"
+],
+[
+"Earth",
+"forest",
+"large area dominated by trees"
+],
+[
+"Earth",
+"grassland",
+"area dominated by grasses"
+],
+[
+"Earth",
+"tundra",
+"treeless Arctic or alpine biome"
+],
+[
+"Earth",
+"wetland",
+"land saturated with water"
+],
+[
+"Earth",
+"ocean",
+"large body of salt water"
+],
+[
+"Earth",
+"sea",
+"part of ocean partially enclosed by land"
+],
+[
+"Earth",
+"lake",
+"body of water surrounded by land"
+],
+[
+"Earth",
+"river",
+"natural flowing watercourse"
+],
+[
+"Earth",
+"stream",
+"small flowing body of water"
+],
+[
+"Earth",
+"glacier",
+"persistent body of dense ice moving under its own weight"
+],
+[
+"Earth",
+"iceberg",
+"large piece of freshwater ice floating in open water"
+],
+[
+"Earth",
+"permafrost",
+"ground that remains frozen for two or more years"
+],
+[
+"Earth",
+"aquifer",
+"underground layer of water-bearing permeable rock"
+],
+[
+"Earth",
+"spring",
+"natural discharge of groundwater"
+],
+[
+"Earth",
+"well",
+"hole dug or drilled to access groundwater"
+],
+[
+"Earth",
+"reservoir",
+"artificial lake for storing water"
+],
+[
+"Earth",
+"dam",
+"barrier constructed to hold back water"
+],
+[
+"Earth",
+"levee",
+"embankment built to prevent river flooding"
+],
+[
+"Earth",
+"floodplain",
+"flat land adjacent to a river prone to flooding"
+],
+[
+"Earth",
+"meander",
+"bend in a sinuous watercourse"
+],
+[
+"Earth",
+"waterfall",
+"where water flows over a vertical drop"
+],
+[
+"Earth",
+"geyser",
+"spring that intermittently ejects hot water and steam"
+],
+[
+"Earth",
+"hot_spring",
+"spring produced by geothermally heated groundwater"
+],
+[
+"Earth",
+"sinkhole",
+"depression formed when surface collapses into underground void"
+],
+[
+"Earth",
+"cave",
+"natural underground void large enough for human entry"
+],
+[
+"Earth",
+"stalactite",
+"icicle-shaped formation hanging from cave ceiling"
+],
+[
+"Earth",
+"stalagmite",
+"mound of mineral deposits rising from cave floor"
+],
+[
+"Earth",
+"column",
+"formation when stalactite and stalagmite meet"
+],
+[
+"Earth",
+"geode",
+"hollow rock lined with crystals"
+],
+[
+"What is the primary cause of Earth's seasons?",
+"answer",
+"Earth's seasons are caused by the tilt of its axis relative to its orbit around the Sun."
+],
+[
+"How does a cold front differ from a warm front in terms of weather changes?",
+"answer",
+"A cold front brings abrupt temperature drops and thunderstorms, while a warm front brings gradual warming and steady precipitation."
+],
+[
+"What is the main gas responsible for the greenhouse effect on Earth?",
+"answer",
+"Carbon dioxide is the primary greenhouse gas driving Earth's natural greenhouse effect."
+],
+[
+"What process forms igneous rocks?",
+"answer",
+"Igneous rocks form from the cooling and solidification of magma or lava."
+],
+[
+"What is the difference between weather and climate?",
+"answer",
+"Weather refers to short-term atmospheric conditions, while climate describes long-term patterns of temperature and precipitation."
+],
+[
+"Where do most earthquakes occur on Earth?",
+"answer",
+"Most earthquakes occur along tectonic plate boundaries, especially the Pacific Ring of Fire."
+],
+[
+"What is the name of the layer of Earth's atmosphere where weather occurs?",
+"answer",
+"The troposphere is the atmospheric layer where nearly all weather phenomena take place."
+],
+[
+"What causes wind to blow?",
+"answer",
+"Wind is caused by differences in atmospheric pressure, with air moving from high-pressure to low-pressure areas."
+],
+[
+"What is the term for the boundary between two air masses of different temperatures and humidity?",
+"answer",
+"A front is the boundary between two differing air masses."
+],
+[
+"What type of rock is formed from the compaction and cementation of sediments?",
+"answer",
+"Sedimentary rocks are formed from the compaction and cementation of sediments over time."
+],
+[
+"What is the Coriolis effect?",
+"answer",
+"The Coriolis effect is the apparent deflection of moving objects due to Earth's rotation, influencing wind and ocean current patterns."
+],
+[
+"What is the largest source of freshwater on Earth's surface?",
+"answer",
+"Lakes and rivers collectively hold the largest accessible freshwater supply on Earth's surface, though glaciers store more total freshwater."
+],
+[
+"What is the process by which water vapor turns into liquid water called?",
+"answer",
+"Condensation is the process by which water vapor changes into liquid water."
+],
+[
+"What is the name of the scale used to measure the intensity of earthquakes?",
+"answer",
+"The moment magnitude scale is used to measure the size of earthquakes."
+],
+[
+"What is the term for a large, slow-moving body of ice formed from compacted snow?",
+"answer",
+"A glacier is a large, persistent body of dense ice that moves under its own weight."
+],
+[
+"What causes the ocean's tides?",
+"answer",
+"Ocean tides are primarily caused by the gravitational pull of the Moon and, to a lesser extent, the Sun."
+],
+[
+"What is the name of the process where rocks break down due to exposure to air, water, or living organisms?",
+"answer",
+"Weathering is the breakdown of rocks at Earth's surface through physical, chemical, or biological means."
+],
+[
+"What is the term for the movement of tectonic plates apart from each other?",
+"answer",
+"Divergent plate boundary movement occurs when tectonic plates move away from each other."
+],
+[
+"What is the primary source of energy that drives Earth's weather systems?",
+"answer",
+"Solar radiation is the main energy source powering Earth's weather and climate systems."
+],
+[
+"What is the name of the rock that forms when limestone undergoes metamorphism?",
+"answer",
+"Marble is the metamorphic rock formed from the transformation of limestone."
+],
+[
+"What is the term for a long period of abnormally low rainfall leading to water shortage?",
+"answer",
+"A drought is a prolonged period of deficient precipitation resulting in water scarcity."
+],
+[
+"What is the name of the scale used to classify hurricane intensity based on wind speed?",
+"answer",
+"The Saffir-Simpson Hurricane Wind Scale classifies hurricanes from Category 1 to 5 based on sustained wind speed."
+],
+[
+"What is the process called when water moves from the soil into the atmosphere through plant leaves?",
+"answer",
+"Transpiration is the process by which water is lost from plant leaves as vapor."
+],
+[
+"What is the term for a bowl-shaped depression formed by volcanic eruption or collapse?",
+"answer",
+"A caldera is a large crater formed when a volcano collapses into an emptied magma chamber."
+],
+[
+"What is the name of the line that divides Earth into northern and southern hemispheres?",
+"answer",
+"The equator is the imaginary line that divides Earth into the Northern and Southern Hemispheres."
+],
+[
+"What is the primary mineral in granite?",
+"answer",
+"Quartz and feldspar are the primary minerals in granite, with quartz being especially abundant."
+],
+[
+"What is the term for the slow movement of soil down a slope due to gravity?",
+"answer",
+"Soil creep is the gradual downslope movement of soil under the influence of gravity."
+],
+[
+"What is the name of the phenomenon where warm ocean water in the Pacific disrupts normal weather patterns?",
+"answer",
+"El Niño is a climate pattern characterized by unusually warm ocean temperatures in the equatorial Pacific."
+],
+[
+"What is the term for the point directly above an earthquake's origin on the Earth's surface?",
+"answer",
+"The epicenter is the point on Earth's surface directly above the focus (or hypocenter) of an earthquake."
+],
+[
+"What is the name of the process where sediment is carried away by wind, water, or ice?",
+"answer",
+"Erosion is the process by which soil and rock are removed from Earth's surface by natural agents such as wind, water, or ice."
+],
+[
+"What is the term for a large, rotating storm system with low pressure at its center?",
+"answer",
+"A cyclone is a large-scale air mass that rotates around a strong center of low atmospheric pressure."
+],
+[
+"What is the name of the layer of Earth that lies beneath the crust and above the core?",
+"answer",
+"The mantle is the layer of Earth located between the crust and the core."
+],
+[
+"What is the term for the time it takes for Earth to complete one full orbit around the Sun?",
+"answer",
+"One year is the time it takes Earth to complete one revolution around the Sun."
+],
+[
+"What is the name of the scale used to measure the hardness of minerals?",
+"answer",
+"The Mohs scale of mineral hardness ranks minerals from 1 (talc) to 10 (diamond) based on scratch resistance."
+],
+[
+"What is the term for the boundary where two tectonic plates slide past each other horizontally?",
+"answer",
+"A transform plate boundary is where two plates slide past one another in opposite directions."
+],
+[
+"What is the name of the process where water changes from liquid to gas?",
+"answer",
+"Evaporation is the process by which liquid water becomes water vapor."
+],
+[
+"What is the term for a flat, elevated landform with steep sides?",
+"answer",
+"A plateau is a flat-topped elevation rising sharply above the surrounding area on at least one side."
+],
+[
+"What is the name of the supercontinent that existed about 200 million years ago?",
+"answer",
+"Pangaea was the supercontinent that existed during the late Paleozoic and early Mesozoic eras."
+],
+[
+"What is the term for the amount of water vapor in the air relative to the maximum it could hold at that temperature?",
+"answer",
+"Relative humidity is the ratio of the current amount of water vapor in the air to the maximum amount the air can hold at a given temperature."
+],
+[
+"What is the name of the process where molten rock reaches Earth's surface and flows out?",
+"answer",
+"A volcanic eruption occurs when magma (called lava when it reaches the surface) is expelled from a volcano."
+],
+[
+"What is the term for the line of longitude that passes through Greenwich, England?",
+"answer",
+"The Prime Meridian is the line of 0° longitude that passes through the Royal Observatory in Greenwich, England."
+],
+[
+"What is the name of the scale used to measure the acidity or alkalinity of soil or water?",
+"answer",
+"The pH scale measures how acidic or basic a substance is, ranging from 0 (most acidic) to 14 (most basic), with 7 being neutral."
+],
+[
+"What is the term for the movement of air from high pressure to low pressure?",
+"answer",
+"Wind is the horizontal movement of air from areas of high pressure to areas of low pressure."
+],
+[
+"What is the name of the process where rocks are broken down into smaller pieces without changing their chemical composition?",
+"answer",
+"Physical weathering (or mechanical weathering) breaks rocks into smaller fragments through forces like freezing, thawing, or abrasion, without altering their chemical makeup."
+]
+],
+"meta": [
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 0.8,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 0.8,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 0.8,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 0.8,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 0.8,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 0.8,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 0.8,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 0.8,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 0.8,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 0.8,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 0.8,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 0.8,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 0.8,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 0.8,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 0.8,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 0.8,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 0.8,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 0.8,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 0.8,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 0.8,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 0.8,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 0.8,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 0.8,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 0.8,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 0.8,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 0.8,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 0.8,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 0.8,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 0.8,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 0.8,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 0.8,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 0.8,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 0.8,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 0.8,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 0.8,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 0.8,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 0.8,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 0.8,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 0.8,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 0.8,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 0.8,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 0.8,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 0.8,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 0.8,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 0.8,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 0.8,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 0.8,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 0.8,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 0.8,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 0.8,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 0.8,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 0.8,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 0.8,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 0.8,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 0.8,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 0.8,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 0.8,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 0.8,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 0.8,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 0.8,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 0.8,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 0.8,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 0.8,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 0.8,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 0.8,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 0.8,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 0.8,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 0.8,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 0.8,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 0.8,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 0.8,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 0.8,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 0.8,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 0.8,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 0.8,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 0.8,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 0.8,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 0.8,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 0.8,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 0.8,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 0.8,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 0.8,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 0.8,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 0.8,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 0.8,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 0.8,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 0.8,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 0.8,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 0.8,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 0.8,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 0.8,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 0.8,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 0.8,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 0.8,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 0.8,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 0.8,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 0.8,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 0.8,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 0.8,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 0.8,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 0.8,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 0.8,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 0.8,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 0.8,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 0.8,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 0.8,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 0.8,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 0.8,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 0.8,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 0.8,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 0.8,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 0.8,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 0.8,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 0.8,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 0.8,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 0.8,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 0.8,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 0.8,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 0.8,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 0.8,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 0.8,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 0.8,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 0.8,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+}
+]
+}

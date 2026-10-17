@@ -1,0 +1,73 @@
+{
+ "generated": "2026-10-08T17:13:56Z",
+ "teachers": [
+  "nvidia/nemotron-3-super-120b-a12b"
+ ],
+ "subnodes": [
+  {
+   "node": "information",
+   "subnode": "geography",
+   "count": 242,
+   "file": "information/geography.json"
+  },
+  {
+   "node": "information",
+   "subnode": "science",
+   "count": 466,
+   "file": "information/science.json"
+  },
+  {
+   "node": "information",
+   "subnode": "technology",
+   "count": 353,
+   "file": "information/technology.json"
+  },
+  {
+   "node": "information",
+   "subnode": "history",
+   "count": 330,
+   "file": "information/history.json"
+  },
+  {
+   "node": "information",
+   "subnode": "people",
+   "count": 340,
+   "file": "information/people.json"
+  },
+  {
+   "node": "information",
+   "subnode": "mathematics",
+   "count": 228,
+   "file": "information/mathematics.json"
+  },
+  {
+   "node": "information",
+   "subnode": "everyday",
+   "count": 215,
+   "file": "information/everyday.json"
+  },
+  {
+   "node": "language",
+   "subnode": "lexicon",
+   "count": 117,
+   "file": "language/lexicon.json"
+  },
+  {
+   "node": "language",
+   "subnode": "relations",
+   "count": 109,
+   "file": "language/relations.json"
+  },
+  {
+   "node": "processing",
+   "subnode": "rules",
+   "count": 121,
+   "file": "processing/rules.json"
+  }
+ ],
+ "stats": {
+  "calls": 71,
+  "facts": 2521,
+  "review": 0
+ }
+}

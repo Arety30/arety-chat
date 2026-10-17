@@ -1,0 +1,4099 @@
+{
+"node": "information",
+"subnode": "people",
+"topics": [
+"scientists and their discoveries",
+"writers and their works",
+"artists and their works",
+"mathematicians and their results"
+],
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+],
+"generated": "2026-10-08T17:25:05Z",
+"count": 340,
+"facts": [
+[
+"Albert Einstein",
+"definition",
+"Theoretical physicist who developed the theory of relativity"
+],
+[
+"Albert Einstein",
+"birthplace",
+"Ulm, Germany"
+],
+[
+"Albert Einstein",
+"birthday",
+"1879-03-14"
+],
+[
+"Albert Einstein",
+"created_by",
+"N/A"
+],
+[
+"Albert Einstein",
+"is_a",
+"physicist"
+],
+[
+"Albert Einstein",
+"symbol",
+"E=mc²"
+],
+[
+"Marie Curie",
+"definition",
+"Physicist and chemist who conducted pioneering research on radioactivity"
+],
+[
+"Marie Curie",
+"birthplace",
+"Warsaw, Poland"
+],
+[
+"Marie Curie",
+"birthday",
+"1867-11-07"
+],
+[
+"Marie Curie",
+"is_a",
+"scientist"
+],
+[
+"Marie Curie",
+"symbol",
+"radioactivity"
+],
+[
+"Isaac Newton",
+"definition",
+"Physicist and mathematician who formulated the laws of motion and universal gravitation"
+],
+[
+"Isaac Newton",
+"birthplace",
+"Woolsthorpe, England"
+],
+[
+"Isaac Newton",
+"birthday",
+"1643-01-04"
+],
+[
+"Isaac Newton",
+"is_a",
+"physicist"
+],
+[
+"Isaac Newton",
+"symbol",
+"F=ma"
+],
+[
+"Charles Darwin",
+"definition",
+"Naturalist who proposed the theory of evolution by natural selection"
+],
+[
+"Charles Darwin",
+"birthplace",
+"Shrewsbury, England"
+],
+[
+"Charles Darwin",
+"birthday",
+"1809-02-12"
+],
+[
+"Charles Darwin",
+"is_a",
+"biologist"
+],
+[
+"Charles Darwin",
+"symbol",
+"On the Origin of Species"
+],
+[
+"Nikola Tesla",
+"definition",
+"Electrical engineer and inventor known for contributions to alternating current (AC) systems"
+],
+[
+"Nikola Tesla",
+"birthplace",
+"Smiljan, Austrian Empire (now Croatia)"
+],
+[
+"Nikola Tesla",
+"birthday",
+"1856-07-10"
+],
+[
+"Nikola Tesla",
+"is_a",
+"inventor"
+],
+[
+"Nikola Tesla",
+"symbol",
+"AC motor"
+],
+[
+"Galileo Galilei",
+"definition",
+"Astronomer and physicist who improved the telescope and supported heliocentrism"
+],
+[
+"Galileo Galilei",
+"birthplace",
+"Pisa, Italy"
+],
+[
+"Galileo Galilei",
+"birthday",
+"1564-02-15"
+],
+[
+"Galileo Galilei",
+"is_a",
+"astronomer"
+],
+[
+"Galileo Galilei",
+"symbol",
+"telescope"
+],
+[
+"Stephen Hawking",
+"definition",
+"Theoretical physicist known for work on black holes and cosmology"
+],
+[
+"Stephen Hawking",
+"birthplace",
+"Oxford, England"
+],
+[
+"Stephen Hawking",
+"birthday",
+"1942-01-08"
+],
+[
+"Stephen Hawking",
+"is_a",
+"physicist"
+],
+[
+"Stephen Hawking",
+"symbol",
+"Hawking radiation"
+],
+[
+"Rosalind Franklin",
+"definition",
+"Chemist whose X-ray diffraction images were critical to understanding DNA structure"
+],
+[
+"Rosalind Franklin",
+"birthplace",
+"London, England"
+],
+[
+"Rosalind Franklin",
+"birthday",
+"1920-07-25"
+],
+[
+"Rosalind Franklin",
+"is_a",
+"chemist"
+],
+[
+"Rosalind Franklin",
+"symbol",
+"Photo 51"
+],
+[
+"James Watson",
+"definition",
+"Molecular biologist who co-discovered the double helix structure of DNA"
+],
+[
+"James Watson",
+"birthplace",
+"Chicago, Illinois, USA"
+],
+[
+"James Watson",
+"birthday",
+"1928-04-06"
+],
+[
+"James Watson",
+"is_a",
+"biologist"
+],
+[
+"James Watson",
+"symbol",
+"DNA double helix"
+],
+[
+"Francis Crick",
+"definition",
+"Molecular biologist who co-discovered the double helix structure of DNA"
+],
+[
+"Francis Crick",
+"birthplace",
+"Northampton, England"
+],
+[
+"Francis Crick",
+"birthday",
+"1916-06-08"
+],
+[
+"Francis Crick",
+"is_a",
+"biologist"
+],
+[
+"Francis Crick",
+"symbol",
+"DNA double helix"
+],
+[
+"Louis Pasteur",
+"definition",
+"Chemist and microbiologist known for pasteurization and vaccines"
+],
+[
+"Louis Pasteur",
+"birthplace",
+"Dole, France"
+],
+[
+"Louis Pasteur",
+"birthday",
+"1822-12-27"
+],
+[
+"Louis Pasteur",
+"is_a",
+"chemist"
+],
+[
+"Louis Pasteur",
+"symbol",
+"pasteurization"
+],
+[
+"Dmitri Mendeleev",
+"definition",
+"Chemist who created the periodic table of elements"
+],
+[
+"Dmitri Mendeleev",
+"birthplace",
+"Tobolsk, Siberia, Russian Empire"
+],
+[
+"Dmitri Mendeleev",
+"birthday",
+"1834-02-08"
+],
+[
+"Dmitri Mendeleev",
+"is_a",
+"chemist"
+],
+[
+"Dmitri Mendeleev",
+"symbol",
+"periodic table"
+],
+[
+"Alan Turing",
+"definition",
+"Mathematician and computer scientist who formalized computation and broke the Enigma code"
+],
+[
+"Alan Turing",
+"birthplace",
+"London, England"
+],
+[
+"Alan Turing",
+"birthday",
+"1912-06-23"
+],
+[
+"Alan Turing",
+"is_a",
+"computer scientist"
+],
+[
+"Alan Turing",
+"symbol",
+"Turing machine"
+],
+[
+"Ada Lovelace",
+"definition",
+"Mathematician regarded as the first computer programmer"
+],
+[
+"Ada Lovelace",
+"birthplace",
+"London, England"
+],
+[
+"Ada Lovelace",
+"birthday",
+"1815-12-10"
+],
+[
+"Ada Lovelace",
+"is_a",
+"mathematician"
+],
+[
+"Ada Lovelace",
+"symbol",
+"first algorithm"
+],
+[
+"Carl Sagan",
+"definition",
+"Astronomer and science communicator known for Cosmos and extraterrestrial life research"
+],
+[
+"Carl Sagan",
+"birthplace",
+"Brooklyn, New York, USA"
+],
+[
+"Carl Sagan",
+"birthday",
+"1934-11-09"
+],
+[
+"Carl Sagan",
+"is_a",
+"astronomer"
+],
+[
+"Carl Sagan",
+"symbol",
+"Cosmos"
+],
+[
+"Jane Goodall",
+"definition",
+"Primatologist known for long-term study of chimpanzee behavior in Gombe Stream National Park"
+],
+[
+"Jane Goodall",
+"birthplace",
+"London, England"
+],
+[
+"Jane Goodall",
+"birthday",
+"1934-04-03"
+],
+[
+"Jane Goodall",
+"is_a",
+"primatologist"
+],
+[
+"Jane Goodall",
+"symbol",
+"chimpanzee research"
+],
+[
+"Neil deGrasse Tyson",
+"definition",
+"Astrophysicist and science communicator known for popularizing astronomy"
+],
+[
+"Neil deGrasse Tyson",
+"birthplace",
+"New York City, USA"
+],
+[
+"Neil deGrasse Tyson",
+"birthday",
+"1958-10-05"
+],
+[
+"Neil deGrasse Tyson",
+"is_a",
+"astrophysicist"
+],
+[
+"Neil deGrasse Tyson",
+"symbol",
+"astrophysics outreach"
+],
+[
+"Who discovered penicillin?",
+"answer",
+"Alexander Fleming discovered penicillin in 1928."
+],
+[
+"Who formulated the theory of relativity?",
+"answer",
+"Albert Einstein formulated the theory of relativity."
+],
+[
+"Who discovered the structure of DNA?",
+"answer",
+"James Watson and Francis Crick discovered the double-helix structure of DNA in 1953."
+],
+[
+"Who developed the first successful polio vaccine?",
+"answer",
+"Jonas Salk developed the first successful polio vaccine in 1955."
+],
+[
+"Who discovered radioactivity?",
+"answer",
+"Henri Becquerel discovered radioactivity in 1896."
+],
+[
+"Who proposed the heliocentric model of the solar system?",
+"answer",
+"Nicolaus Copernicus proposed the heliocentric model of the solar system."
+],
+[
+"Who discovered the law of universal gravitation?",
+"answer",
+"Isaac Newton discovered the law of universal gravitation."
+],
+[
+"Who discovered the electron?",
+"answer",
+"J.J. Thomson discovered the electron in 1897."
+],
+[
+"Who discovered X-rays?",
+"answer",
+"Wilhelm Conrad Röntgen discovered X-rays in 1895."
+],
+[
+"Who developed the periodic table of elements?",
+"answer",
+"Dmitri Mendeleev developed the periodic table of elements in 1869."
+],
+[
+"Who discovered the neutron?",
+"answer",
+"James Chadwick discovered the neutron in 1932."
+],
+[
+"Who discovered the proton?",
+"answer",
+"Ernest Rutherford discovered the proton in 1917."
+],
+[
+"Who discovered the cell nucleus?",
+"answer",
+"Robert Brown discovered the cell nucleus in 1831."
+],
+[
+"Who discovered the process of photosynthesis?",
+"answer",
+"Jan Ingenhousz discovered the process of photosynthesis in the 1770s."
+],
+[
+"Who discovered the circulation of blood?",
+"answer",
+"William Harvey discovered the circulation of blood in 1628."
+],
+[
+"Who discovered the antibiotic streptomycin?",
+"answer",
+"Selman Waksman discovered streptomycin in 1943."
+],
+[
+"Who discovered the cause of malaria?",
+"answer",
+"Charles Louis Alphonse Laveran discovered the parasite causing malaria in 1880."
+],
+[
+"Who discovered the structure of the atom?",
+"answer",
+"Ernest Rutherford discovered the nuclear structure of the atom in 1911."
+],
+[
+"Who discovered the law of segregation and independent assortment?",
+"answer",
+"Gregor Mendel discovered the laws of inheritance through pea plant experiments."
+],
+[
+"Who discovered the expanding universe?",
+"answer",
+"Edwin Hubble discovered that the universe is expanding in 1929."
+],
+[
+"Who discovered the cosmic microwave background radiation?",
+"answer",
+"Arno Penzias and Robert Wilson discovered the cosmic microwave background radiation in 1965."
+],
+[
+"Who discovered the first antibiotic?",
+"answer",
+"Alexander Fleming discovered the first antibiotic, penicillin, in 1928."
+],
+[
+"Who discovered the role of chromosomes in heredity?",
+"answer",
+"Thomas Hunt Morgan discovered the role of chromosomes in heredity using fruit flies."
+],
+[
+"Who discovered the function of the pancreas in diabetes?",
+"answer",
+"Frederick Banting and Charles Best discovered insulin and its role in diabetes in 1921."
+],
+[
+"Who discovered the structure of the ribosome?",
+"answer",
+"Ada Yonath, Venkatraman Ramakrishnan, and Thomas Steitz discovered the structure of the ribosome."
+],
+[
+"Who discovered the mechanism of natural selection?",
+"answer",
+"Charles Darwin and Alfred Russel Wallace independently discovered the mechanism of natural selection."
+],
+[
+"Who discovered the first exoplanet orbiting a main-sequence star?",
+"answer",
+"Michel Mayor and Didier Queloz discovered the first exoplanet orbiting a main-sequence star in 1995."
+],
+[
+"Who discovered the double helix structure of DNA?",
+"answer",
+"James Watson and Francis Crick discovered the double helix structure of DNA in 1953."
+],
+[
+"Who discovered the cause of scurvy?",
+"answer",
+"James Lind discovered that citrus fruits prevent scurvy in 1747."
+],
+[
+"Who discovered the law of conservation of energy?",
+"answer",
+"Julius von Mayer, James Prescott Joule, and Hermann von Helmholtz independently contributed to the discovery of the law of conservation of energy."
+],
+[
+"Who discovered the first vaccine?",
+"answer",
+"Edward Jenner developed the first vaccine for smallpox in 1796."
+],
+[
+"Who discovered the structure of the benzene ring?",
+"answer",
+"August Kekulé discovered the ring structure of benzene in 1865."
+],
+[
+"Who discovered the greenhouse effect?",
+"answer",
+"Joseph Fourier first described the greenhouse effect in the 1820s."
+],
+[
+"Who discovered the cause of tuberculosis?",
+"answer",
+"Robert Koch discovered the bacterium causing tuberculosis in 1882."
+],
+[
+"Who discovered the structure of the virus?",
+"answer",
+"Wendell Stanley first crystallized the tobacco mosaic virus, demonstrating its chemical nature in 1935."
+],
+[
+"Who discovered the role of insulin in glucose regulation?",
+"answer",
+"Frederick Banting and Charles Best discovered insulin and its role in glucose regulation in 1921."
+],
+[
+"Who discovered the first human gene associated with a disease?",
+"answer",
+"Victor McKusick and colleagues identified the first human gene linked to a disease in the context of genetic disorders, though the first specific disease gene (for sickle cell anemia) was identified by Linus Pauling and colleagues in 1949."
+],
+[
+"Who discovered the structure of the ribosome?",
+"answer",
+"Ada Yonath, Venkatraman Ramakrishnan, and Thomas Steitz elucidated the structure of the ribosome, for which they shared the 2009 Nobel Prize in Chemistry."
+],
+[
+"Who discovered the cause of peptic ulcers?",
+"answer",
+"Barry Marshall and Robin Warren discovered that Helicobacter pylori causes peptic ulcers in 1982."
+],
+[
+"Who discovered the first human hormone?",
+"answer",
+"Edward Kendall isolated thyroxine, the first hormone, in 1914."
+],
+[
+"Who discovered the structure of the cell membrane?",
+"answer",
+"Singer and Nicolson proposed the fluid mosaic model of the cell membrane in 1972."
+],
+[
+"Who discovered the first human chromosome abnormality?",
+"answer",
+"Jerome Lejeune discovered that Down syndrome is caused by an extra copy of chromosome 21 in 1959."
+],
+[
+"Who discovered the structure of the antibody?",
+"answer",
+"Rodney Porter and Gerald Edelman elucidated the structure of antibodies, sharing the 1972 Nobel Prize in Physiology or Medicine."
+],
+[
+"Who discovered the role of telomeres in aging?",
+"answer",
+"Elizabeth Blackburn, Carol Greider, and Jack Szostak discovered how telomeres protect chromosomes and the enzyme telomerase, for which they won the 2009 Nobel Prize in Physiology or Medicine."
+],
+[
+"Who discovered the first human oncogene?",
+"answer",
+"Michael Bishop and Harold Varmus discovered the first human oncogene, src, in 1976."
+],
+[
+"Who discovered the structure of the nucleosome?",
+"answer",
+"Roger Kornberg discovered the nucleosome as the basic unit of chromatin in 1974."
+],
+[
+"Who discovered the cause of kuru?",
+"answer",
+"Carleton Gajdusek discovered that kuru is caused by infectious proteins (prions) in the 1950s–60s."
+],
+[
+"Who discovered the structure of the ribosome?",
+"answer",
+"Ada Yonath, Venkatraman Ramakrishnan, and Thomas Steitz determined the atomic structure of the ribosome using X-ray crystallography."
+],
+[
+"William Shakespeare",
+"created_by",
+"William Shakespeare"
+],
+[
+"William Shakespeare",
+"is_a",
+"writer"
+],
+[
+"Hamlet",
+"created_by",
+"William Shakespeare"
+],
+[
+"Romeo and Juliet",
+"created_by",
+"William Shakespeare"
+],
+[
+"Macbeth",
+"created_by",
+"William Shakespeare"
+],
+[
+"Jane Austen",
+"is_a",
+"writer"
+],
+[
+"Pride and Prejudice",
+"created_by",
+"Jane Austen"
+],
+[
+"Sense and Sensibility",
+"created_by",
+"Jane Austen"
+],
+[
+"Emma",
+"created_by",
+"Jane Austen"
+],
+[
+"Charles Dickens",
+"is_a",
+"writer"
+],
+[
+"Oliver Twist",
+"created_by",
+"Charles Dickens"
+],
+[
+"Great Expectations",
+"created_by",
+"Charles Dickens"
+],
+[
+"A Tale of Two Cities",
+"created_by",
+"Charles Dickens"
+],
+[
+"Mark Twain",
+"is_a",
+"writer"
+],
+[
+"The Adventures of Tom Sawyer",
+"created_by",
+"Mark Twain"
+],
+[
+"Adventures of Huckleberry Finn",
+"created_by",
+"Mark Twain"
+],
+[
+"Ernest Hemingway",
+"is_a",
+"writer"
+],
+[
+"The Old Man and the Sea",
+"created_by",
+"Ernest Hemingway"
+],
+[
+"For Whom the Bell Tolls",
+"created_by",
+"Ernest Hemingway"
+],
+[
+"F. Scott Fitzgerald",
+"is_a",
+"writer"
+],
+[
+"The Great Gatsby",
+"created_by",
+"F. Scott Fitzgerald"
+],
+[
+"Tender Is the Night",
+"created_by",
+"F. Scott Fitzgerald"
+],
+[
+"Virginia Woolf",
+"is_a",
+"writer"
+],
+[
+"Mrs Dalloway",
+"created_by",
+"Virginia Woolf"
+],
+[
+"To the Lighthouse",
+"created_by",
+"Virginia Woolf"
+],
+[
+"George Orwell",
+"is_a",
+"writer"
+],
+[
+"1984",
+"created_by",
+"George Orwell"
+],
+[
+"Animal Farm",
+"created_by",
+"George Orwell"
+],
+[
+"Toni Morrison",
+"is_a",
+"writer"
+],
+[
+"Beloved",
+"created_by",
+"Toni Morrison"
+],
+[
+"Song of Solomon",
+"created_by",
+"Toni Morrison"
+],
+[
+"Gabriel García Márquez",
+"is_a",
+"writer"
+],
+[
+"One Hundred Years of Solitude",
+"created_by",
+"Gabriel García Márquez"
+],
+[
+"Love in the Time of Cholera",
+"created_by",
+"Gabriel García Márquez"
+],
+[
+"Harper Lee",
+"is_a",
+"writer"
+],
+[
+"To Kill a Mockingbird",
+"created_by",
+"Harper Lee"
+],
+[
+"J.K. Rowling",
+"is_a",
+"writer"
+],
+[
+"Harry Potter and the Philosopher's Stone",
+"created_by",
+"J.K. Rowling"
+],
+[
+"Maya Angelou",
+"is_a",
+"writer"
+],
+[
+"I Know Why the Caged Bird Sings",
+"created_by",
+"Maya Angelou"
+],
+[
+"Vincent van Gogh",
+"created_by",
+"Starry Night"
+],
+[
+"Leonardo da Vinci",
+"created_by",
+"Mona Lisa"
+],
+[
+"Pablo Picasso",
+"created_by",
+"Guernica"
+],
+[
+"Claude Monet",
+"created_by",
+"Water Lilies"
+],
+[
+"Michelangelo",
+"created_by",
+"David"
+],
+[
+"Rembrandt",
+"created_by",
+"The Night Watch"
+],
+[
+"Frida Kahlo",
+"created_by",
+"The Two Fridas"
+],
+[
+"Salvador Dalí",
+"created_by",
+"The Persistence of Memory"
+],
+[
+"Andy Warhol",
+"created_by",
+"Campbell's Soup Cans"
+],
+[
+"Edvard Munch",
+"created_by",
+"The Scream"
+],
+[
+"Johannes Vermeer",
+"created_by",
+"Girl with a Pearl Earring"
+],
+[
+"Gustav Klimt",
+"created_by",
+"The Kiss"
+],
+[
+"Henri Matisse",
+"created_by",
+"The Dance"
+],
+[
+"Jackson Pollock",
+"created_by",
+"Number 1A, 1948"
+],
+[
+"Georgia O'Keeffe",
+"created_by",
+"Jimson Weed/White Flower No. 1"
+],
+[
+"Edgar Degas",
+"created_by",
+"The Dance Class"
+],
+[
+"Paul Cézanne",
+"created_by",
+"The Basket of Apples"
+],
+[
+"Wassily Kandinsky",
+"created_by",
+"Composition VII"
+],
+[
+"Henri Rousseau",
+"created_by",
+"The Sleeping Gypsy"
+],
+[
+"Who painted the Mona Lisa?",
+"answer",
+"Leonardo da Vinci painted the Mona Lisa."
+],
+[
+"What is the title of Vincent van Gogh's famous painting of a night sky?",
+"answer",
+"The title of Vincent van Gogh's famous painting of a night sky is The Starry Night."
+],
+[
+"Which artist created the sculpture David?",
+"answer",
+"Michelangelo created the sculpture David."
+],
+[
+"What movement is Pablo Picasso most associated with?",
+"answer",
+"Pablo Picasso is most associated with the Cubist movement."
+],
+[
+"Who painted The Persistence of Memory?",
+"answer",
+"Salvador Dalí painted The Persistence of Memory."
+],
+[
+"What is the subject of Edvard Munch's The Scream?",
+"answer",
+"The subject of Edvard Munch's The Scream is a figure expressing anguish against a swirling sky."
+],
+[
+"Which artist is known for his series of water lilies paintings?",
+"answer",
+"Claude Monet is known for his series of water lilies paintings."
+],
+[
+"What medium did Frida Kahlo primarily use for her self-portraits?",
+"answer",
+"Frida Kahlo primarily used oil paint for her self-portraits."
+],
+[
+"Who painted The Birth of Venus?",
+"answer",
+"Sandro Botticelli painted The Birth of Venus."
+],
+[
+"What is the name of Andy Warhol's famous series featuring Campbell's Soup cans?",
+"answer",
+"Andy Warhol's famous series featuring Campbell's Soup cans is called Campbell's Soup Cans."
+],
+[
+"Which artist painted The Night Watch?",
+"answer",
+"Rembrandt van Rijn painted The Night Watch."
+],
+[
+"What is the primary subject of Georgia O'Keeffe's flower paintings?",
+"answer",
+"The primary subject of Georgia O'Keeffe's flower paintings is enlarged, close-up views of flowers."
+],
+[
+"Who created the ceiling frescoes in the Sistine Chapel?",
+"answer",
+"Michelangelo created the ceiling frescoes in the Sistine Chapel."
+],
+[
+"What is the title of Johannes Vermeer's painting of a girl with a pearl earring?",
+"answer",
+"The title of Johannes Vermeer's painting of a girl with a pearl earring is Girl with a Pearl Earring."
+],
+[
+"Which artist is known for his drip painting technique?",
+"answer",
+"Jackson Pollock is known for his drip painting technique."
+],
+[
+"What is the name of the painting that shows a melting clock in a desert landscape?",
+"answer",
+"The painting that shows a melting clock in a desert landscape is The Persistence of Memory."
+],
+[
+"Who painted The Girl with a Pearl Earring?",
+"answer",
+"Johannes Vermeer painted The Girl with a Pearl Earring."
+],
+[
+"What is the significance of Marcel Duchamp's Fountain?",
+"answer",
+"Marcel Duchamp's Fountain is a readymade sculpture that challenged traditional definitions of art."
+],
+[
+"Which artist painted The Scream?",
+"answer",
+"Edvard Munch painted The Scream."
+],
+[
+"What is the title of Claude Monet's series depicting his garden at Giverny?",
+"answer",
+"The title of Claude Monet's series depicting his garden at Giverny is Water Lilies."
+],
+[
+"Who is the artist behind the painting American Gothic?",
+"answer",
+"Grant Wood is the artist behind the painting American Gothic."
+],
+[
+"What movement did Henri Matisse help lead?",
+"answer",
+"Henri Matisse helped lead the Fauvist movement."
+],
+[
+"Which artist created the sculpture The Thinker?",
+"answer",
+"Auguste Rodin created the sculpture The Thinker."
+],
+[
+"What is the subject of Diego Rivera's murals?",
+"answer",
+"The subject of Diego Rivera's murals is often Mexican history, industry, and social life."
+],
+[
+"Who painted The Last Supper?",
+"answer",
+"Leonardo da Vinci painted The Last Supper."
+],
+[
+"What is the title of Salvador Dalí's painting with soft, melting clocks?",
+"answer",
+"The title of Salvador Dalí's painting with soft, melting clocks is The Persistence of Memory."
+],
+[
+"Which artist is known for his pointillist technique using small dots of color?",
+"answer",
+"Georges Seurat is known for his pointillist technique using small dots of color."
+],
+[
+"What is the name of the painting that shows a woman sitting alone in a room with a window, by Edward Hopper?",
+"answer",
+"The painting that shows a woman sitting alone in a room with a window, by Edward Hopper, is Nighthawks."
+],
+[
+"Who painted The Kiss?",
+"answer",
+"Gustav Klimt painted The Kiss."
+],
+[
+"What is the primary characteristic of Wassily Kandinsky's abstract works?",
+"answer",
+"The primary characteristic of Wassily Kandinsky's abstract works is the use of color and form to evoke emotion without representing objects."
+],
+[
+"Which artist painted The Third of May 1808?",
+"answer",
+"Francisco Goya painted The Third of May 1808."
+],
+[
+"What is the title of the painting that shows a lone figure standing on a bridge under a tumultuous sky?",
+"answer",
+"The title of the painting that shows a lone figure standing on a bridge under a tumultuous sky is The Scream."
+],
+[
+"Who created the sculpture Balzac?",
+"answer",
+"Auguste Rodin created the sculpture Balzac."
+],
+[
+"What is the name of the art movement that emphasized light and color in outdoor scenes, led by Monet and Renoir?",
+"answer",
+"The art movement that emphasized light and color in outdoor scenes, led by Monet and Renoir, is Impressionism."
+],
+[
+"Which artist painted The Weeping Woman series?",
+"answer",
+"Pablo Picasso painted The Weeping Woman series."
+],
+[
+"What is the subject of Käthe Kollwitz's prints and drawings?",
+"answer",
+"The subject of Käthe Kollwitz's prints and drawings is often the suffering of the working class and the impact of war."
+],
+[
+"Who painted The Arnolfini Portrait?",
+"answer",
+"Jan van Eyck painted The Arnolfini Portrait."
+],
+[
+"What is the title of the painting that depicts a woman lying nude on a couch, by Titian?",
+"answer",
+"The title of the painting that depicts a woman lying nude on a couch, by Titian, is Venus of Urbino."
+],
+[
+"Which artist is known for his large-scale abstract expressionist paintings with bold brushstrokes?",
+"answer",
+"Willem de Kooning is known for his large-scale abstract expressionist paintings with bold brushstrokes."
+],
+[
+"What is the name of the sculpture that shows a figure reaching upward, by Alberto Giacometti?",
+"answer",
+"The name of the sculpture that shows a figure reaching upward, by Alberto Giacometti, is Walking Man I."
+],
+[
+"Who painted The Gleaners?",
+"answer",
+"Jean-François Millet painted The Gleaners."
+],
+[
+"What is the primary subject of Jacob Lawrence's Migration Series?",
+"answer",
+"The primary subject of Jacob Lawrence's Migration Series is the movement of African Americans from the rural South to the urban North in the early 20th century."
+],
+[
+"Euclid",
+"is_a",
+"mathematician"
+],
+[
+"Euclid",
+"created_by",
+"ancient_greece"
+],
+[
+"Euclid",
+"definition",
+"Greek mathematician known as the 'father of geometry'"
+],
+[
+"Euclid",
+"largest",
+"Elements"
+],
+[
+"Pythagoras",
+"is_a",
+"mathematician"
+],
+[
+"Pythagoras",
+"created_by",
+"ancient_greece"
+],
+[
+"Pythagoras",
+"definition",
+"Greek mathematician and philosopher known for the Pythagorean theorem"
+],
+[
+"Pythagoras",
+"formula",
+"a² + b² = c²"
+],
+[
+"Archimedes",
+"is_a",
+"mathematician"
+],
+[
+"Archimedes",
+"created_by",
+"ancient_greece"
+],
+[
+"Archimedes",
+"definition",
+"Greek mathematician, physicist, and engineer known for principles of buoyancy and levers"
+],
+[
+"Archimedes",
+"formula",
+"π ≈ 22/7"
+],
+[
+"Isaac Newton",
+"is_a",
+"mathematician"
+],
+[
+"Isaac Newton",
+"definition",
+"English mathematician and physicist who developed calculus and laws of motion"
+],
+[
+"Isaac Newton",
+"created_by",
+"calculus"
+],
+[
+"Carl Friedrich Gauss",
+"is_a",
+"mathematician"
+],
+[
+"Carl Friedrich Gauss",
+"birthplace",
+"Brunswick, Germany"
+],
+[
+"Carl Friedrich Gauss",
+"birthday",
+"1777-04-30"
+],
+[
+"Carl Friedrich Gauss",
+"definition",
+"German mathematician known as the 'Prince of Mathematicians'"
+],
+[
+"Carl Friedrich Gauss",
+"created_by",
+"Gaussian distribution"
+],
+[
+"Leonhard Euler",
+"is_a",
+"mathematician"
+],
+[
+"Leonhard Euler",
+"birthplace",
+"Basel, Switzerland"
+],
+[
+"Leonhard Euler",
+"birthday",
+"1707-04-15"
+],
+[
+"Leonhard Euler",
+"definition",
+"Swiss mathematician who made foundational contributions to calculus and graph theory"
+],
+[
+"Leonhard Euler",
+"created_by",
+"Euler's identity"
+],
+[
+"Leonhard Euler",
+"formula",
+"e^(iπ) + 1 = 0"
+],
+[
+"Alan Turing",
+"is_a",
+"mathematician"
+],
+[
+"Alan Turing",
+"definition",
+"English mathematician and computer scientist who formalized computation and the Turing machine"
+],
+[
+"Alan Turing",
+"created_by",
+"Turing test"
+],
+[
+"Ada Lovelace",
+"definition",
+"English mathematician recognized as the first computer programmer"
+],
+[
+"Ada Lovelace",
+"created_by",
+"first algorithm"
+],
+[
+"Bernhard Riemann",
+"is_a",
+"mathematician"
+],
+[
+"Bernhard Riemann",
+"birthplace",
+"Breselenz, Germany"
+],
+[
+"Bernhard Riemann",
+"birthday",
+"1826-09-17"
+],
+[
+"Bernhard Riemann",
+"definition",
+"German mathematician known for Riemannian geometry and the Riemann hypothesis"
+],
+[
+"Bernhard Riemann",
+"created_by",
+"Riemann hypothesis"
+],
+[
+"Henri Poincaré",
+"is_a",
+"mathematician"
+],
+[
+"Henri Poincaré",
+"birthplace",
+"Nancy, France"
+],
+[
+"Henri Poincaré",
+"birthday",
+"1854-04-29"
+],
+[
+"Henri Poincaré",
+"definition",
+"French mathematician, theoretical physicist, and philosopher of science"
+],
+[
+"Henri Poincaré",
+"created_by",
+"Poincaré conjecture"
+],
+[
+"Andrew Wiles",
+"is_a",
+"mathematician"
+],
+[
+"Andrew Wiles",
+"birthplace",
+"Cambridge, England"
+],
+[
+"Andrew Wiles",
+"birthday",
+"1953-04-11"
+],
+[
+"Andrew Wiles",
+"definition",
+"English mathematician who proved Fermat's Last Theorem"
+],
+[
+"Andrew Wiles",
+"created_by",
+"proof of Fermat's Last Theorem"
+],
+[
+"Grigori Perelman",
+"is_a",
+"mathematician"
+],
+[
+"Grigori Perelman",
+"birthplace",
+"Saint Petersburg, Russia"
+],
+[
+"Grigori Perelman",
+"birthday",
+"1966-06-13"
+],
+[
+"Grigori Perelman",
+"definition",
+"Russian mathematician who proved the Poincaré conjecture"
+],
+[
+"Grigori Perelman",
+"created_by",
+"proof of the Poincaré conjecture"
+],
+[
+"John Nash",
+"is_a",
+"mathematician"
+],
+[
+"John Nash",
+"birthplace",
+"Bluefield, West Virginia, USA"
+],
+[
+"John Nash",
+"birthday",
+"1928-06-13"
+],
+[
+"John Nash",
+"definition",
+"American mathematician known for contributions to game theory and Nash equilibrium"
+],
+[
+"John Nash",
+"created_by",
+"Nash equilibrium"
+],
+[
+"Katherine Johnson",
+"is_a",
+"mathematician"
+],
+[
+"Katherine Johnson",
+"birthplace",
+"White Sulphur Springs, West Virginia, USA"
+],
+[
+"Katherine Johnson",
+"birthday",
+"1918-08-26"
+],
+[
+"Katherine Johnson",
+"definition",
+"African-American mathematician whose calculations were critical to NASA's early space missions"
+],
+[
+"Katherine Johnson",
+"created_by",
+"orbital mechanics calculations"
+],
+[
+"Who proved the infinitude of prime numbers?",
+"answer",
+"Euclid proved the infinitude of prime numbers."
+],
+[
+"Who developed the method of exhaustion to calculate areas and volumes?",
+"answer",
+"Archimedes developed the method of exhaustion to calculate areas and volumes."
+],
+[
+"Who is known for formulating the Pythagorean theorem?",
+"answer",
+"Pythagoras is known for formulating the Pythagorean theorem."
+],
+[
+"Who introduced the concept of zero as a number in Indian mathematics?",
+"answer",
+"Brahmagupta introduced the concept of zero as a number in Indian mathematics."
+],
+[
+"Who wrote the foundational text 'Elements' in geometry?",
+"answer",
+"Euclid wrote the foundational text 'Elements' in geometry."
+],
+[
+"Who discovered the formula for the sum of an arithmetic series?",
+"answer",
+"Carl Friedrich Gauss discovered the formula for the sum of an arithmetic series."
+],
+[
+"Who proved the fundamental theorem of algebra?",
+"answer",
+"Carl Friedrich Gauss proved the fundamental theorem of algebra."
+],
+[
+"Who developed calculus independently of Newton?",
+"answer",
+"Gottfried Wilhelm Leibniz developed calculus independently of Newton."
+],
+[
+"Who formulated the laws of motion and universal gravitation?",
+"answer",
+"Isaac Newton formulated the laws of motion and universal gravitation."
+],
+[
+"Who introduced the concept of a function in mathematics?",
+"answer",
+"Leonhard Euler introduced the concept of a function in mathematics."
+],
+[
+"Who solved the Basel problem by showing the sum of reciprocal squares equals π²/6?",
+"answer",
+"Leonhard Euler solved the Basel problem by showing the sum of reciprocal squares equals π²/6."
+],
+[
+"Who proved that the square root of 2 is irrational?",
+"answer",
+"The ancient Greeks, likely followers of Pythagoras, proved that the square root of 2 is irrational."
+],
+[
+"Who developed non-Euclidean geometry?",
+"answer",
+"Nikolai Lobachevsky, János Bolyai, and Carl Friedrich Gauss independently developed non-Euclidean geometry."
+],
+[
+"Who proved the impossibility of trisecting an angle with straightedge and compass?",
+"answer",
+"Pierre Wantzel proved the impossibility of trisecting an angle with straightedge and compass."
+],
+[
+"Who introduced the concept of groups in abstract algebra?",
+"answer",
+"Évariste Galois introduced the concept of groups in abstract algebra."
+],
+[
+"Who proved the insolvability of the general quintic equation by radicals?",
+"answer",
+"Évariste Galois proved the insolvability of the general quintic equation by radicals."
+],
+[
+"Who developed set theory?",
+"answer",
+"Georg Cantor developed set theory."
+],
+[
+"Who proved that the real numbers are uncountable?",
+"answer",
+"Georg Cantor proved that the real numbers are uncountable."
+],
+[
+"Who formulated the incompleteness theorems in mathematical logic?",
+"answer",
+"Kurt Gödel formulated the incompleteness theorems in mathematical logic."
+],
+[
+"Who proved the prime number theorem?",
+"answer",
+"Jacques Hadamard and Charles Jean de la Vallée-Poussin independently proved the prime number theorem."
+],
+[
+"Who developed the theory of relativity?",
+"answer",
+"Albert Einstein developed the theory of relativity."
+],
+[
+"Who introduced the concept of topological spaces?",
+"answer",
+"Felix Hausdorff introduced the concept of topological spaces."
+],
+[
+"Who solved the four-color problem?",
+"answer",
+"Kenneth Appel and Wolfgang Haken solved the four-color problem using computer assistance."
+],
+[
+"Who proved Fermat's Last Theorem?",
+"answer",
+"Andrew Wiles proved Fermat's Last Theorem."
+],
+[
+"Who developed the theory of algorithms and computability?",
+"answer",
+"Alan Turing developed the theory of algorithms and computability."
+],
+[
+"Who introduced the concept of NP-completeness?",
+"answer",
+"Stephen Cook introduced the concept of NP-completeness."
+],
+[
+"Who proved the Poincaré conjecture?",
+"answer",
+"Grigori Perelman proved the Poincaré conjecture."
+],
+[
+"Who developed the Fourier series?",
+"answer",
+"Joseph Fourier developed the Fourier series."
+],
+[
+"Who introduced the concept of vectors and vector analysis?",
+"answer",
+"Josiah Willard Gibbs and Oliver Heaviside independently introduced the concept of vectors and vector analysis."
+],
+[
+"Who formulated the axioms of probability theory?",
+"answer",
+"Andrey Kolmogorov formulated the axioms of probability theory."
+],
+[
+"Who developed game theory?",
+"answer",
+"John von Neumann and Oskar Morgenstern developed game theory."
+],
+[
+"Who proved the existence of Nash equilibria in finite games?",
+"answer",
+"John Nash proved the existence of Nash equilibria in finite games."
+],
+[
+"Who introduced the concept of fractals?",
+"answer",
+"Benoît Mandelbrot introduced the concept of fractals."
+],
+[
+"Who developed the fast Fourier transform algorithm?",
+"answer",
+"James Cooley and John Tukey developed the fast Fourier transform algorithm."
+],
+[
+"Who proved the classification of finite simple groups?",
+"answer",
+"A collaboration of many mathematicians, culminating in work by Daniel Gorenstein, proved the classification of finite simple groups."
+],
+[
+"Who developed the theory of manifolds?",
+"answer",
+"Bernhard Riemann developed the theory of manifolds."
+],
+[
+"Who introduced the Riemann hypothesis?",
+"answer",
+"Bernhard Riemann introduced the Riemann hypothesis."
+],
+[
+"Who proved the spectral theorem for self-adjoint operators?",
+"answer",
+"David Hilbert and others contributed, but the full spectral theorem for self-adjoint operators on Hilbert spaces was rigorously established by John von Neumann."
+],
+[
+"Who developed the theory of distributions (generalized functions)?",
+"answer",
+"Laurent Schwartz developed the theory of distributions (generalized functions)."
+],
+[
+"Who proved the Atiyah-Singer index theorem?",
+"answer",
+"Michael Atiyah and Isadore Singer proved the Atiyah-Singer index theorem."
+],
+[
+"Who introduced the concept of categories in mathematics?",
+"answer",
+"Samuel Eilenberg and Saunders Mac Lane introduced the concept of categories in mathematics."
+],
+[
+"Who developed homological algebra?",
+"answer",
+"Henri Cartan and Samuel Eilenberg developed homological algebra."
+],
+[
+"Who proved the Weil conjectures?",
+"answer",
+"Pierre Deligne proved the Weil conjectures."
+],
+[
+"Who developed the theory of schemes in algebraic geometry?",
+"answer",
+"Alexander Grothendieck developed the theory of schemes in algebraic geometry."
+]
+],
+"meta": [
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 0.8,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 0.8,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 0.8,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 0.8,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 0.8,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 0.8,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 0.8,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 0.8,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 0.8,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 0.8,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 0.8,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 0.8,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 0.8,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 0.8,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 0.8,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 0.8,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 0.8,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 0.8,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 0.8,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 0.8,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 0.8,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 0.8,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 0.8,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 0.8,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 0.8,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 0.8,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 0.8,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 0.8,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 0.8,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 0.8,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 0.8,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 0.8,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 0.8,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 0.8,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 0.8,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 0.8,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 0.8,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 0.8,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 0.8,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 0.8,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 0.8,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 0.8,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 0.8,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 0.8,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 0.8,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 0.8,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 0.8,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 0.8,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 0.8,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 0.8,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 0.8,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 0.8,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 0.8,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 0.8,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 0.8,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 0.8,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 0.8,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 0.8,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 0.8,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 0.8,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 0.8,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 0.8,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 0.8,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 0.8,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 0.8,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 0.8,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 0.8,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 0.8,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 0.8,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 0.8,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 0.8,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 0.8,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 0.8,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 0.8,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 0.8,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 0.8,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 0.8,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 0.8,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 0.8,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 0.8,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 0.8,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 0.8,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 0.8,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 0.8,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 0.8,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 0.8,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 0.8,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 0.8,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 0.8,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 0.8,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 0.8,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 0.8,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 0.8,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 0.8,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 0.8,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 0.8,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 0.8,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 0.8,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 0.8,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 0.8,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 0.8,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 0.8,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 0.8,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 0.8,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 0.8,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 0.8,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 0.8,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 0.8,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 0.8,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 0.8,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 0.8,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 0.8,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 0.8,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 0.8,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 0.8,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 0.8,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 0.8,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 0.8,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 0.8,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 0.8,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 0.8,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 0.8,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 0.8,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 0.8,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 0.8,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 0.8,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 0.8,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 0.8,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 0.8,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 0.8,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 0.8,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 0.8,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 0.8,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 0.8,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+}
+]
+}

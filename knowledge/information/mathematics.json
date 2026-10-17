@@ -1,0 +1,2755 @@
+{
+"node": "information",
+"subnode": "mathematics",
+"topics": [
+"definitions of arithmetic and algebra terms",
+"geometry facts and formulas",
+"number theory basics",
+"units and conversions"
+],
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+],
+"generated": "2026-10-08T17:26:52Z",
+"count": 228,
+"facts": [
+[
+"triangle",
+"definition",
+"a polygon with three edges and three vertices"
+],
+[
+"square",
+"definition",
+"a quadrilateral with four equal sides and four right angles"
+],
+[
+"circle",
+"definition",
+"a set of points in a plane equidistant from a given point called the center"
+],
+[
+"radius",
+"definition",
+"the distance from the center of a circle to any point on its circumference"
+],
+[
+"diameter",
+"definition",
+"a line segment passing through the center of a circle with endpoints on the circle"
+],
+[
+"circumference",
+"definition",
+"the distance around a circle"
+],
+[
+"area",
+"definition",
+"the measure of the space inside a two-dimensional shape"
+],
+[
+"perimeter",
+"definition",
+"the total length of the boundary of a two-dimensional shape"
+],
+[
+"pythagorean_theorem",
+"definition",
+"in a right triangle, the square of the hypotenuse equals the sum of the squares of the other two sides"
+],
+[
+"pi",
+"definition",
+"the ratio of a circle's circumference to its diameter, approximately 3.14159"
+],
+[
+"area_of_circle",
+"formula",
+"πr²"
+],
+[
+"circumference_of_circle",
+"formula",
+"2πr"
+],
+[
+"area_of_square",
+"formula",
+"s²"
+],
+[
+"perimeter_of_square",
+"formula",
+"4s"
+],
+[
+"area_of_rectangle",
+"formula",
+"l × w"
+],
+[
+"perimeter_of_rectangle",
+"formula",
+"2(l + w)"
+],
+[
+"area_of_triangle",
+"formula",
+"½ × base × height"
+],
+[
+"area_of_parallelogram",
+"formula",
+"base × height"
+],
+[
+"area_of_trapezoid",
+"formula",
+"½ × (a + b) × h"
+],
+[
+"volume_of_cube",
+"formula",
+"s³"
+],
+[
+"surface_area_of_cube",
+"formula",
+"6s²"
+],
+[
+"volume_of_sphere",
+"formula",
+"⅘πr³"
+],
+[
+"surface_area_of_sphere",
+"formula",
+"4πr²"
+],
+[
+"volume_of_cylinder",
+"formula",
+"πr²h"
+],
+[
+"surface_area_of_cylinder",
+"formula",
+"2πr(h + r)"
+],
+[
+"volume_of_cone",
+"formula",
+"⅓πr²h"
+],
+[
+"surface_area_of_cone",
+"formula",
+"πr(r + √(r² + h²))"
+],
+[
+"right_triangle",
+"is_a",
+"triangle"
+],
+[
+"equilateral_triangle",
+"is_a",
+"triangle"
+],
+[
+"isosceles_triangle",
+"is_a",
+"triangle"
+],
+[
+"scalene_triangle",
+"is_a",
+"triangle"
+],
+[
+"acute_triangle",
+"is_a",
+"triangle"
+],
+[
+"obtuse_triangle",
+"is_a",
+"triangle"
+],
+[
+"parallel_lines",
+"definition",
+"lines in a plane that never intersect"
+],
+[
+"perpendicular_lines",
+"definition",
+"lines that intersect at a right angle (90°)"
+],
+[
+"angle",
+"definition",
+"the figure formed by two rays sharing a common endpoint"
+],
+[
+"degree",
+"definition",
+"a unit of measurement for angles, where a full circle is 360 degrees"
+],
+[
+"hypotenuse",
+"definition",
+"the side opposite the right angle in a right triangle"
+],
+[
+"leg",
+"definition",
+"either of the two sides forming the right angle in a right triangle"
+],
+[
+"similar",
+"definition",
+"having the same shape but not necessarily the same size"
+],
+[
+"congruent",
+"definition",
+"having the same shape and size"
+],
+[
+"prime_number",
+"definition",
+"a natural number greater than 1 that has no positive divisors other than 1 and itself"
+],
+[
+"composite_number",
+"definition",
+"a natural number greater than 1 that is not prime"
+],
+[
+"even_number",
+"definition",
+"an integer divisible by 2"
+],
+[
+"odd_number",
+"definition",
+"an integer not divisible by 2"
+],
+[
+"divisor",
+"definition",
+"an integer that divides another integer without leaving a remainder"
+],
+[
+"multiple",
+"definition",
+"the product of a given integer and any other integer"
+],
+[
+"greatest_common_divisor",
+"definition",
+"the largest positive integer that divides each of the integers without a remainder"
+],
+[
+"least_common_multiple",
+"definition",
+"the smallest positive integer that is divisible by each of the integers"
+],
+[
+"euclidean_algorithm",
+"definition",
+"a method for computing the greatest common divisor of two integers"
+],
+[
+"fundamental_theorem_of_arithmetic",
+"definition",
+"every integer greater than 1 is either prime or can be uniquely factored into primes"
+],
+[
+"modular_arithmetic",
+"definition",
+"a system of arithmetic for integers where numbers wrap around upon reaching a certain value, the modulus"
+],
+[
+"congruence",
+"definition",
+"two integers are congruent modulo n if their difference is divisible by n"
+],
+[
+"fermat's_little_theorem",
+"definition",
+"if p is prime and a is not divisible by p, then a^(p-1) ≡ 1 mod p"
+],
+[
+"euler's_totient_function",
+"definition",
+"counts the positive integers up to a given integer n that are relatively prime to n"
+],
+[
+"chinese_remainder_theorem",
+"definition",
+"provides a unique solution to simultaneous congruences with pairwise coprime moduli"
+],
+[
+"diophantine_equation",
+"definition",
+"a polynomial equation where integer solutions are sought"
+],
+[
+"perfect_number",
+"definition",
+"a positive integer that is equal to the sum of its proper divisors"
+],
+[
+"amicable_numbers",
+"definition",
+"two different numbers so related that the sum of the proper divisors of each is equal to the other number"
+],
+[
+"twin_primes",
+"definition",
+"a pair of prime numbers that differ by 2"
+],
+[
+"mersenne_prime",
+"definition",
+"a prime number that is one less than a power of two"
+],
+[
+"fermat_number",
+"definition",
+"a number of the form 2^(2^n) + 1"
+],
+[
+"goldbach's_conjecture",
+"definition",
+"every even integer greater than 2 can be expressed as the sum of two primes"
+],
+[
+"riemann_hypothesis",
+"definition",
+"a conjecture that the non-trivial zeros of the Riemann zeta function all have real part 1/2"
+],
+[
+"prime_number_theorem",
+"definition",
+"describes the asymptotic distribution of prime numbers among the positive integers"
+],
+[
+"sieve_of_eratosthenes",
+"definition",
+"an ancient algorithm for finding all prime numbers up to any given limit"
+],
+[
+"coprime",
+"definition",
+"two integers are coprime if their greatest common divisor is 1"
+],
+[
+"relatively_prime",
+"synonym",
+"coprime"
+],
+[
+"factorial",
+"definition",
+"the product of all positive integers less than or equal to a given positive integer"
+],
+[
+"factorial",
+"symbol",
+null
+],
+[
+"zero",
+"definition",
+"the integer that represents no quantity or null value"
+],
+[
+"one",
+"definition",
+"the multiplicative identity in the integers"
+],
+[
+"two",
+"definition",
+"the smallest and only even prime number"
+],
+[
+"infinity",
+"definition",
+"a concept describing something without any bound or larger than any natural number"
+],
+[
+"number_line",
+"definition",
+"a visual representation of numbers on a straight line"
+],
+[
+"integer",
+"is_a",
+"number"
+],
+[
+"natural_number",
+"is_a",
+"integer"
+],
+[
+"whole_number",
+"is_a",
+"integer"
+],
+[
+"rational_number",
+"definition",
+"a number that can be expressed as the quotient or fraction of two integers"
+],
+[
+"irrational_number",
+"definition",
+"a real number that cannot be expressed as a ratio of integers"
+],
+[
+"real_number",
+"definition",
+"a value that represents a quantity along a continuous line"
+],
+[
+"complex_number",
+"definition",
+"a number that can be expressed in the form a + bi, where a and b are real numbers and i is the imaginary unit"
+],
+[
+"What is a prime number?",
+"answer",
+"A prime number is a natural number greater than 1 that has no positive divisors other than 1 and itself."
+],
+[
+"What is a composite number?",
+"answer",
+"A composite number is a natural number greater than 1 that is not prime, meaning it has at least one positive divisor other than 1 and itself."
+],
+[
+"Is 1 a prime number?",
+"answer",
+"No, 1 is not a prime number because it has only one positive divisor."
+],
+[
+"What is the smallest prime number?",
+"answer",
+"The smallest prime number is 2."
+],
+[
+"What is the only even prime number?",
+"answer",
+"The only even prime number is 2."
+],
+[
+"What does it mean for two numbers to be coprime?",
+"answer",
+"Two numbers are coprime if their greatest common divisor is 1."
+],
+[
+"What is the greatest common divisor (GCD) of 12 and 18?",
+"answer",
+"The greatest common divisor of 12 and 18 is 6."
+],
+[
+"What is the least common multiple (LCM) of 4 and 6?",
+"answer",
+"The least common multiple of 4 and 6 is 12."
+],
+[
+"What is the fundamental theorem of arithmetic?",
+"answer",
+"The fundamental theorem of arithmetic states that every integer greater than 1 can be uniquely factored into prime numbers, up to the order of the factors."
+],
+[
+"What is the prime factorization of 30?",
+"answer",
+"The prime factorization of 30 is 2 × 3 × 5."
+],
+[
+"What is the prime factorization of 100?",
+"answer",
+"The prime factorization of 100 is 2² × 5²."
+],
+[
+"What is a perfect number?",
+"answer",
+"A perfect number is a positive integer that is equal to the sum of its proper positive divisors, excluding itself."
+],
+[
+"What is the smallest perfect number?",
+"answer",
+"The smallest perfect number is 6."
+],
+[
+"What is the next perfect number after 6?",
+"answer",
+"The next perfect number after 6 is 28."
+],
+[
+"What is a Mersenne prime?",
+"answer",
+"A Mersenne prime is a prime number that is one less than a power of two, i.e., of the form 2^p − 1 where p is prime."
+],
+[
+"Is 7 a Mersenne prime?",
+"answer",
+"Yes, 7 is a Mersenne prime because it equals 2³ − 1 and 3 is prime."
+],
+[
+"What is the Sieve of Eratosthenes used for?",
+"answer",
+"The Sieve of Eratosthenes is an algorithm used to find all prime numbers up to a given limit."
+],
+[
+"What is the value of φ(10), where φ is Euler's totient function?",
+"answer",
+"φ(10) = 4, since the numbers less than 10 and coprime to 10 are 1, 3, 7, and 9."
+],
+[
+"What is Euler's totient function φ(n) for a prime number p?",
+"answer",
+"For a prime number p, φ(p) = p − 1."
+],
+[
+"What is the value of φ(12)?",
+"answer",
+"φ(12) = 4, because the numbers less than 12 and coprime to 12 are 1, 5, 7, and 11."
+],
+[
+"What does it mean for a number to be divisible by 3?",
+"answer",
+"A number is divisible by 3 if the sum of its digits is divisible by 3."
+],
+[
+"Is 123 divisible by 3?",
+"answer",
+"Yes, 123 is divisible by 3 because 1 + 2 + 3 = 6, and 6 is divisible by 3."
+],
+[
+"What is the divisibility rule for 9?",
+"answer",
+"A number is divisible by 9 if the sum of its digits is divisible by 9."
+],
+[
+"Is 456 divisible by 9?",
+"answer",
+"No, 456 is not divisible by 9 because 4 + 5 + 6 = 15, and 15 is not divisible by 9."
+],
+[
+"What is the divisibility rule for 5?",
+"answer",
+"A number is divisible by 5 if its last digit is 0 or 5."
+],
+[
+"Is 135 divisible by 5?",
+"answer",
+"Yes, 135 is divisible by 5 because its last digit is 5."
+],
+[
+"What is the divisibility rule for 2?",
+"answer",
+"A number is divisible by 2 if its last digit is even (0, 2, 4, 6, or 8)."
+],
+[
+"Is 247 divisible by 2?",
+"answer",
+"No, 247 is not divisible by 2 because its last digit is 7, which is odd."
+],
+[
+"What is the difference between a factor and a multiple?",
+"answer",
+"A factor of a number divides it evenly, while a multiple of a number is the product of that number and an integer."
+],
+[
+"What are the factors of 16?",
+"answer",
+"The factors of 16 are 1, 2, 4, 8, and 16."
+],
+[
+"What are the first five multiples of 7?",
+"answer",
+"The first five multiples of 7 are 7, 14, 21, 28, and 35."
+],
+[
+"What is the greatest common divisor of 17 and 34?",
+"answer",
+"The greatest common divisor of 17 and 34 is 17."
+],
+[
+"What is the least common multiple of 5 and 7?",
+"answer",
+"The least common multiple of 5 and 7 is 35."
+],
+[
+"Is 91 a prime number?",
+"answer",
+"No, 91 is not a prime number because it equals 7 × 13."
+],
+[
+"Is 97 a prime number?",
+"answer",
+"Yes, 97 is a prime number because it has no divisors other than 1 and itself."
+],
+[
+"What is the value of 2^5?",
+"answer",
+"2^5 = 32."
+],
+[
+"What is the value of 3^4?",
+"answer",
+"3^4 = 81."
+],
+[
+"What is the value of 5^3?",
+"answer",
+"5^3 = 125."
+],
+[
+"What is the value of 10^2?",
+"answer",
+"10^2 = 100."
+],
+[
+"What is the value of 0! (zero factorial)?",
+"answer",
+"0! = 1 by definition."
+],
+[
+"What is the value of 5! (five factorial)?",
+"answer",
+"5! = 120."
+],
+[
+"What is the value of 1!",
+"answer",
+"1! = 1."
+],
+[
+"What is the value of 2!",
+"answer",
+"2! = 2."
+],
+[
+"What is the value of 3!",
+"answer",
+"3! = 6."
+],
+[
+"What is the value of 4!",
+"answer",
+"4! = 24."
+],
+[
+"What is the value of 6!",
+"answer",
+"6! = 720."
+],
+[
+"What is the value of 7!",
+"answer",
+"7! = 5040."
+],
+[
+"What is the value of 8!",
+"answer",
+"8! = 40320."
+],
+[
+"What is the value of 9!",
+"answer",
+"9! = 362880."
+],
+[
+"What is the value of 10!",
+"answer",
+"10! = 3628800."
+],
+[
+"meter",
+"symbol",
+"m"
+],
+[
+"kilogram",
+"symbol",
+"kg"
+],
+[
+"second",
+"symbol",
+"s"
+],
+[
+"ampere",
+"symbol",
+"A"
+],
+[
+"kelvin",
+"symbol",
+"K"
+],
+[
+"mole",
+"symbol",
+"mol"
+],
+[
+"candela",
+"symbol",
+"cd"
+],
+[
+"meter",
+"definition",
+"The base unit of length in the International System of Units (SI)."
+],
+[
+"kilogram",
+"definition",
+"The base unit of mass in the International System of Units (SI)."
+],
+[
+"second",
+"definition",
+"The base unit of time in the International System of Units (SI)."
+],
+[
+"ampere",
+"definition",
+"The base unit of electric current in the International System of Units (SI)."
+],
+[
+"kelvin",
+"definition",
+"The base unit of thermodynamic temperature in the International System of Units (SI)."
+],
+[
+"mole",
+"definition",
+"The base unit of amount of substance in the International System of Units (SI)."
+],
+[
+"candela",
+"definition",
+"The base unit of luminous intensity in the International System of Units (SI)."
+],
+[
+"inch",
+"symbol",
+"in"
+],
+[
+"foot",
+"symbol",
+"ft"
+],
+[
+"yard",
+"symbol",
+"yd"
+],
+[
+"mile",
+"symbol",
+"mi"
+],
+[
+"inch",
+"definition",
+"A unit of length in the imperial and US customary systems, equal to 1/12 of a foot."
+],
+[
+"foot",
+"definition",
+"A unit of length in the imperial and US customary systems, equal to 12 inches."
+],
+[
+"yard",
+"definition",
+"A unit of length in the imperial and US customary systems, equal to 3 feet."
+],
+[
+"mile",
+"definition",
+"A unit of length in the imperial and US customary systems, equal to 5,280 feet."
+],
+[
+"pound",
+"symbol",
+"lb"
+],
+[
+"ounce",
+"symbol",
+"oz"
+],
+[
+"pound",
+"definition",
+"A unit of mass in the imperial and US customary systems, equal to 16 ounces."
+],
+[
+"ounce",
+"definition",
+"A unit of mass in the imperial and US customary systems, equal to 1/16 of a pound."
+],
+[
+"gram",
+"symbol",
+"g"
+],
+[
+"gram",
+"definition",
+"A unit of mass in the metric system, equal to one thousandth of a kilogram."
+],
+[
+"liter",
+"symbol",
+"L"
+],
+[
+"liter",
+"definition",
+"A unit of volume in the metric system, equal to one cubic decimeter."
+],
+[
+"milliliter",
+"symbol",
+"mL"
+],
+[
+"milliliter",
+"definition",
+"A unit of volume in the metric system, equal to one thousandth of a liter."
+],
+[
+"celsius",
+"symbol",
+"°C"
+],
+[
+"celsius",
+"definition",
+"A unit of temperature on the Celsius scale, where 0°C is the freezing point of water and 100°C is the boiling point at standard atmospheric pressure."
+],
+[
+"fahrenheit",
+"symbol",
+"°F"
+],
+[
+"fahrenheit",
+"definition",
+"A unit of temperature on the Fahrenheit scale, where 32°F is the freezing point of water and 212°F is the boiling point at standard atmospheric pressure."
+],
+[
+"hertz",
+"symbol",
+"Hz"
+],
+[
+"hertz",
+"definition",
+"The unit of frequency in the International System of Units (SI), equal to one cycle per second."
+],
+[
+"newton",
+"symbol",
+"N"
+],
+[
+"newton",
+"definition",
+"The unit of force in the International System of Units (SI), equal to the force required to accelerate a mass of one kilogram at a rate of one meter per second squared."
+],
+[
+"joule",
+"symbol",
+"J"
+],
+[
+"joule",
+"definition",
+"The unit of energy in the International System of Units (SI), equal to the work done when a force of one newton displaces an object by one meter."
+],
+[
+"watt",
+"symbol",
+"W"
+],
+[
+"watt",
+"definition",
+"The unit of power in the International System of Units (SI), equal to one joule per second."
+],
+[
+"pascal",
+"symbol",
+"Pa"
+],
+[
+"pascal",
+"definition",
+"The unit of pressure in the International System of Units (SI), equal to one newton per square meter."
+],
+[
+"square_meter",
+"symbol",
+"m²"
+],
+[
+"square_meter",
+"definition",
+"The unit of area in the International System of Units (SI), equal to the area of a square with sides of one meter."
+],
+[
+"cubic_meter",
+"symbol",
+"m³"
+],
+[
+"cubic_meter",
+"definition",
+"The unit of volume in the International System of Units (SI), equal to the volume of a cube with edges of one meter."
+],
+[
+"What is the symbol for the SI unit of length?",
+"answer",
+"The symbol for the SI unit of length is m."
+],
+[
+"How many centimeters are in one meter?",
+"answer",
+"There are 100 centimeters in one meter."
+],
+[
+"How many millimeters are in one centimeter?",
+"answer",
+"There are 10 millimeters in one centimeter."
+],
+[
+"How many meters are in one kilometer?",
+"answer",
+"There are 1000 meters in one kilometer."
+],
+[
+"What is the SI unit of mass?",
+"answer",
+"The SI unit of mass is the kilogram."
+],
+[
+"How many grams are in one kilogram?",
+"answer",
+"There are 1000 grams in one kilogram."
+],
+[
+"How many milligrams are in one gram?",
+"answer",
+"There are 1000 milligrams in one gram."
+],
+[
+"What is the SI unit of time?",
+"answer",
+"The SI unit of time is the second."
+],
+[
+"How many seconds are in one minute?",
+"answer",
+"There are 60 seconds in one minute."
+],
+[
+"How many minutes are in one hour?",
+"answer",
+"There are 60 minutes in one hour."
+],
+[
+"How many hours are in one day?",
+"answer",
+"There are 24 hours in one day."
+],
+[
+"What is the SI unit of temperature?",
+"answer",
+"The SI unit of temperature is the kelvin."
+],
+[
+"How many degrees Celsius are equivalent to a change of one kelvin?",
+"answer",
+"A change of one kelvin is equivalent to a change of one degree Celsius."
+],
+[
+"What is the freezing point of water in kelvins?",
+"answer",
+"The freezing point of water is 273.15 kelvins."
+],
+[
+"What is the boiling point of water in degrees Celsius at standard atmospheric pressure?",
+"answer",
+"The boiling point of water is 100 degrees Celsius at standard atmospheric pressure."
+],
+[
+"What is the SI unit of area?",
+"answer",
+"The SI unit of area is the square meter."
+],
+[
+"How many square centimeters are in one square meter?",
+"answer",
+"There are 10,000 square centimeters in one square meter."
+],
+[
+"How many square meters are in one hectare?",
+"answer",
+"There are 10,000 square meters in one hectare."
+],
+[
+"What is the SI unit of volume?",
+"answer",
+"The SI unit of volume is the cubic meter."
+],
+[
+"How many cubic centimeters are in one liter?",
+"answer",
+"There are 1000 cubic centimeters in one liter."
+],
+[
+"How many liters are in one cubic meter?",
+"answer",
+"There are 1000 liters in one cubic meter."
+],
+[
+"What is the SI unit of speed?",
+"answer",
+"The SI unit of speed is meters per second."
+],
+[
+"How many meters per second are equivalent to one kilometer per hour?",
+"answer",
+"One kilometer per hour is equivalent to approximately 0.278 meters per second."
+],
+[
+"How many kilometers per hour are equivalent to one meter per second?",
+"answer",
+"One meter per second is equivalent to 3.6 kilometers per hour."
+],
+[
+"What is the SI unit of force?",
+"answer",
+"The SI unit of force is the newton."
+],
+[
+"How many newtons are equivalent to one kilogram-meter per second squared?",
+"answer",
+"One newton is equivalent to one kilogram-meter per second squared."
+],
+[
+"What is the SI unit of pressure?",
+"answer",
+"The SI unit of pressure is the pascal."
+],
+[
+"How many pascals are equivalent to one newton per square meter?",
+"answer",
+"One pascal is equivalent to one newton per square meter."
+],
+[
+"What is the SI unit of energy?",
+"answer",
+"The SI unit of energy is the joule."
+],
+[
+"How many joules are equivalent to one newton-meter?",
+"answer",
+"One joule is equivalent to one newton-meter."
+],
+[
+"What is the SI unit of power?",
+"answer",
+"The SI unit of power is the watt."
+],
+[
+"How many watts are equivalent to one joule per second?",
+"answer",
+"One watt is equivalent to one joule per second."
+],
+[
+"How many milliwatts are in one watt?",
+"answer",
+"There are 1000 milliwatts in one watt."
+],
+[
+"What is the SI unit of electric current?",
+"answer",
+"The SI unit of electric current is the ampere."
+],
+[
+"How many milliamperes are in one ampere?",
+"answer",
+"There are 1000 milliamperes in one ampere."
+],
+[
+"What is the SI unit of electric charge?",
+"answer",
+"The SI unit of electric charge is the coulomb."
+],
+[
+"How many coulombs are equivalent to one ampere-second?",
+"answer",
+"One coulomb is equivalent to one ampere-second."
+],
+[
+"What is the SI unit of voltage?",
+"answer",
+"The SI unit of voltage is the volt."
+],
+[
+"How many volts are equivalent to one joule per coulomb?",
+"answer",
+"One volt is equivalent to one joule per coulomb."
+],
+[
+"What is the SI unit of resistance?",
+"answer",
+"The SI unit of resistance is the ohm."
+],
+[
+"How many ohms are equivalent to one volt per ampere?",
+"answer",
+"One ohm is equivalent to one volt per ampere."
+],
+[
+"What is the SI unit of frequency?",
+"answer",
+"The SI unit of frequency is the hertz."
+],
+[
+"How many hertz are equivalent to one cycle per second?",
+"answer",
+"One hertz is equivalent to one cycle per second."
+],
+[
+"How many kilohertz are in one megahertz?",
+"answer",
+"There are 1000 kilohertz in one megahertz."
+],
+[
+"What is the SI unit of luminous intensity?",
+"answer",
+"The SI unit of luminous intensity is the candela."
+],
+[
+"How many candelas are in one kilocandela?",
+"answer",
+"There are 1000 candelas in one kilocandela."
+]
+],
+"meta": [
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 0,
+"confidence": 0.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 0.8,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 0.8,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 0.8,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 0.8,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 0.8,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 0.8,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 0.8,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 0.8,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 0.8,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 0.8,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 0.8,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 0.8,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 0.8,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 0.8,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 0.8,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 0.8,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 0.8,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 0.8,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 0.8,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 0.8,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 0.8,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 0.8,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 0.8,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 0.8,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 0.8,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 0.8,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 0.8,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 0.8,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 0.8,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 0.8,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 0.8,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 0.8,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 0.8,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 0.8,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 0.8,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 0.8,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 0.8,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 0.8,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 0.8,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 0.8,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 0.8,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 0.8,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 0.8,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 0.8,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 0.8,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 0.8,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 0.8,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 0.8,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 0.8,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 0.8,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 0.8,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 0.8,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 0.8,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 0.8,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 0.8,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 0.8,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 0.8,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 0.8,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 0.8,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 0.8,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 0.8,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 0.8,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 0.8,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 0.8,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 0.8,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 0.8,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 0.8,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 0.8,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 0.8,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 0.8,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 0.8,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 0.8,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 0.8,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 0.8,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 0.8,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 0.8,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 0.8,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 0.8,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 0.8,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 0.8,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 0.8,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 0.8,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 0.8,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 0.8,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 0.8,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 0.8,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 0.8,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 0.8,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 0.8,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 0.8,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 0.8,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 0.8,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 0.8,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 0.8,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 0.8,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 0.8,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+}
+]
+}

@@ -1,0 +1,4256 @@
+{
+"node": "information",
+"subnode": "technology",
+"topics": [
+"programming languages and their creators",
+"operating systems and their history",
+"computer hardware: CPU, ALU, memory, storage",
+"the internet and the web",
+"famous companies and founders"
+],
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+],
+"generated": "2026-10-08T17:21:18Z",
+"count": 353,
+"facts": [
+[
+"Python",
+"created_by",
+"Guido van Rossum"
+],
+[
+"Java",
+"created_by",
+"James Gosling"
+],
+[
+"C",
+"created_by",
+"Dennis Ritchie"
+],
+[
+"JavaScript",
+"created_by",
+"Brendan Eich"
+],
+[
+"Ruby",
+"created_by",
+"Yukihiro Matsumoto"
+],
+[
+"PHP",
+"created_by",
+"Rasmus Lerdorf"
+],
+[
+"Go",
+"created_by",
+"Robert Griesemer"
+],
+[
+"Rust",
+"created_by",
+"Graydon Hoare"
+],
+[
+"Swift",
+"created_by",
+"Chris Lattner"
+],
+[
+"Kotlin",
+"created_by",
+"Andrey Breslav"
+],
+[
+"TypeScript",
+"created_by",
+"Anders Hejlsberg"
+],
+[
+"Perl",
+"created_by",
+"Larry Wall"
+],
+[
+"Lua",
+"created_by",
+"Roberto Ierusalimschy"
+],
+[
+"Scala",
+"created_by",
+"Martin Odersky"
+],
+[
+"Haskell",
+"created_by",
+"Haskell Curry"
+],
+[
+"Haskell",
+"definition",
+"A purely functional programming language"
+],
+[
+"Assembly",
+"definition",
+"A low-level programming language specific to a computer architecture"
+],
+[
+"HTML",
+"definition",
+"The standard markup language for documents designed to be displayed in a web browser"
+],
+[
+"CSS",
+"definition",
+"A style sheet language used for describing the presentation of a document written in HTML"
+],
+[
+"SQL",
+"definition",
+"A domain-specific language used in programming and designed for managing data held in a relational database management system"
+],
+[
+"Bash",
+"created_by",
+"Brian Fox"
+],
+[
+"Bash",
+"definition",
+"A Unix shell and command language"
+],
+[
+"MATLAB",
+"created_by",
+"Cleve Moler"
+],
+[
+"MATLAB",
+"definition",
+"A proprietary multi-paradigm programming language and numeric computing environment"
+],
+[
+"R",
+"created_by",
+"Ross Ihaka"
+],
+[
+"R",
+"definition",
+"A programming language for statistical computing and graphics"
+],
+[
+"Fortran",
+"created_by",
+"John Backus"
+],
+[
+"Fortran",
+"definition",
+"A general-purpose, compiled imperative programming language that is especially suited to numeric computation and scientific computing"
+],
+[
+"COBOL",
+"created_by",
+"Grace Hopper"
+],
+[
+"COBOL",
+"definition",
+"A compiled English-like computer programming language designed for business use"
+],
+[
+"Lisp",
+"created_by",
+"John McCarthy"
+],
+[
+"Lisp",
+"definition",
+"A family of programming languages with a long history and a distinctive, fully parenthesized prefix notation"
+],
+[
+"Pascal",
+"created_by",
+"Niklaus Wirth"
+],
+[
+"Pascal",
+"definition",
+"An imperative and procedural programming language designed by Niklaus Wirth"
+],
+[
+"Objective-C",
+"created_by",
+"Brad Cox"
+],
+[
+"Objective-C",
+"definition",
+"A general-purpose, object-oriented programming language that adds Smalltalk-style messaging to the C programming language"
+],
+[
+"Who created the Python programming language?",
+"answer",
+"Guido van Rossum created the Python programming language."
+],
+[
+"Who created the Java programming language?",
+"answer",
+"James Gosling created the Java programming language."
+],
+[
+"Who created the C programming language?",
+"answer",
+"Dennis Ritchie created the C programming language."
+],
+[
+"Who created the C++ programming language?",
+"answer",
+"Bjarne Stroustrup created the C++ programming language."
+],
+[
+"Who created the JavaScript programming language?",
+"answer",
+"Brendan Eich created the JavaScript programming language."
+],
+[
+"Who created the Ruby programming language?",
+"answer",
+"Yukihiro Matsumoto created the Ruby programming language."
+],
+[
+"Who created the PHP programming language?",
+"answer",
+"Rasmus Lerdorf created the PHP programming language."
+],
+[
+"Who created the Go programming language?",
+"answer",
+"Robert Griesemer, Rob Pike, and Ken Thompson created the Go programming language."
+],
+[
+"Who created the Rust programming language?",
+"answer",
+"Graydon Hoare created the Rust programming language."
+],
+[
+"Who created the Swift programming language?",
+"answer",
+"Chris Lattner created the Swift programming language."
+],
+[
+"Who created the Kotlin programming language?",
+"answer",
+"Andrey Breslav created the Kotlin programming language."
+],
+[
+"Who created the TypeScript programming language?",
+"answer",
+"Anders Hejlsberg created the TypeScript programming language."
+],
+[
+"Who created the Scala programming language?",
+"answer",
+"Martin Odersky created the Scala programming language."
+],
+[
+"Who created the Perl programming language?",
+"answer",
+"Larry Wall created the Perl programming language."
+],
+[
+"Who created the R programming language?",
+"answer",
+"Ross Ihaka and Robert Gentleman created the R programming language."
+],
+[
+"Who created the MATLAB programming language?",
+"answer",
+"Cleve Moler created the MATLAB programming language."
+],
+[
+"Who created the Lisp programming language?",
+"answer",
+"John McCarthy created the Lisp programming language."
+],
+[
+"Who created the Haskell programming language?",
+"answer",
+"The Haskell programming language was created by a committee led by Simon Peyton Jones and others in the late 1980s."
+],
+[
+"Who created the Erlang programming language?",
+"answer",
+"Joe Armstrong, Robert Virding, and Mike Williams created the Erlang programming language."
+],
+[
+"Who created the Lua programming language?",
+"answer",
+"Roberto Ierusalimschy, Luiz Henrique de Figueiredo, and Waldemar Celes created the Lua programming language."
+],
+[
+"Who created the Pascal programming language?",
+"answer",
+"Niklaus Wirth created the Pascal programming language."
+],
+[
+"Who created the Ada programming language?",
+"answer",
+"The Ada programming language was created by a team led by Jean Ichbiah for the U.S. Department of Defense."
+],
+[
+"Who created the Fortran programming language?",
+"answer",
+"John Backus created the Fortran programming language."
+],
+[
+"Who created the COBOL programming language?",
+"answer",
+"Grace Hopper played a key role in the creation of the COBOL programming language."
+],
+[
+"Who created the BASIC programming language?",
+"answer",
+"John Kemeny and Thomas Kurtz created the BASIC programming language."
+],
+[
+"Who created the Assembly language?",
+"answer",
+"Assembly language was developed by early computer programmers in the 1940s and 1950s; no single creator is attributed."
+],
+[
+"Who created the Objective-C programming language?",
+"answer",
+"Brad Cox and Tom Love created the Objective-C programming language."
+],
+[
+"Who created the F# programming language?",
+"answer",
+"Don Syme created the F# programming language."
+],
+[
+"Who created the Dart programming language?",
+"answer",
+"Lars Bak and Kasper Lund created the Dart programming language."
+],
+[
+"Who created the Elixir programming language?",
+"answer",
+"José Valim created the Elixir programming language."
+],
+[
+"Who created the Clojure programming language?",
+"answer",
+"Rich Hickey created the Clojure programming language."
+],
+[
+"Who created the Julia programming language?",
+"answer",
+"Jeff Bezanson, Stefan Karpini, Viral B. Shah, and Alan Edelman created the Julia programming language."
+],
+[
+"Who created the Zig programming language?",
+"answer",
+"Andrew Kelley created the Zig programming language."
+],
+[
+"Who created the Nim programming language?",
+"answer",
+"Andreas Rumpf created the Nim programming language."
+],
+[
+"Who created the Crystal programming language?",
+"answer",
+"Ary Borenszweig created the Crystal programming language."
+],
+[
+"Who created the V programming language?",
+"answer",
+"Alexander Medvednikov created the V programming language."
+],
+[
+"Who created the OCaml programming language?",
+"answer",
+"The OCaml programming language was created by Xavier Leroy, Jérôme Vouillon, Damien Doligez, and others at INRIA."
+],
+[
+"Who created the Prolog programming language?",
+"answer",
+"Alain Colmerauer and Philippe Roussel created the Prolog programming language."
+],
+[
+"Who created the Smalltalk programming language?",
+"answer",
+"Alan Kay, Dan Ingalls, and Adele Goldberg created the Smalltalk programming language."
+],
+[
+"Who created the Logo programming language?",
+"answer",
+"Wally Feurzeig, Seymour Papert, and Cynthia Solomon created the Logo programming language."
+],
+[
+"Who created the Brainfuck programming language?",
+"answer",
+"Urban Müller created the Brainfuck programming language."
+],
+[
+"Who created the Malbolge programming language?",
+"answer",
+"Ben Olmstead created the Malbolge programming language."
+],
+[
+"Unix",
+"created_by",
+"Ken Thompson"
+],
+[
+"Unix",
+"is_a",
+"operating system"
+],
+[
+"Linux",
+"created_by",
+"Linus Torvalds"
+],
+[
+"Linux",
+"is_a",
+"operating system"
+],
+[
+"Windows",
+"created_by",
+"Microsoft"
+],
+[
+"Windows",
+"is_a",
+"operating system"
+],
+[
+"macOS",
+"created_by",
+"Apple Inc."
+],
+[
+"macOS",
+"is_a",
+"operating system"
+],
+[
+"MS-DOS",
+"created_by",
+"Microsoft"
+],
+[
+"MS-DOS",
+"is_a",
+"operating system"
+],
+[
+"BSD",
+"is_a",
+"operating system"
+],
+[
+"BSD",
+"created_by",
+"University of California, Berkeley"
+],
+[
+"Android",
+"is_a",
+"operating system"
+],
+[
+"Android",
+"created_by",
+"Google"
+],
+[
+"iOS",
+"is_a",
+"operating system"
+],
+[
+"iOS",
+"created_by",
+"Apple Inc."
+],
+[
+"CP/M",
+"is_a",
+"operating system"
+],
+[
+"CP/M",
+"created_by",
+"Gary Kildall"
+],
+[
+"Multics",
+"is_a",
+"operating system"
+],
+[
+"Multics",
+"created_by",
+"MIT, GE, Bell Labs"
+],
+[
+"POSIX",
+"is_a",
+"standard"
+],
+[
+"POSIX",
+"definition",
+"A family of standards specified by the IEEE for maintaining compatibility between operating systems"
+],
+[
+"GNU",
+"is_a",
+"operating system"
+],
+[
+"GNU",
+"created_by",
+"Richard Stallman"
+],
+[
+"GNU",
+"definition",
+"A free software operating system composed wholly of free software"
+],
+[
+"Kernel",
+"is_a",
+"component"
+],
+[
+"Kernel",
+"definition",
+"The core part of an operating system that manages system resources and communication between hardware and software"
+],
+[
+"Shell",
+"is_a",
+"component"
+],
+[
+"Shell",
+"definition",
+"A user interface for access to an operating system's services"
+],
+[
+"File system",
+"is_a",
+"component"
+],
+[
+"File system",
+"definition",
+"A method and data structure that the operating system uses to control how data is stored and retrieved"
+],
+[
+"Process",
+"is_a",
+"concept"
+],
+[
+"Process",
+"definition",
+"An instance of a computer program that is being executed"
+],
+[
+"Thread",
+"is_a",
+"concept"
+],
+[
+"Thread",
+"definition",
+"The smallest unit of processing that can be scheduled by an operating system"
+],
+[
+"Virtual memory",
+"is_a",
+"concept"
+],
+[
+"Virtual memory",
+"definition",
+"A memory management technique that provides an 'idealized abstraction of the storage resources that are actually available on a given machine'"
+],
+[
+"Bootloader",
+"is_a",
+"component"
+],
+[
+"Bootloader",
+"definition",
+"A small program that loads the operating system into memory when a computer is powered on"
+],
+[
+"Interrupt",
+"is_a",
+"concept"
+],
+[
+"Interrupt",
+"definition",
+"A signal to the processor emitted by hardware or software indicating an event that needs immediate attention"
+],
+[
+"Scheduler",
+"is_a",
+"component"
+],
+[
+"Scheduler",
+"definition",
+"The part of the operating system that decides which process runs at a given time"
+],
+[
+"Device driver",
+"is_a",
+"component"
+],
+[
+"Device driver",
+"definition",
+"A software component that allows the operating system to communicate with hardware devices"
+],
+[
+"System call",
+"is_a",
+"concept"
+],
+[
+"System call",
+"definition",
+"A programmatic way in which a computer program requests a service from the kernel of the operating system"
+],
+[
+"POSIX",
+"alias_of",
+"Portable Operating System Interface"
+],
+[
+"GNU",
+"synonym",
+"GNU's Not Unix"
+],
+[
+"What is the primary function of an operating system?",
+"answer",
+"The primary function of an operating system is to manage hardware resources and provide services for computer programs."
+],
+[
+"Who is credited with creating the first operating system?",
+"answer",
+"General Motors and North American Aviation are credited with creating the first operating system for the IBM 704 in 1956."
+],
+[
+"What was the name of the first widely used operating system for personal computers?",
+"answer",
+"CP/M (Control Program for Microcomputers) was the first widely used operating system for personal computers in the late 1970s."
+],
+[
+"Which operating system introduced the graphical user interface to a mass audience?",
+"answer",
+"Apple's Macintosh operating system, introduced in 1984, brought the graphical user interface to a mass audience."
+],
+[
+"What does UNIX stand for?",
+"answer",
+"UNICS (Uniplexed Information and Computing Service) was the original name, later shortened to UNIX."
+],
+[
+"Who developed the UNIX operating system?",
+"answer",
+"Ken Thompson, Dennis Ritchie, and others at Bell Labs developed UNIX in 1969."
+],
+[
+"What programming language was used to rewrite UNIX in 1973, making it portable?",
+"answer",
+"The C programming language was used to rewrite UNIX in 1973, enabling portability across hardware."
+],
+[
+"What is the relationship between Linux and UNIX?",
+"answer",
+"Linux is a Unix-like operating system kernel created by Linus Torvalds in 1991, inspired by UNIX but not derived from its code."
+],
+[
+"What was the first version of Microsoft Windows released in 1985?",
+"answer",
+"Windows 1.0 was the first version of Microsoft Windows, released in November 1985."
+],
+[
+"Which operating system was dominant in the 1990s for business and home PCs?",
+"answer",
+"Microsoft Windows, particularly Windows 95 and Windows 98, dominated the PC market in the 1990s."
+],
+[
+"What is the kernel in an operating system?",
+"answer",
+"The kernel is the core component of an operating system that manages system resources and communication between hardware and software."
+],
+[
+"What is the difference between a monolithic kernel and a microkernel?",
+"answer",
+"A monolithic kernel runs all operating system services in kernel space, while a microkernel runs only essential services in kernel space and moves others to user space."
+],
+[
+"Which operating system uses the X Window System as its graphical foundation?",
+"answer",
+"Many Unix-like operating systems, including Linux distributions, use the X Window System as the foundation for their graphical user interfaces."
+],
+[
+"What is the purpose of a shell in an operating system?",
+"answer",
+"A shell provides a user interface for interacting with the operating system, typically through command-line input."
+],
+[
+"What does POSIX stand for and what is its purpose?",
+"answer",
+"POSIX stands for Portable Operating System Interface and defines standards to ensure compatibility between Unix-like operating systems."
+],
+[
+"What was the significance of the release of Windows NT 3.1 in 1993?",
+"answer",
+"Windows NT 3.1 was the first fully 32-bit, portable, and secure version of Windows designed for business and enterprise use."
+],
+[
+"What operating system powers the majority of web servers today?",
+"answer",
+"Linux-based operating systems power the majority of web servers today due to their stability, security, and open-source nature."
+],
+[
+"What is the name of the operating system used in Apple's Macintosh computers since 2001?",
+"answer",
+"macOS is the operating system used in Apple's Macintosh computers since 2001, succeeding Mac OS X."
+],
+[
+"What is the relationship between iOS and macOS?",
+"answer",
+"iOS and macOS share a common Unix-based foundation (Darwin) and many frameworks, but are tailored for different device types."
+],
+[
+"What was the first operating system to support preemptive multitasking on a personal computer?",
+"answer",
+"AmigaOS, released in 1985, was one of the first operating systems to support preemptive multitasking on a personal computer."
+],
+[
+"What does the term 'open source' mean in the context of operating systems?",
+"answer",
+"Open source means the source code of the operating system is freely available for anyone to view, modify, and distribute."
+],
+[
+"Which operating system was developed as a free alternative to MINIX?",
+"answer",
+"Linux was developed by Linus Torvalds as a free alternative to MINIX, a Unix-like system used for teaching."
+],
+[
+"What is the role of device drivers in an operating system?",
+"answer",
+"Device drivers are software components that allow the operating system to communicate with and control hardware devices."
+],
+[
+"What is virtual memory in an operating system?",
+"answer",
+"Virtual memory is a memory management technique that gives an application the impression it has contiguous working memory, using disk space to extend physical RAM."
+],
+[
+"What is the purpose of a file system in an operating system?",
+"answer",
+"A file system organizes and manages how data is stored, retrieved, and updated on storage devices."
+],
+[
+"Which operating system introduced the concept of plug and play hardware detection?",
+"answer",
+"Windows 95 introduced plug and play functionality, allowing the operating system to automatically detect and configure hardware."
+],
+[
+"What is the name of the operating system used in Google's Android smartphones?",
+"answer",
+"Android is based on the Linux kernel and uses a modified version of it as its core operating system."
+],
+[
+"What was the significance of the release of Solaris by Sun Microsystems?",
+"answer",
+"Solaris was a Unix-based operating system known for its scalability, reliability, and advanced features in enterprise environments."
+],
+[
+"What does the acronym DOS stand for in the context of early PCs?",
+"answer",
+"DOS stands for Disk Operating System, referring to systems like MS-DOS that managed disk storage and program execution."
+],
+[
+"Which operating system was the first to include networking as a core feature?",
+"answer",
+"UNIX was among the first operating systems to include networking capabilities as a fundamental part of its design."
+],
+[
+"What is the difference between a process and a thread in an operating system?",
+"answer",
+"A process is an independent program with its own memory space, while a thread is a lightweight unit of execution within a process that shares memory and resources."
+],
+[
+"What operating system is used in the majority of supercomputers today?",
+"answer",
+"Linux-based operating systems are used in the majority of the world's fastest supercomputers."
+],
+[
+"What is the purpose of a bootloader in an operating system?",
+"answer",
+"A bootloader is a small program that loads the operating system kernel into memory when a computer starts up."
+],
+[
+"What is the name of the operating system developed by IBM for its mainframe systems?",
+"answer",
+"IBM developed z/OS, a 64-bit operating system for its mainframe computers."
+],
+[
+"What is the significance of the release of Mac OS X in 2001?",
+"answer",
+"Mac OS X introduced a Unix-based foundation (Darwin) to Apple's Macintosh line, improving stability, security, and performance."
+],
+[
+"What is the role of interrupts in an operating system?",
+"answer",
+"Interrupts are signals that temporarily halt the CPU's current task to handle urgent events, allowing the operating system to manage hardware and software efficiently."
+],
+[
+"What is the name of the open-source operating system derived from Berkeley Software Distribution (BSD)?",
+"answer",
+"FreeBSD, OpenBSD, and NetBSD are open-source operating systems derived from the Berkeley Software Distribution (BSD)."
+],
+[
+"What is the purpose of a system call in an operating system?",
+"answer",
+"A system call allows a user-level program to request a service from the operating system's kernel, such as reading a file or allocating memory."
+],
+[
+"What operating system was used on the Apollo Guidance Computer?",
+"answer",
+"The Apollo Guidance Computer used a real-time operating system developed by MIT, not a commercial OS like UNIX or Windows."
+],
+[
+"What is the significance of the release of Windows XP in 2001?",
+"answer",
+"Windows XP combined the consumer-friendly interface of Windows 98 with the stability and security of the Windows NT kernel, becoming one of the most widely used operating systems in history."
+],
+[
+"CPU",
+"is_a",
+"computer hardware"
+],
+[
+"ALU",
+"is_a",
+"component of CPU"
+],
+[
+"memory",
+"is_a",
+"computer hardware"
+],
+[
+"storage",
+"is_a",
+"computer hardware"
+],
+[
+"CPU",
+"definition",
+"Central Processing Unit, the primary component of a computer that performs most of the processing inside a computer"
+],
+[
+"ALU",
+"definition",
+"Arithmetic Logic Unit, a digital circuit within the CPU that performs arithmetic and bitwise operations"
+],
+[
+"memory",
+"definition",
+"Volatile storage used by a computer to hold data and machine code currently being used"
+],
+[
+"storage",
+"definition",
+"Non-volatile device used to retain digital data persistently"
+],
+[
+"CPU",
+"created_by",
+"Intel"
+],
+[
+"CPU",
+"alias_of",
+"processor"
+],
+[
+"ALU",
+"created_by",
+"John von Neumann"
+],
+[
+"memory",
+"created_by",
+"Freddie Williams"
+],
+[
+"storage",
+"created_by",
+"IBM"
+],
+[
+"CPU",
+"location",
+"motherboard"
+],
+[
+"ALU",
+"location",
+"inside CPU"
+],
+[
+"memory",
+"location",
+"motherboard"
+],
+[
+"storage",
+"location",
+"inside computer case or external"
+],
+[
+"CPU",
+"symbol",
+"CPU"
+],
+[
+"ALU",
+"symbol",
+"ALU"
+],
+[
+"memory",
+"symbol",
+"RAM"
+],
+[
+"storage",
+"symbol",
+"SSD/HDD"
+],
+[
+"CPU",
+"largest",
+"AMD Threadripper 3990X"
+],
+[
+"CPU",
+"smallest",
+"ARM Cortex-M0+"
+],
+[
+"memory",
+"largest",
+"128 GB DDR4 RAM module"
+],
+[
+"memory",
+"smallest",
+"1 KB SRAM"
+],
+[
+"storage",
+"largest",
+"100 TB SSD"
+],
+[
+"storage",
+"smallest",
+"1 KB EEPROM"
+],
+[
+"CPU",
+"speed",
+"5.0 GHz"
+],
+[
+"memory",
+"speed",
+"3200 MT/s"
+],
+[
+"storage",
+"speed",
+"7000 MB/s (NVMe SSD)"
+],
+[
+"CPU",
+"implies",
+"executes instructions"
+],
+[
+"ALU",
+"implies",
+"performs calculations"
+],
+[
+"memory",
+"implies",
+"stores active data"
+],
+[
+"storage",
+"implies",
+"retains data after power loss"
+],
+[
+"CPU",
+"synonym",
+"microprocessor"
+],
+[
+"ALU",
+"synonym",
+"arithmetic unit"
+],
+[
+"memory",
+"synonym",
+"primary storage"
+],
+[
+"storage",
+"synonym",
+"secondary storage"
+],
+[
+"CPU",
+"opposite",
+"I/O device"
+],
+[
+"storage",
+"opposite",
+"volatile memory"
+],
+[
+"Internet",
+"definition",
+"A global system of interconnected computer networks that use the Internet protocol suite to link devices worldwide"
+],
+[
+"World Wide Web",
+"definition",
+"An information system of interlinked hypertext documents accessed via the Internet"
+],
+[
+"Internet",
+"created_by",
+"Vint Cerf and Bob Kahn"
+],
+[
+"World Wide Web",
+"created_by",
+"Tim Berners-Lee"
+],
+[
+"Internet",
+"location",
+"global"
+],
+[
+"World Wide Web",
+"location",
+"global"
+],
+[
+"Internet",
+"is_a",
+"network"
+],
+[
+"World Wide Web",
+"is_a",
+"information system"
+],
+[
+"Hypertext Transfer Protocol",
+"definition",
+"The foundation of data communication for the World Wide Web"
+],
+[
+"Hypertext Transfer Protocol Secure",
+"definition",
+"The secure version of HTTP that encrypts communication"
+],
+[
+"Uniform Resource Locator",
+"definition",
+"A reference to a web resource that specifies its location on a computer network"
+],
+[
+"Domain Name System",
+"definition",
+"A hierarchical and decentralized naming system for computers, services, or other resources connected to the Internet"
+],
+[
+"Internet Protocol version 4",
+"definition",
+"The fourth version of the Internet Protocol, which routes traffic across networks"
+],
+[
+"Internet Protocol version 6",
+"definition",
+"The most recent version of the Internet Protocol, designed to replace IPv4"
+],
+[
+"Transmission Control Protocol",
+"definition",
+"A core protocol of the Internet protocol suite that provides reliable, ordered, and error-checked delivery of data"
+],
+[
+"Hypertext Markup Language",
+"definition",
+"The standard markup language for documents designed to be displayed in a web browser"
+],
+[
+"Cascading Style Sheets",
+"definition",
+"A style sheet language used for describing the presentation of a document written in HTML or XML"
+],
+[
+"JavaScript",
+"definition",
+"A programming language that enables interactive web pages and is a core technology of the World Wide Web"
+],
+[
+"Web browser",
+"definition",
+"A software application for accessing information on the World Wide Web"
+],
+[
+"Search engine",
+"definition",
+"A software system designed to carry out web searches"
+],
+[
+"Google",
+"created_by",
+"Larry Page and Sergey Brin"
+],
+[
+"Google",
+"location",
+"Mountain View, California"
+],
+[
+"Facebook",
+"created_by",
+"Mark Zuckerberg"
+],
+[
+"Facebook",
+"location",
+"Menlo Park, California"
+],
+[
+"Twitter",
+"created_by",
+"Jack Dorsey, Noah Glass, Biz Stone, Evan Williams"
+],
+[
+"Twitter",
+"location",
+"San Francisco, California"
+],
+[
+"Wikipedia",
+"created_by",
+"Jimmy Wales and Larry Sanger"
+],
+[
+"Wikipedia",
+"location",
+"global"
+],
+[
+"Email",
+"definition",
+"A method of exchanging messages between people using electronic devices"
+],
+[
+"Simple Mail Transfer Protocol",
+"definition",
+"An Internet standard for electronic mail transmission"
+],
+[
+"File Transfer Protocol",
+"definition",
+"A standard network protocol used for the transfer of computer files between a client and server on a computer network"
+],
+[
+"Secure Shell",
+"definition",
+"A cryptographic network protocol for operating network services securely over an unsecured network"
+],
+[
+"IP address",
+"definition",
+"A numerical label assigned to each device connected to a computer network that uses the Internet Protocol for communication"
+],
+[
+"MAC address",
+"definition",
+"A unique identifier assigned to a network interface controller for use as a network address in communications within a network segment"
+],
+[
+"Router",
+"definition",
+"A networking device that forwards data packets between computer networks"
+],
+[
+"Modem",
+"definition",
+"A device that modulates and demodulates signals to encode digital information for transmission and decode it upon reception"
+],
+[
+"Firewall",
+"definition",
+"A network security system that monitors and controls incoming and outgoing network traffic based on predetermined security rules"
+],
+[
+"Cloud computing",
+"definition",
+"The delivery of computing services—including servers, storage, databases, networking, software, analytics, and intelligence—over the Internet"
+],
+[
+"Internet of Things",
+"definition",
+"The network of physical objects embedded with sensors, software, and other technologies to connect and exchange data with other devices and systems over the Internet"
+],
+[
+"Cybersecurity",
+"definition",
+"The practice of protecting systems, networks, and programs from digital attacks"
+],
+[
+"Digital divide",
+"definition",
+"The gap between demographics and regions that have access to modern information and communications technology and those that do not"
+],
+[
+"Net neutrality",
+"definition",
+"The principle that Internet service providers should treat all data on the Internet the same, not discriminating or charging differently by user, content, website, platform, application, type of attached equipment, or method of communication"
+],
+[
+"What is the difference between the Internet and the World Wide Web?",
+"answer",
+"The Internet is a global network of interconnected computers, while the World Wide Web is a system of interlinked hypertext documents accessed via the Internet using web browsers."
+],
+[
+"Who invented the World Wide Web?",
+"answer",
+"Tim Berners-Lee invented the World Wide Web in 1989 while working at CERN."
+],
+[
+"What does HTTP stand for?",
+"answer",
+"HTTP stands for Hypertext Transfer Protocol."
+],
+[
+"What is the purpose of a URL?",
+"answer",
+"A URL (Uniform Resource Locator) specifies the address of a resource on the web and how to retrieve it."
+],
+[
+"What protocol is used to send and receive email?",
+"answer",
+"Email is typically sent and received using the Simple Mail Transfer Protocol (SMTP) for sending and IMAP or POP3 for receiving."
+],
+[
+"What is an IP address?",
+"answer",
+"An IP address is a unique numerical label assigned to each device connected to a computer network that uses the Internet Protocol for communication."
+],
+[
+"What does DNS stand for and what does it do?",
+"answer",
+"DNS stands for Domain Name System and translates human-readable domain names into IP addresses."
+],
+[
+"What is a web browser?",
+"answer",
+"A web browser is a software application used to retrieve, render, and display content from the World Wide Web."
+],
+[
+"What is HTML used for?",
+"answer",
+"HTML (Hypertext Markup Language) is used to structure and present content on web pages."
+],
+[
+"What is the function of a router in a home network?",
+"answer",
+"A router directs data packets between devices on a local network and between the local network and the Internet."
+],
+[
+"What is HTTPS and why is it more secure than HTTP?",
+"answer",
+"HTTPS is HTTP secured with TLS/SSL encryption, protecting data transmitted between a user's browser and a website from interception or tampering."
+],
+[
+"What is a cookie in web browsing?",
+"answer",
+"A cookie is a small piece of data stored on a user's device by a website to remember information about the user, such as login status or preferences."
+],
+[
+"What does ISP stand for?",
+"answer",
+"ISP stands for Internet Service Provider, a company that provides individuals and organizations access to the Internet."
+],
+[
+"What is bandwidth in the context of internet connections?",
+"answer",
+"Bandwidth refers to the maximum rate of data transfer across a network connection, typically measured in bits per second."
+],
+[
+"What is a firewall?",
+"answer",
+"A firewall is a network security system that monitors and controls incoming and outgoing network traffic based on predetermined security rules."
+],
+[
+"What is cloud computing?",
+"answer",
+"Cloud computing is the delivery of computing services—including servers, storage, databases, networking, software, and analytics—over the Internet."
+],
+[
+"What is a search engine?",
+"answer",
+"A search engine is a web-based tool that indexes and retrieves information from the web in response to user queries."
+],
+[
+"What is the purpose of the 'www' in a web address?",
+"answer",
+"The 'www' subdomain traditionally indicates that a host is part of the World Wide Web, though it is not technically required."
+],
+[
+"What is phishing?",
+"answer",
+"Phishing is a fraudulent attempt to obtain sensitive information by disguising as a trustworthy entity in electronic communication."
+],
+[
+"What is two-factor authentication (2FA)?",
+"answer",
+"Two-factor authentication is a security process requiring two different forms of verification to access an account, such as a password and a code from a mobile device."
+],
+[
+"What is a VPN and what does it do?",
+"answer",
+"A VPN (Virtual Private Network) creates a secure, encrypted connection over a less secure network, such as the Internet, to protect privacy and bypass geographic restrictions."
+],
+[
+"What is net neutrality?",
+"answer",
+"Net neutrality is the principle that Internet service providers should treat all data on the Internet equally, without discriminating or charging differently by user, content, website, or platform."
+],
+[
+"What is a server in the context of the web?",
+"answer",
+"A server is a computer or system that provides resources, data, services, or programs to other computers, known as clients, over a network."
+],
+[
+"What is JavaScript used for on websites?",
+"answer",
+"JavaScript is a programming language used to add interactivity, dynamic content, and client-side functionality to web pages."
+],
+[
+"What is a domain name?",
+"answer",
+"A domain name is a human-readable address used to identify a website on the Internet, such as example.com."
+],
+[
+"What is the role of a web host?",
+"answer",
+"A web host provides the technologies and services needed for a website to be viewed on the Internet, including server space and connectivity."
+],
+[
+"What is AJAX?",
+"answer",
+"AJAX (Asynchronous JavaScript and XML) is a technique used to update parts of a web page without reloading the entire page."
+],
+[
+"What is responsive web design?",
+"answer",
+"Responsive web design is an approach to web development that ensures web pages render well on a variety of devices and window or screen sizes."
+],
+[
+"What is the purpose of the 'robots.txt' file?",
+"answer",
+"The robots.txt file instructs web crawlers which pages or sections of a website should not be accessed or indexed."
+],
+[
+"What is a 404 error?",
+"answer",
+"A 404 error is an HTTP status code indicating that the server could not find the requested resource."
+],
+[
+"What is the difference between GET and POST HTTP methods?",
+"answer",
+"GET retrieves data from a server and appends parameters to the URL, while POST sends data to a server in the request body, typically for submitting forms."
+],
+[
+"What is a CDN?",
+"answer",
+"A CDN (Content Delivery Network) is a geographically distributed network of servers that delivers web content to users based on their geographic location to improve loading speed and reliability."
+],
+[
+"What is the function of a modem?",
+"answer",
+"A modem modulates and demodulates signals to enable digital data to be transmitted over analog communication channels, such as telephone or cable lines."
+],
+[
+"What is the Internet of Things (IoT)?",
+"answer",
+"The Internet of Things (IoT) refers to the network of physical objects embedded with sensors, software, and connectivity to exchange data over the Internet."
+],
+[
+"What is open source software?",
+"answer",
+"Open source software is software whose source code is made available for anyone to inspect, modify, and enhance."
+],
+[
+"What is the purpose of SSL/TLS certificates?",
+"answer",
+"SSL/TLS certificates authenticate the identity of a website and enable encrypted communication between the web server and the browser."
+],
+[
+"What is a web API?",
+"answer",
+"A web API (Application Programming Interface) allows different software applications to communicate with each other over the Internet using standard protocols like HTTP."
+],
+[
+"What is the difference between a static and a dynamic web page?",
+"answer",
+"A static web page displays the same content to every user, while a dynamic web page generates content in real time based on user input, database queries, or other variables."
+],
+[
+"What is the role of CSS in web design?",
+"answer",
+"CSS (Cascading Style Sheets) is used to control the presentation, layout, and visual appearance of web pages written in HTML or XML."
+],
+[
+"What is the significance of port 80 and port 443?",
+"answer",
+"Port 80 is the default port for HTTP traffic, and port 443 is the default port for HTTPS traffic."
+],
+[
+"What is a proxy server?",
+"answer",
+"A proxy server acts as an intermediary between a user's device and the Internet, forwarding requests and responses while potentially providing caching, filtering, or anonymity."
+],
+[
+"What is the purpose of the 'alt' attribute in an HTML image tag?",
+"answer",
+"The 'alt' attribute provides alternative text for an image, which is displayed if the image cannot be loaded and is important for accessibility and SEO."
+],
+[
+"What is the difference between intranet and extranet?",
+"answer",
+"An intranet is a private network accessible only to an organization's members, while an extranet extends intranet access to authorized external users such as partners or clients."
+],
+[
+"Apple",
+"created_by",
+"Steve Jobs"
+],
+[
+"Microsoft",
+"created_by",
+"Bill Gates"
+],
+[
+"Amazon",
+"created_by",
+"Jeff Bezos"
+],
+[
+"Google",
+"created_by",
+"Larry Page"
+],
+[
+"Tesla",
+"created_by",
+"Elon Musk"
+],
+[
+"Netflix",
+"created_by",
+"Reed Hastings"
+],
+[
+"Starbucks",
+"created_by",
+"Jerry Baldwin"
+],
+[
+"Walmart",
+"created_by",
+"Sam Walton"
+],
+[
+"Coca-Cola",
+"created_by",
+"John Pemberton"
+],
+[
+"Nike",
+"created_by",
+"Phil Knight"
+],
+[
+"Adidas",
+"created_by",
+"Adolf Dassler"
+],
+[
+"Puma",
+"created_by",
+"Rudolf Dassler"
+],
+[
+"Intel",
+"created_by",
+"Robert Noyce"
+],
+[
+"Oracle",
+"created_by",
+"Larry Ellison"
+],
+[
+"IBM",
+"created_by",
+"Charles Ranlett Flint"
+],
+[
+"Samsung",
+"created_by",
+"Lee Byung-chul"
+],
+[
+"Toyota",
+"created_by",
+"Kiichiro Toyoda"
+],
+[
+"Ford",
+"created_by",
+"Henry Ford"
+],
+[
+"Boeing",
+"created_by",
+"William E. Boeing"
+],
+[
+"Disney",
+"created_by",
+"Walt Disney"
+],
+[
+"McDonald's",
+"created_by",
+"Richard McDonald"
+],
+[
+"Who founded Apple Inc.?",
+"answer",
+"Steve Jobs co-founded Apple Inc. with Steve Wozniak and Ronald Wayne in 1976."
+],
+[
+"Who founded Microsoft?",
+"answer",
+"Bill Gates co-founded Microsoft with Paul Allen in 1975."
+],
+[
+"Who founded Amazon?",
+"answer",
+"Jeff Bezos founded Amazon in 1994."
+],
+[
+"Who founded Google?",
+"answer",
+"Larry Page and Sergey Brin founded Google in 1998."
+],
+[
+"Who founded Tesla, Inc.?",
+"answer",
+"Elon Musk joined Tesla Motors in 2004 and is widely recognized as its co-founder and CEO, though the company was originally founded by Martin Eberhard and Marc Tarpenning in 2003."
+],
+[
+"Who founded Facebook?",
+"answer",
+"Mark Zuckerberg founded Facebook in 2004 while attending Harvard University."
+],
+[
+"Who founded The Walt Disney Company?",
+"answer",
+"Walt Disney founded The Walt Disney Company with his brother Roy O. Disney in 1923."
+],
+[
+"Who founded Coca-Cola?",
+"answer",
+"John Stith Pemberton invented Coca-Cola in 1886, and Asa Griggs Candler later acquired the brand and incorporated The Coca-Cola Company in 1892."
+],
+[
+"Who founded Nike?",
+"answer",
+"Phil Knight and Bill Bowerman founded Nike, Inc. in 1964 as Blue Ribbon Sports, later renamed Nike in 1971."
+],
+[
+"Who founded Starbucks?",
+"answer",
+"Starbucks was founded in 1971 by Jerry Baldwin, Zev Siegl, and Gordon Bowker in Seattle."
+],
+[
+"Who founded McDonald's?",
+"answer",
+"Richard and Maurice McDonald founded the original McDonald's restaurant in 1940; Ray Kroc later joined and expanded it into a franchise system starting in 1955."
+],
+[
+"Who founded IBM?",
+"answer",
+"IBM was formed in 1911 through the merger of several companies, including the Computing-Tabulating-Recording Company (CTR), which was founded by Charles Ranlett Flint."
+],
+[
+"Who founded Toyota Motor Corporation?",
+"answer",
+"Kiichiro Toyoda founded Toyota Motor Corporation in 1937 as a spin-off from his father's company, Toyoda Automatic Loom Works."
+],
+[
+"Who founded Samsung?",
+"answer",
+"Lee Byung-chul founded Samsung as a trading company in 1938."
+],
+[
+"Who founded Oracle Corporation?",
+"answer",
+"Larry Ellison, Bob Miner, and Ed Oates founded Oracle Corporation in 1977."
+],
+[
+"Who founded Adobe Inc.?",
+"answer",
+"John Warnock and Charles Geschke founded Adobe Inc. in 1982."
+],
+[
+"Who founded Intel Corporation?",
+"answer",
+"Gordon Moore and Robert Noyce founded Intel Corporation in 1968."
+],
+[
+"Who founded PayPal?",
+"answer",
+"PayPal was founded in 1998 as Confinity by Max Levchin, Peter Thiel, and Luke Nosek; it later merged with X.com, founded by Elon Musk."
+],
+[
+"Who founded Twitter (now X)?",
+"answer",
+"Jack Dorsey, Noah Glass, Biz Stone, and Evan Williams co-founded Twitter in 2006."
+],
+[
+"Who founded LinkedIn?",
+"answer",
+"Reid Hoffman co-founded LinkedIn in 2002 with Allen Blue, Konstantin Guericke, Eric Ly, and Jean-Luc Vaillant."
+],
+[
+"Who founded Netflix?",
+"answer",
+"Reed Hastings and Marc Randolph founded Netflix in 1997."
+],
+[
+"Who founded SpaceX?",
+"answer",
+"Elon Musk founded SpaceX in 2002."
+],
+[
+"Who founded Alibaba Group?",
+"answer",
+"Jack Ma founded Alibaba Group in 1999."
+],
+[
+"Who founded Walmart?",
+"answer",
+"Sam Walton founded Walmart in 1962."
+],
+[
+"Who founded Ford Motor Company?",
+"answer",
+"Henry Ford founded Ford Motor Company in 1903."
+],
+[
+"Who founded General Electric?",
+"answer",
+"Thomas Edison, Charles Coffin, Elihu Thomson, and Edwin J. Houston were key figures in the formation of General Electric, which was created in 1892 through the merger of Edison General Electric and Thomson-Houston Electric Company."
+],
+[
+"Who founded BMW?",
+"answer",
+"BMW was founded in 1916 as Bayerische Flugzeugwerke AG, later renamed Bayerische Motoren Werke (BMW) in 1922; its origins trace to Karl Rapp and Gustav Otto."
+],
+[
+"Who founded Sony?",
+"answer",
+"Masaru Ibuka and Akio Morita founded Sony in 1946 as Tokyo Tsushin Kogyo K.K."
+],
+[
+"Who founded Visa?",
+"answer",
+"Visa originated from Bank of America's BankAmericard program in 1958; it was later spun off and incorporated as Visa Inc. in 2007 by a consortium of banks."
+],
+[
+"Who founded Mastercard?",
+"answer",
+"Mastercard was created in 1966 as Interbank Card Association by a group of California banks; it was renamed Mastercard in 1979."
+],
+[
+"Who founded Uber?",
+"answer",
+"Travis Kalanick and Garrett Camp founded Uber in 2009."
+],
+[
+"Who founded Airbnb?",
+"answer",
+"Brian Chesky, Joe Gebbia, and Nathan Blecharczyk founded Airbnb in 2008."
+],
+[
+"Who founded Shopify?",
+"answer",
+"Tobias Lütke, Daniel Weinand, and Scott Lake founded Shopify in 2006."
+],
+[
+"Who founded Zoom Video Communications?",
+"answer",
+"Eric Yuan founded Zoom Video Communications in 2011."
+],
+[
+"Who founded Salesforce?",
+"answer",
+"Marc Benioff, Parker Harris, Dave Moellenhoff, and Frank Dominguez founded Salesforce in 1999."
+],
+[
+"Who founded Dell Technologies?",
+"answer",
+"Michael Dell founded Dell Technologies in 1984."
+],
+[
+"Who founded Lockheed Martin?",
+"answer",
+"Lockheed Martin was formed in 1995 by the merger of Lockheed Corporation and Martin Marietta; Lockheed Corporation traces back to Allan and Malcolm Loughead, who founded the Loughead Aircraft Manufacturing Company in 1912."
+],
+[
+"Who founded Boeing?",
+"answer",
+"William E. Boeing founded Boeing in 1916."
+],
+[
+"Who founded The New York Times?",
+"answer",
+"Henry Jarvis Raymond and George Jones founded The New York Times in 1851."
+],
+[
+"Who founded Wikipedia?",
+"answer",
+"Jimmy Wales and Larry Sanger co-founded Wikipedia in 2001."
+]
+],
+"meta": [
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 0.8,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 0.8,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 0.8,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 0.8,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 0.8,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 0.8,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 0.8,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 0.8,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 0.8,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 0.8,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 0.8,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 0.8,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 0.8,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 0.8,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 0.8,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 0.8,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 0.8,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 0.8,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 0.8,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 0.8,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 0.8,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 0.8,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 0.8,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 0.8,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 0.8,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 0.8,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 0.8,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 0.8,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 0.8,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 0.8,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 0.8,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 0.8,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 0.8,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 0.8,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 0.8,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 0.8,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 0.8,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 0.8,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 0.8,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 0.8,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 0.8,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 0.8,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 0.8,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 0.8,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 0.8,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 0.8,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 0.8,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 0.8,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 0.8,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 0.8,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 0.8,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 0.8,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 0.8,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 0.8,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 0.8,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 0.8,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 0.8,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 0.8,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 0.8,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 0.8,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 0.8,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 0.8,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 0.8,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 0.8,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 0.8,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 0.8,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 0.8,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 0.8,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 0.8,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 0.8,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 0.8,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 0.8,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 0.8,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 0.8,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 0.8,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 0.8,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 0.8,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 0.8,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 0.8,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 0.8,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 0.8,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 0.8,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 0.8,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 0.8,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 0.8,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 0.8,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 0.8,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 0.8,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 0.8,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 0.8,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 0.8,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 0.8,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 0.8,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 0.8,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 0.8,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 0.8,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 0.8,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 0.8,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 0.8,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 0.8,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 0.8,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 0.8,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 0.8,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 0.8,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 0.8,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 0.8,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 0.8,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 0.8,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 0.8,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 0.8,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 0.8,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 0.8,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 0.8,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 0.8,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 0.8,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 0.8,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 0.8,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 0.8,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 0.8,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 0.8,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 0.8,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 0.8,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 0.8,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 0.8,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 0.8,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 0.8,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 0.8,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 0.8,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 0.8,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 0.8,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 0.8,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 0.8,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 0.8,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 0.8,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 0.8,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 0.8,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 0.8,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 0.8,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 0.8,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 0.8,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 0.8,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 0.8,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 0.8,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 0.8,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 0.8,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 0.8,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 0.8,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 0.8,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 0.8,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 0.8,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 0.8,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 0.8,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 0.8,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 0.8,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 0.8,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 0.8,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 0.8,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 0.8,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 0.8,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 0.8,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 0.8,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 0.8,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 0.8,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 0.8,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 0.8,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+}
+]
+}

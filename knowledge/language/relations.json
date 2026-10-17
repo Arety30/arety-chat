@@ -1,0 +1,1325 @@
+{
+"node": "language",
+"subnode": "relations",
+"topics": [
+"ways people phrase a relation (e.g. 'who made', 'who built', 'inventor of' -> created_by)",
+"question phrasings for capital, location, definition, creator, population, currency, language"
+],
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+],
+"generated": "2026-10-08T17:31:59Z",
+"count": 109,
+"facts": [
+[
+"who made",
+"alias_of",
+"created_by"
+],
+[
+"who built",
+"alias_of",
+"created_by"
+],
+[
+"inventor of",
+"alias_of",
+"created_by"
+],
+[
+"created by",
+"alias_of",
+"created_by"
+],
+[
+"designed by",
+"alias_of",
+"created_by"
+],
+[
+"author of",
+"alias_of",
+"created_by"
+],
+[
+"written by",
+"alias_of",
+"created_by"
+],
+[
+"composed by",
+"alias_of",
+"created_by"
+],
+[
+"founded by",
+"alias_of",
+"created_by"
+],
+[
+"established by",
+"alias_of",
+"created_by"
+],
+[
+"capital city",
+"alias_of",
+"capital"
+],
+[
+"capital of",
+"alias_of",
+"capital"
+],
+[
+"where is the capital",
+"alias_of",
+"capital"
+],
+[
+"what is the capital",
+"alias_of",
+"capital"
+],
+[
+"location of",
+"alias_of",
+"location"
+],
+[
+"where is",
+"alias_of",
+"location"
+],
+[
+"where can I find",
+"alias_of",
+"location"
+],
+[
+"situated in",
+"alias_of",
+"location"
+],
+[
+"located in",
+"alias_of",
+"location"
+],
+[
+"is a",
+"alias_of",
+"is_a"
+],
+[
+"are a",
+"alias_of",
+"is_a"
+],
+[
+"type of",
+"alias_of",
+"is_a"
+],
+[
+"kind of",
+"alias_of",
+"is_a"
+],
+[
+"example of",
+"alias_of",
+"is_a"
+],
+[
+"belongs to",
+"alias_of",
+"is_a"
+],
+[
+"what is",
+"alias_of",
+"definition"
+],
+[
+"define",
+"alias_of",
+"definition"
+],
+[
+"meaning of",
+"alias_of",
+"definition"
+],
+[
+"what does mean",
+"alias_of",
+"definition"
+],
+[
+"currency of",
+"alias_of",
+"currency"
+],
+[
+"what money do they use",
+"alias_of",
+"currency"
+],
+[
+"official currency",
+"alias_of",
+"currency"
+],
+[
+"language spoken",
+"alias_of",
+"language"
+],
+[
+"what language",
+"alias_of",
+"language"
+],
+[
+"official language",
+"alias_of",
+"language"
+],
+[
+"population of",
+"alias_of",
+"population"
+],
+[
+"how many people",
+"alias_of",
+"population"
+],
+[
+"number of inhabitants",
+"alias_of",
+"population"
+],
+[
+"symbol for",
+"alias_of",
+"symbol"
+],
+[
+"symbol of",
+"alias_of",
+"symbol"
+],
+[
+"atomic number of",
+"alias_of",
+"atomic_number"
+],
+[
+"what is the atomic number",
+"alias_of",
+"atomic_number"
+],
+[
+"chemical formula",
+"alias_of",
+"formula"
+],
+[
+"molecular formula",
+"alias_of",
+"formula"
+],
+[
+"boiling point of",
+"alias_of",
+"boiling_point"
+],
+[
+"at what temperature does it boil",
+"alias_of",
+"boiling_point"
+],
+[
+"freezing point of",
+"alias_of",
+"freezing_point"
+],
+[
+"melting point of",
+"alias_of",
+"freezing_point"
+],
+[
+"speed of",
+"alias_of",
+"speed"
+],
+[
+"how fast is",
+"alias_of",
+"speed"
+],
+[
+"largest",
+"alias_of",
+"largest"
+],
+[
+"biggest",
+"alias_of",
+"largest"
+],
+[
+"greatest in size",
+"alias_of",
+"largest"
+],
+[
+"smallest",
+"alias_of",
+"smallest"
+],
+[
+"tiniest",
+"alias_of",
+"smallest"
+],
+[
+"least in size",
+"alias_of",
+"smallest"
+],
+[
+"tallest",
+"alias_of",
+"tallest"
+],
+[
+"highest",
+"alias_of",
+"tallest"
+],
+[
+"longest",
+"alias_of",
+"longest"
+],
+[
+"birthplace of",
+"alias_of",
+"birthplace"
+],
+[
+"where was born",
+"alias_of",
+"birthplace"
+],
+[
+"birthday of",
+"alias_of",
+"birthday"
+],
+[
+"when was born",
+"alias_of",
+"birthday"
+],
+[
+"date of birth",
+"alias_of",
+"birthday"
+],
+[
+"president of",
+"alias_of",
+"president"
+],
+[
+"who is the president",
+"alias_of",
+"president"
+],
+[
+"ruler of",
+"alias_of",
+"ruler"
+],
+[
+"who rules",
+"alias_of",
+"ruler"
+],
+[
+"monarch of",
+"alias_of",
+"ruler"
+],
+[
+"implies",
+"alias_of",
+"implies"
+],
+[
+"means that",
+"alias_of",
+"implies"
+],
+[
+"suggests that",
+"alias_of",
+"implies"
+],
+[
+"alias of",
+"alias_of",
+"alias_of"
+],
+[
+"also known as",
+"alias_of",
+"alias_of"
+],
+[
+"aka",
+"alias_of",
+"alias_of"
+],
+[
+"what is the answer",
+"alias_of",
+"answer"
+],
+[
+"solve for",
+"alias_of",
+"answer"
+],
+[
+"synonym of",
+"alias_of",
+"synonym"
+],
+[
+"same meaning as",
+"alias_of",
+"synonym"
+],
+[
+"opposite of",
+"alias_of",
+"opposite"
+],
+[
+"antonym of",
+"alias_of",
+"opposite"
+],
+[
+"what is the capital of",
+"alias_of",
+"capital"
+],
+[
+"capital city of",
+"alias_of",
+"capital"
+],
+[
+"where is the capital of",
+"alias_of",
+"capital"
+],
+[
+"what city is the capital of",
+"alias_of",
+"capital"
+],
+[
+"where is it located",
+"alias_of",
+"location"
+],
+[
+"what country is",
+"alias_of",
+"location"
+],
+[
+"what is the definition of",
+"alias_of",
+"definition"
+],
+[
+"what does",
+"alias_of",
+"definition"
+],
+[
+"who created",
+"alias_of",
+"created_by"
+],
+[
+"who developed",
+"alias_of",
+"created_by"
+],
+[
+"what is the population of",
+"alias_of",
+"population"
+],
+[
+"how many people live in",
+"alias_of",
+"population"
+],
+[
+"how populous is",
+"alias_of",
+"population"
+],
+[
+"what currency does",
+"alias_of",
+"currency"
+],
+[
+"what money is used in",
+"alias_of",
+"currency"
+],
+[
+"what language is spoken in",
+"alias_of",
+"language"
+],
+[
+"what language do they speak in",
+"alias_of",
+"language"
+],
+[
+"official language of",
+"alias_of",
+"language"
+],
+[
+"language of",
+"alias_of",
+"language"
+],
+[
+"where is the capital located",
+"alias_of",
+"capital"
+],
+[
+"what is the meaning of",
+"alias_of",
+"definition"
+],
+[
+"explain",
+"alias_of",
+"definition"
+],
+[
+"who invented",
+"alias_of",
+"created_by"
+],
+[
+"who founded",
+"alias_of",
+"created_by"
+],
+[
+"what is the population",
+"alias_of",
+"population"
+],
+[
+"what is the currency",
+"alias_of",
+"currency"
+],
+[
+"what language do they speak",
+"alias_of",
+"language"
+],
+[
+"what is the language",
+"alias_of",
+"language"
+]
+],
+"meta": [
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+}
+]
+}

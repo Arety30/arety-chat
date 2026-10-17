@@ -1,0 +1,1423 @@
+{
+"node": "language",
+"subnode": "lexicon",
+"topics": [
+"common English nouns with one-line definitions",
+"common verbs with one-line definitions",
+"adjectives and their opposites",
+"synonyms for frequent words"
+],
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+],
+"generated": "2026-10-08T17:31:47Z",
+"count": 117,
+"facts": [
+[
+"run",
+"definition",
+"to move swiftly on foot so that both feet leave the ground during each step"
+],
+[
+"eat",
+"definition",
+"to take food into the mouth, chew, and swallow it"
+],
+[
+"sleep",
+"definition",
+"to rest in a state of reduced consciousness and metabolic activity"
+],
+[
+"speak",
+"definition",
+"to utter words or sounds with the voice"
+],
+[
+"write",
+"definition",
+"to form letters or symbols on a surface to convey meaning"
+],
+[
+"read",
+"definition",
+"to look at and comprehend the meaning of written or printed matter"
+],
+[
+"think",
+"definition",
+"to use the mind to consider, reason, or reflect"
+],
+[
+"see",
+"definition",
+"to perceive with the eyes; to discern visually"
+],
+[
+"hear",
+"definition",
+"to perceive sound through the ears"
+],
+[
+"feel",
+"definition",
+"to perceive through touch or emotion"
+],
+[
+"walk",
+"definition",
+"to move at a regular pace by lifting and setting down each foot in turn"
+],
+[
+"jump",
+"definition",
+"to push off a surface and propel oneself into the air"
+],
+[
+"laugh",
+"definition",
+"to express mirth or amusement by spontaneous vocal sounds"
+],
+[
+"cry",
+"definition",
+"to shed tears as an expression of emotion"
+],
+[
+"love",
+"definition",
+"to feel deep affection or attachment for someone or something"
+],
+[
+"hate",
+"definition",
+"to feel intense dislike or hostility toward someone or something"
+],
+[
+"help",
+"definition",
+"to give assistance or support to someone"
+],
+[
+"work",
+"definition",
+"to exert effort to produce or accomplish something"
+],
+[
+"play",
+"definition",
+"to engage in activity for enjoyment or recreation"
+],
+[
+"study",
+"definition",
+"to devote time and attention to gaining knowledge of a subject"
+],
+[
+"teach",
+"definition",
+"to impart knowledge or skill to another"
+],
+[
+"learn",
+"definition",
+"to acquire knowledge or skill through experience or study"
+],
+[
+"build",
+"definition",
+"to construct by putting parts or materials together"
+],
+[
+"break",
+"definition",
+"to cause to separate into pieces suddenly or violently"
+],
+[
+"open",
+"definition",
+"to move or adjust so as to allow passage through"
+],
+[
+"close",
+"definition",
+"to move or adjust so as to block passage through"
+],
+[
+"start",
+"definition",
+"to begin or set in motion"
+],
+[
+"stop",
+"definition",
+"to cease movement or action"
+],
+[
+"give",
+"definition",
+"to voluntarily transfer possession of something to another"
+],
+[
+"take",
+"definition",
+"to get into one's possession or control by voluntary action"
+],
+[
+"find",
+"definition",
+"to discover or locate something after searching"
+],
+[
+"lose",
+"definition",
+"to be deprived of something previously possessed"
+],
+[
+"know",
+"definition",
+"to have understanding or awareness of something through experience or study"
+],
+[
+"believe",
+"definition",
+"to accept something as true or real"
+],
+[
+"hope",
+"definition",
+"to desire something with expectation of its fulfillment"
+],
+[
+"wait",
+"definition",
+"to remain inactive or in a state of expectation until something happens"
+],
+[
+"call",
+"definition",
+"to speak loudly to attract attention or to communicate by telephone"
+],
+[
+"ask",
+"definition",
+"to request information or action from someone"
+],
+[
+"answer",
+"definition",
+"to respond to a question or statement"
+],
+[
+"promise",
+"definition",
+"to declare or assure that one will do or refrain from doing something specified"
+],
+[
+"hot",
+"opposite",
+"cold"
+],
+[
+"cold",
+"opposite",
+"hot"
+],
+[
+"big",
+"opposite",
+"small"
+],
+[
+"small",
+"opposite",
+"big"
+],
+[
+"fast",
+"opposite",
+"slow"
+],
+[
+"slow",
+"opposite",
+"fast"
+],
+[
+"light",
+"opposite",
+"dark"
+],
+[
+"dark",
+"opposite",
+"light"
+],
+[
+"happy",
+"opposite",
+"sad"
+],
+[
+"sad",
+"opposite",
+"happy"
+],
+[
+"young",
+"opposite",
+"old"
+],
+[
+"old",
+"opposite",
+"young"
+],
+[
+"rich",
+"opposite",
+"poor"
+],
+[
+"poor",
+"opposite",
+"rich"
+],
+[
+"clean",
+"opposite",
+"dirty"
+],
+[
+"dirty",
+"opposite",
+"clean"
+],
+[
+"full",
+"opposite",
+"empty"
+],
+[
+"empty",
+"opposite",
+"full"
+],
+[
+"true",
+"opposite",
+"false"
+],
+[
+"false",
+"opposite",
+"true"
+],
+[
+"hard",
+"opposite",
+"soft"
+],
+[
+"soft",
+"opposite",
+"hard"
+],
+[
+"wide",
+"opposite",
+"narrow"
+],
+[
+"narrow",
+"opposite",
+"wide"
+],
+[
+"deep",
+"opposite",
+"shallow"
+],
+[
+"shallow",
+"opposite",
+"deep"
+],
+[
+"loud",
+"opposite",
+"quiet"
+],
+[
+"quiet",
+"opposite",
+"loud"
+],
+[
+"strong",
+"opposite",
+"weak"
+],
+[
+"weak",
+"opposite",
+"strong"
+],
+[
+"brave",
+"opposite",
+"cowardly"
+],
+[
+"cowardly",
+"opposite",
+"brave"
+],
+[
+"generous",
+"opposite",
+"stingy"
+],
+[
+"stingy",
+"opposite",
+"generous"
+],
+[
+"honest",
+"opposite",
+"dishonest"
+],
+[
+"dishonest",
+"opposite",
+"honest"
+],
+[
+"patient",
+"opposite",
+"impatient"
+],
+[
+"impatient",
+"opposite",
+"patient"
+],
+[
+"happy",
+"synonym",
+"joyful"
+],
+[
+"sad",
+"synonym",
+"unhappy"
+],
+[
+"big",
+"synonym",
+"large"
+],
+[
+"small",
+"synonym",
+"little"
+],
+[
+"fast",
+"synonym",
+"quick"
+],
+[
+"slow",
+"synonym",
+"sluggish"
+],
+[
+"smart",
+"synonym",
+"intelligent"
+],
+[
+"stupid",
+"synonym",
+"foolish"
+],
+[
+"good",
+"synonym",
+"excellent"
+],
+[
+"bad",
+"synonym",
+"terrible"
+],
+[
+"hot",
+"synonym",
+"warm"
+],
+[
+"cold",
+"synonym",
+"chilly"
+],
+[
+"easy",
+"synonym",
+"simple"
+],
+[
+"hard",
+"synonym",
+"difficult"
+],
+[
+"loud",
+"synonym",
+"noisy"
+],
+[
+"quiet",
+"synonym",
+"silent"
+],
+[
+"rich",
+"synonym",
+"wealthy"
+],
+[
+"poor",
+"synonym",
+"needy"
+],
+[
+"old",
+"synonym",
+"ancient"
+],
+[
+"young",
+"synonym",
+"youthful"
+],
+[
+"clean",
+"synonym",
+"spotless"
+],
+[
+"dirty",
+"synonym",
+"filthy"
+],
+[
+"brave",
+"synonym",
+"courageous"
+],
+[
+"afraid",
+"synonym",
+"fearful"
+],
+[
+"angry",
+"synonym",
+"furious"
+],
+[
+"calm",
+"synonym",
+"peaceful"
+],
+[
+"tired",
+"synonym",
+"exhausted"
+],
+[
+"awake",
+"synonym",
+"alert"
+],
+[
+"full",
+"synonym",
+"satiated"
+],
+[
+"empty",
+"synonym",
+"vacant"
+],
+[
+"new",
+"synonym",
+"fresh"
+],
+[
+"true",
+"synonym",
+"accurate"
+],
+[
+"false",
+"synonym",
+"incorrect"
+],
+[
+"begin",
+"synonym",
+"start"
+],
+[
+"end",
+"synonym",
+"finish"
+],
+[
+"help",
+"synonym",
+"assist"
+],
+[
+"hurt",
+"synonym",
+"injure"
+],
+[
+"see",
+"synonym",
+"observe"
+],
+[
+"hear",
+"synonym",
+"listen"
+]
+],
+"meta": [
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+}
+]
+}

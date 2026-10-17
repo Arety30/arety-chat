@@ -1,0 +1,1470 @@
+{
+"node": "processing",
+"subnode": "rules",
+"topics": [
+"inference rules as triples (e.g. 'X is a mammal' implies 'X is an animal')",
+"unit conversion factors",
+"comparison and ordering facts (bigger, faster, older)"
+],
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+],
+"generated": "2026-10-08T17:32:21Z",
+"count": 121,
+"facts": [
+[
+"X is a mammal",
+"implies",
+"X is an animal"
+],
+[
+"X is a bird",
+"implies",
+"X is an animal"
+],
+[
+"X is a fish",
+"implies",
+"X is an animal"
+],
+[
+"X is a reptile",
+"implies",
+"X is an animal"
+],
+[
+"X is an amphibian",
+"implies",
+"X is an animal"
+],
+[
+"X is a dog",
+"implies",
+"X is a mammal"
+],
+[
+"X is a cat",
+"implies",
+"X is a mammal"
+],
+[
+"X is a whale",
+"implies",
+"X is a mammal"
+],
+[
+"X is a bat",
+"implies",
+"X is a mammal"
+],
+[
+"X is a human",
+"implies",
+"X is a mammal"
+],
+[
+"X is a sparrow",
+"implies",
+"X is a bird"
+],
+[
+"X is an eagle",
+"implies",
+"X is a bird"
+],
+[
+"X is a penguin",
+"implies",
+"X is a bird"
+],
+[
+"X is a salmon",
+"implies",
+"X is a fish"
+],
+[
+"X is a shark",
+"implies",
+"X is a fish"
+],
+[
+"X is a tuna",
+"implies",
+"X is a fish"
+],
+[
+"X is a snake",
+"implies",
+"X is a reptile"
+],
+[
+"X is a lizard",
+"implies",
+"X is a reptile"
+],
+[
+"X is a turtle",
+"implies",
+"X is a reptile"
+],
+[
+"X is a crocodile",
+"implies",
+"X is a reptile"
+],
+[
+"X is a frog",
+"implies",
+"X is an amphibian"
+],
+[
+"X is a salamander",
+"implies",
+"X is an amphibian"
+],
+[
+"X is a toad",
+"implies",
+"X is an amphibian"
+],
+[
+"X is a newt",
+"implies",
+"X is an amphibian"
+],
+[
+"X is a square",
+"implies",
+"X is a rectangle"
+],
+[
+"X is a rectangle",
+"implies",
+"X is a quadrilateral"
+],
+[
+"X is a rhombus",
+"implies",
+"X is a parallelogram"
+],
+[
+"X is a parallelogram",
+"implies",
+"X is a quadrilateral"
+],
+[
+"X is a triangle",
+"implies",
+"X is a polygon"
+],
+[
+"X is a quadrilateral",
+"implies",
+"X is a polygon"
+],
+[
+"X is a pentagon",
+"implies",
+"X is a polygon"
+],
+[
+"X is a hexagon",
+"implies",
+"X is a polygon"
+],
+[
+"X is a circle",
+"implies",
+"X is a shape"
+],
+[
+"X is a sphere",
+"implies",
+"X is a solid"
+],
+[
+"X is a cube",
+"implies",
+"X is a solid"
+],
+[
+"X is a cylinder",
+"implies",
+"X is a solid"
+],
+[
+"X is a cone",
+"implies",
+"X is a solid"
+],
+[
+"X is a prime number",
+"implies",
+"X is a natural number greater than 1"
+],
+[
+"X is an even number",
+"implies",
+"X is divisible by 2"
+],
+[
+"X is an odd number",
+"implies",
+"X is not divisible by 2"
+],
+[
+"X is a vowel",
+"implies",
+"X is a letter"
+],
+[
+"X is a consonant",
+"implies",
+"X is a letter"
+],
+[
+"inch",
+"symbol",
+"in"
+],
+[
+"foot",
+"symbol",
+"ft"
+],
+[
+"yard",
+"symbol",
+"yd"
+],
+[
+"mile",
+"symbol",
+"mi"
+],
+[
+"millimeter",
+"symbol",
+"mm"
+],
+[
+"centimeter",
+"symbol",
+"cm"
+],
+[
+"meter",
+"symbol",
+"m"
+],
+[
+"kilometer",
+"symbol",
+"km"
+],
+[
+"inch",
+"definition",
+"unit of length equal to 1/12 of a foot"
+],
+[
+"foot",
+"definition",
+"unit of length equal to 12 inches"
+],
+[
+"yard",
+"definition",
+"unit of length equal to 3 feet"
+],
+[
+"mile",
+"definition",
+"unit of length equal to 5280 feet"
+],
+[
+"millimeter",
+"definition",
+"unit of length equal to 1/1000 of a meter"
+],
+[
+"centimeter",
+"definition",
+"unit of length equal to 1/100 of a meter"
+],
+[
+"meter",
+"definition",
+"base unit of length in the International System of Units"
+],
+[
+"kilometer",
+"definition",
+"unit of length equal to 1000 meters"
+],
+[
+"inch",
+"conversion_factor",
+"2.54"
+],
+[
+"foot",
+"conversion_factor",
+"0.3048"
+],
+[
+"yard",
+"conversion_factor",
+"0.9144"
+],
+[
+"mile",
+"conversion_factor",
+"1609.34"
+],
+[
+"millimeter",
+"conversion_factor",
+"0.001"
+],
+[
+"centimeter",
+"conversion_factor",
+"0.01"
+],
+[
+"meter",
+"conversion_factor",
+"1.0"
+],
+[
+"kilometer",
+"conversion_factor",
+"1000.0"
+],
+[
+"pound",
+"symbol",
+"lb"
+],
+[
+"ounce",
+"symbol",
+"oz"
+],
+[
+"ton",
+"symbol",
+"t"
+],
+[
+"gram",
+"symbol",
+"g"
+],
+[
+"kilogram",
+"symbol",
+"kg"
+],
+[
+"pound",
+"definition",
+"unit of mass equal to 16 ounces"
+],
+[
+"ounce",
+"definition",
+"unit of mass equal to 1/16 of a pound"
+],
+[
+"ton",
+"definition",
+"unit of mass equal to 2000 pounds"
+],
+[
+"gram",
+"definition",
+"unit of mass equal to 1/1000 of a kilogram"
+],
+[
+"kilogram",
+"definition",
+"base unit of mass in the International System of Units"
+],
+[
+"pound",
+"conversion_factor",
+"0.453592"
+],
+[
+"ounce",
+"conversion_factor",
+"0.0283495"
+],
+[
+"ton",
+"conversion_factor",
+"907.185"
+],
+[
+"gram",
+"conversion_factor",
+"0.001"
+],
+[
+"kilogram",
+"conversion_factor",
+"1.0"
+],
+[
+"Mount Everest",
+"tallest",
+"Mount Everest"
+],
+[
+"K2",
+"tallest",
+"K2"
+],
+[
+"Nile River",
+"longest",
+"Nile River"
+],
+[
+"Amazon River",
+"longest",
+"Amazon River"
+],
+[
+"Blue Whale",
+"largest",
+"Blue Whale"
+],
+[
+"African Elephant",
+"largest",
+"African Elephant"
+],
+[
+"Peregrine Falcon",
+"fastest",
+"Peregrine Falcon"
+],
+[
+"Cheetah",
+"fastest",
+"Cheetah"
+],
+[
+"Speed of Light",
+"speed",
+"299792458 m/s"
+],
+[
+"Sound in Air",
+"speed",
+"343 m/s"
+],
+[
+"Oldest Known Tree",
+"oldest",
+"Methuselah (bristlecone pine)"
+],
+[
+"Oldest Known Animal",
+"oldest",
+"Ocean Quahog (Arctica islandica)"
+],
+[
+"Oldest Known Person",
+"oldest",
+"Jeanne Calment"
+],
+[
+"Youngest Person to Climb Everest",
+"youngest",
+"Jordan Romero"
+],
+[
+"Largest Desert",
+"largest",
+"Antarctic Desert"
+],
+[
+"Largest Hot Desert",
+"largest",
+"Sahara Desert"
+],
+[
+"Deepest Ocean Trench",
+"deepest",
+"Mariana Trench"
+],
+[
+"Highest Waterfall",
+"tallest",
+"Angel Falls"
+],
+[
+"Largest Lake by Area",
+"largest",
+"Caspian Sea"
+],
+[
+"Largest Freshwater Lake by Area",
+"largest",
+"Lake Superior"
+],
+[
+"Most Populous Country",
+"population",
+"China"
+],
+[
+"Most Populous City",
+"population",
+"Tokyo"
+],
+[
+"Fastest Land Animal",
+"fastest",
+"Cheetah"
+],
+[
+"Fastest Bird",
+"fastest",
+"Peregrine Falcon"
+],
+[
+"Fastest Fish",
+"fastest",
+"Sailfish"
+],
+[
+"Oldest Continuously Inhabited City",
+"oldest",
+"Damascus"
+],
+[
+"Largest Country by Area",
+"largest",
+"Russia"
+],
+[
+"Smallest Country by Area",
+"smallest",
+"Vatican City"
+],
+[
+"Highest Capital City",
+"tallest",
+"La Paz"
+],
+[
+"Lowest Capital City",
+"smallest",
+"Baku"
+],
+[
+"Most Spoken Language",
+"language",
+"Mandarin Chinese"
+],
+[
+"Most Widely Spoken Second Language",
+"language",
+"English"
+],
+[
+"Largest Economy by GDP",
+"largest",
+"United States"
+],
+[
+"Smallest Economy by GDP",
+"smallest",
+"Tuvalu"
+],
+[
+"Longest River in Africa",
+"longest",
+"Nile River"
+],
+[
+"Longest River in South America",
+"longest",
+"Amazon River"
+],
+[
+"Tallest Building",
+"tallest",
+"Burj Khalifa"
+],
+[
+"Oldest University",
+"oldest",
+"University of al-Qarawiyyin"
+],
+[
+"Youngest Nobel Laureate",
+"youngest",
+"Malala Yousafzai"
+],
+[
+"Oldest Nobel Laureate",
+"oldest",
+"John B. Goodenough"
+]
+],
+"meta": [
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+},
+{
+"support": 1,
+"confidence": 1.0,
+"teachers": [
+"nvidia/nemotron-3-super-120b-a12b"
+]
+}
+]
+}
